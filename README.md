@@ -1,4 +1,4 @@
-# 游戏开发Github资源
+# 游戏开发资源
 
 ## 框架
 1. [Unity 基础框架-MyUnityFrameWork](https://github.com/GaoKaiHaHa/MyUnityFrameWork)
