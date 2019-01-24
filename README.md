@@ -1,5 +1,11 @@
 # 游戏开发资源
 
+## 引擎
+1. [CE游戏引擎-CRYENGINE](https://github.com/CRYTEK/CRYENGINE)
+1. [UE游戏引擎-UnrealEngine](https://github.com/EpicGames/UnrealEngine)
+1. [Vulkan图形API游戏引擎-BansheeEngine](https://github.com/BearishSun/ansheeEngine)
+1. [跨平台游戏引擎-GODOT](https://github.com/godotengine/godot)
+
 ## 框架
 1. [Unity 基础框架-MyUnityFrameWork](https://github.com/GaoKaiHaHa/MyUnityFrameWork)
 2. [Unity 游戏框架-GameFramework](https://github.com/EllanJiang/GameFramework)
@@ -13,6 +19,12 @@
 10. [Unity 游戏框架-BDFramework.Core](https://github.com/yimengfan/BDFramework.Core)
 11. [Unity 游戏框架-MyUnityFrameWork](https://github.com/GaoKaiHaHa/MyUnityFrameWork)
 12. [Unity 游戏框架-QFramework](https://github.com/liangxiegame/QFramework)
+13. [Unity ECS框架-Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp)
+14. [Unity 游戏代码库-UnityLibrary](https://github.com/UnityCommunity/UnityLibrary)
+15. [Unity 异步操作框架-C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise)
+16. [Unity 功能收集-Unity-Tricks](https://github.com/littleredhat1997/Unity-Tricks)
+17. [Unity 功能脚本集合-unity-utilities](https://github.com/TobiasWehrum/unity-utilities)
+18. [Unity 公用代码收集-SwissArmyLib](https://github.com/ArchonInteractive/SwissArmyLib)
 
 ## 示例
 1. [Unity ECS + C# Job System-Voxelman](https://github.com/keijiro/Voxelman)
@@ -22,6 +34,7 @@
 5. [Unity FPS示例-FPSSample](https://github.com/Unity-Technologies/FPSSample)
 6. [Unity 3D游戏开发包-Gamekit3D](https://github.com/Unity-Technologies/Gamekit3D)
 7. [Unity ECS官方Demo-UniteAustinTechnicalPresentation](https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation)
+8. [Unity Job System示例-job-system-cookbook](https://github.com/stella3d/job-system-cookbook)
 
 
 ## C#
@@ -31,17 +44,27 @@
 4. [Unity 无GC的字符串类-MutableString](https://github.com/easy66/MutableString?1547984166425)
 5. [Unity 使用c++和汇编与C#交互-UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting)
 6. [Unity 高性能的字符串类-FastString](https://github.com/snozbot/FastString)
+7. [C#实现非常漂亮的图表库-Live-Charts/Live-Charts](https://github.com/Live-Charts/Live-Charts)
 
 ## 算法
 1. [Unity 伪随机数-UnityRandom](https://github.com/tucano/UnityRandom)
 2. [Unity 增强的触发器-Enhanced-Trigger-Box](https://github.com/Alexander-Scott/Enhanced-Trigger-Box)
 3. [Unity A*寻路极致优化-Simple-optimized-A-Pathfinder](https://github.com/badawe/Simple-optimized-A-Pathfinder)
 4. [Unity 自动LOD优化-AutoLOD](https://github.com/Unity-Technologies/AutoLOD)
-5. [Unity API多线程访问-UnityLoom](https://github.com/cathy33/UnityLoom)
+5. [Unity 多线程访问API-UnityLoom](https://github.com/cathy33/UnityLoom)
+6. [Unity 八叉树实现-UnityOctree](https://github.com/Nition/UnityOctree)
+7. [Unity 设计模式-Unity-Design-Pattern](https://github.com/QianMo/Unity-Design-Pattern)
+8. [Unity C#数据结构和算法-C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms)
+9. [Unity 18种曲线算法-unity-curve-utils](https://github.com/baba-s/unity-curve-utils)
+10. [C++ 数据结构和算法-algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures)
 
 ## 资源
 1. [Unity AssetBundle框架-KEngine](https://github.com/mr-kelly/KEngine)
 2. [Unity 资源管理框架-UnityResourceMgr](https://github.com/billwillman/UnityResourceMgr)
+3. [Unity AssetBundle管理-zcode-AssetBundlePacker](https://github.com/xtqqksszml/zcode-AssetBundlePacker?1548164429273)
+4. [Unity AssetBundle浏览导出工具-AssetStudio](https://github.com/Perfare/AssetStudio)
+5. [Unity AssetBundle管理和打包-xasset](https://github.com/fengjiyuan/xasset)
+6. [Unity 官方AssetBundle工具-AssetBundles-Browser](https://github.com/Unity-Technologies/AssetBundles-Browser)
 
 ## 网络
 1.  [Unity 基于Unity做的帧同步Demo,ECS架构-UnityLockStepDemo](https://github.com/GaoKaiHaHa/UnityLockStepDemo)
@@ -65,10 +88,18 @@
 12.  [Unity 简单的UGUI框架-Unity-UI-Framework](https://github.com/MrNerverDie/Unity-UI-Framework)
 13.  [Unity UGUI图文混排-TextInlineSprite](https://github.com/coding2233/TextInlineSprite)
 14.  [Unity ScrollView循环滚动优化-LoopScrollRect](https://github.com/qiankanglai/LoopScrollRect)
+15.  [Unity 列表视图循环利用-addcomponent-unity-recyclable-listview](https://github.com/tomazsaraiva/addcomponent-unity-recyclable-listview)
+16.  [Unity 列表视图循环利用-UnityTableView](https://github.com/lilianerhan/UnityTableView)
+17.  [Unity UGUI动画进度条-ugui-animated-progressbar](https://github.com/baba-s/ugui-animated-progressbar)
+18.  [Unity 超强UGUI Scrollview扩展-ugui-super-scrollview-example](https://github.com/baba-s/ugui-super-scrollview-example)
+19.  [Unity UI文本打字组件-TypeText](https://github.com/synchrok/TypeText)
+20.  [Unity 卡牌3D滚动效果-EnhancedScrollView](https://github.com/tinyantstudio/EnhancedScrollView)
+21.  [Unity 强大的UI框架-FairyGUI-unity](https://github.com/fairygui/FairyGUI-unity)
 
 ## 性能
 1. [Unity 超强性能监视器-graphy](https://github.com/Tayx94/graphy)
 2. [Unity CE性能调试工具-renderdoc](https://github.com/baldurk/renderdoc)
+3. [Unity 官方合批被打断的各种情况-BatchBreakingCause](https://github.com/Unity-Technologies/BatchBreakingCause)
 
 
 ## 图形
@@ -96,6 +127,7 @@
 14. [Unity ShaderToy转UnityShader-ShaderMan](https://github.com/smkplus/ShaderMan)
 15. [Unity 无光照shader优化-Unity-OptimalUnlitShader](https://github.com/azixMcAze/Unity-OptimalUnlitShader)
 16. [Uiity Shader效果库-UnityVisualizations](https://github.com/WorldOfZero/UnityVisualizations)
+17. [Unity 书籍《Unity Shader入门精要》源代码-Unity_Shaders_Book](https://github.com/candycat1992/Unity_Shaders_Book)
 
 ## 动画
 1. [Unity 大规模群体动画渲染-Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters)
@@ -117,6 +149,10 @@
 11. [Unity 基于颜色深度和法线描边-KinoContour](https://github.com/keijiro/KinoContour)
 12. [Unity 次时代的海洋-Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen)
 13. [Unity 高级的海洋系统-crest-oceanrender](https://github.com/huwb/crest-oceanrender)
+14. [Unity 运行时设置不同的光照图-lightmap-switching-tool](https://github.com/laurenth-unity/lightmap-switching-tool)
+15. [Unity 纹理涂鸦-InkPainter](https://github.com/EsProgram/InkPainter)
+16. [Unity 图形描边-Outline-Effect](https://github.com/cakeslice/Outline-Effect)
+17. [Unity 海水浮力模拟-Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy)
 
 
 ## 工具
@@ -141,6 +177,10 @@
 19. [Unity 官方工具收集-ToolsCollection](https://github.com/Unity-Technologies/ToolsCollection)
 20. [Unity Github工具-GithubForUnity](https://github.com/github-for-unity/Unity)
 21. [Unity 场景和游戏相机同步-unity-scene-view-copier](https://github.com/Robert-K/unity-scene-view-copier)
+22. [Unity 命令行打包Package-UnityPacker](https://github.com/FatihBAKIR/UnityPacker)
+23. [Unity 命令行封装-CliWrap](https://github.com/Tyrrrz/CliWrap)
+24. [Unity Excel导入Unity-Excel-Importer-Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker)
+25. [读写Excle文件库-CsvHelper](https://github.com/JoshClose/CsvHelper)
 
 
 ## 序列化
@@ -159,13 +199,22 @@
 9. [Unity Editor下使用协程-unity-editor-coroutines](https://github.com/marijnz/unity-editor-coroutines)
 10. [Unity Inspector可排序的List-ReorderableInspector](https://github.com/SubjectNerd-Unity/ReorderableInspector)
 11. [Unity Inspector显示字典-Unity-SerializableDictionary](https://github.com/azixMcAze/Unity-SerializableDictionary)
+12. [Unity 可视化数据编辑-UNITY3D-DATA-VIEWER](https://github.com/KeyleXiao/UNITY3D-DATA-VIEWER)
+13. [Unity Inspector快速添加按钮-EasyButtons](https://github.com/madsbangh/EasyButtons)
+14. [Unity 编辑器节点框架-Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework)
+15. [Unity UGUI编辑器工具栏-ugui-toorbar](https://github.com/baba-s/ugui-toorbar)
+16. [Unity 编辑器工具栏扩展-unity-customizable-toolbar](https://github.com/baba-s/unity-customizable-toolbar)
+17. [Unity 游戏调试UI面板-uni-debug-panel](https://github.com/baba-s/uni-debug-panel)
+18. [Unity 设置工程文件扩展名使用指定应用打开-unity-open-asset-customizer](https://github.com/baba-s/unity-open-asset-customizer)
+19. [Unity 超强Inspector扩展-NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
 
 ## 脚本
 1. [Lua性能分析器-LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity)
 2. [Unity C#代码热更新-ILRuntime](https://github.com/Ourpalm/ILRuntime)
 3. [Unity C#代码热更新-cshotfix](https://github.com/qq576067421/cshotfix)
+4. [Lua热更新框架-XLua](https://github.com/Tencent/xLua)
 
-## 笔记
+## 综合
 1. [浅墨-Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 2. [miloyip-游戏程序员学习路径-game-programmer](https://github.com/miloyip/game-programmer)
 3. [PBR白皮书-PBR-White-Paper](https://github.com/QianMo/PBR-White-Paper)
@@ -176,7 +225,18 @@
 8. [游戏开发资源列表-gamedev-resources](https://github.com/Ibuprogames/gamedev-resources)
 9. [Unity游戏开发列表-awesome-unity](https://github.com/RyanNielson/awesome-unity)
 10. [Unity综合大杂烩-Unity3DTraining](https://github.com/XINCGer/Unity3DTraining)
+11. [Unity学习资源-StudyUnity](https://github.com/AllenKashiwa/StudyUnity)
 
 ##  其他
 1. [Chrome 浏览器github插件-GayHub](https://github.com/crazyshader/GayHub)
 2. [游戏开发常见3500和7000字-CommonChineseCharacter](https://github.com/DavidSheh/CommonChineseCharacter)
+3. [Youtube视频下载工具-YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)
+4. [Youtube视频命令行下载工具-youtube-dl](https://github.com/rg3/youtube-dl)
+4. [Mac开发环境搭建-mac-setup](https://github.com/sb2nov/mac-setup)
+5. [科学上网必备工具-shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
+6. [XCode命令行编译工具-xcbuild](https://github.com/facebook/xcbuild)
+7. [XCode工程Python库-mod-pbxproj](https://github.com/kronenthaler/mod-pbxproj)
+8. [PList Python解析库-openstep-parser](https://github.com/kronenthaler/openstep-parser)
+9. [net跨平台UI框架-Avalonia](https://github.com/AvaloniaUI/Avalonia)
+10. [net跨平台图表框架-Microcharts](https://github.com/aloisdeniel/Microcharts)
+11. [windows平台快速开启应用入口工具-Wox](https://github.com/Wox-launcher/Wox)
