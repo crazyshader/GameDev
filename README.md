@@ -95,6 +95,7 @@
 19.  [Unity UI文本打字组件-TypeText](https://github.com/synchrok/TypeText)
 20.  [Unity 卡牌3D滚动效果-EnhancedScrollView](https://github.com/tinyantstudio/EnhancedScrollView)
 21.  [Unity 强大的UI框架-FairyGUI-unity](https://github.com/fairygui/FairyGUI-unity)
+22.  [Unity 运行时SpriteSheet动态创建-DynamicSpriteSheets](https://github.com/dusanst/DynamicSpriteSheets?1548422192338)
 
 ## 性能
 1. [Unity 超强性能监视器-graphy](https://github.com/Tayx94/graphy)
@@ -128,6 +129,8 @@
 15. [Unity 无光照shader优化-Unity-OptimalUnlitShader](https://github.com/azixMcAze/Unity-OptimalUnlitShader)
 16. [Uiity Shader效果库-UnityVisualizations](https://github.com/WorldOfZero/UnityVisualizations)
 17. [Unity 书籍《Unity Shader入门精要》源代码-Unity_Shaders_Book](https://github.com/candycat1992/Unity_Shaders_Book)
+18. [Unity 卡通渲染教程-UnityToonShader](https://github.com/IronWarrior/UnityToonShader)
+19. [Unity 超过300个Shader Demo-UnityShaders](https://github.com/knapeczadam/Unity-Shaders)
 
 ## 动画
 1. [Unity 大规模群体动画渲染-Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters)
@@ -181,6 +184,7 @@
 23. [Unity 命令行封装-CliWrap](https://github.com/Tyrrrz/CliWrap)
 24. [Unity Excel导入Unity-Excel-Importer-Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker)
 25. [读写Excle文件库-CsvHelper](https://github.com/JoshClose/CsvHelper)
+26. [Unity 路径创建工具-Path-Creator](https://github.com/SebLague/Path-Creator)
 
 
 ## 序列化
@@ -207,6 +211,7 @@
 17. [Unity 游戏调试UI面板-uni-debug-panel](https://github.com/baba-s/uni-debug-panel)
 18. [Unity 设置工程文件扩展名使用指定应用打开-unity-open-asset-customizer](https://github.com/baba-s/unity-open-asset-customizer)
 19. [Unity 超强Inspector扩展-NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
+20. [Unity Inspector扩展-UnityUtilities](https://github.com/pirhosoft/UnityUtilities)
 
 ## 脚本
 1. [Lua性能分析器-LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity)
