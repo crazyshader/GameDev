@@ -1,10 +1,13 @@
-# 游戏开发资源
+# Unity游戏开发资源
 
 ## 引擎
 - [CE游戏引擎-CRYENGINE](https://github.com/CRYTEK/CRYENGINE)
 - [UE游戏引擎-UnrealEngine](https://github.com/EpicGames/UnrealEngine)
 - [Vulkan图形API游戏引擎-BansheeEngine](https://github.com/BearishSun/ansheeEngine)
 - [跨平台游戏引擎-GODOT](https://github.com/godotengine/godot)
+- [C#开源跨平台游戏引擎-xenko](https://github.com/xenko3d/xenko)
+- [跨平台渲染框架-The-Forge](https://github.com/ConfettiFX/The-Forge)
+- [Google开源跨平台基于物理的渲染引擎-filament](https://github.com/google/filament)
 
 ## 框架
 - [Unity 基础框架-MyUnityFrameWork](https://github.com/GaoKaiHaHa/MyUnityFrameWork)
@@ -29,6 +32,12 @@
 - [Unity 代码库集合-LeopotamGroupLibraryUnity.Examples](https://github.com/Leopotam/LeopotamGroupLibraryUnity.Examples/)
 - [Unity 取代协程的async-await-Unity3dAsyncAwaitUtil](https://github.com/modesttree/Unity3dAsyncAwaitUtil)
 - [Unity 游戏框架-ColaFrameWork](https://github.com/XINCGer/ColaFrameWork)
+- [Crash 分析服务-superdump](https://github.com/Dynatrace/superdump)
+- [Unity 代码集合-Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection)
+- [Unity ECS框架-Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp)
+- [Unity 连式编程框架-UniRx - Reactive Extensions for Unity](https://assetstore.unity.com/packages/tools/integration/unirx-reactive-extensions-for-unity-17276?aid=1101lSqC&utm_source=aff)
+- [Unity 跨平台网络库-Photon Unity Networking Classic - FREE](https://assetstore.unity.com/packages/tools/network/photon-unity-networking-classic-free-1786?aid=1101lSqC&utm_source=aff)
+- [Unity 面向后端的网络框架-ForgeNetworkingRemastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered)
 
 ## 示例
 - [Unity ECS + C# Job System-Voxelman](https://github.com/keijiro/Voxelman)
@@ -39,6 +48,8 @@
 - [Unity 3D游戏开发包-Gamekit3D](https://github.com/Unity-Technologies/Gamekit3D)
 - [Unity ECS官方Demo-UniteAustinTechnicalPresentation](https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation)
 - [Unity Job System示例-job-system-cookbook](https://github.com/stella3d/job-system-cookbook)
+- [Unity 学习如何将自定义后处理加入后处理栈中](https://github.com/beinteractive/LWRPAmbientOcclusion)
+- [Unity 帧同步实现教程-Lockstep-Tutorial](https://github.com/JiepengTan/Lockstep-Tutorial)
 
 
 ## C#
@@ -51,6 +62,14 @@
 - [C#实现非常漂亮的图表库-Live-Charts/Live-Charts](https://github.com/Live-Charts/Live-Charts)
 - [识别并减少C#字符串内存占用-string-theory](https://github.com/drewnoakes/string-theory)
 - [C#运行时对象内存布局-ObjectLayoutInspector](https://github.com/SergeyTeplyakov/ObjectLayoutInspector)
+- [将.Net库转换到Native的工具-Embeddinator-4000](https://github.com/mono/Embeddinator-4000)
+- [C# 无GC字符串类-gstring](https://github.com/vexe/gstring/blob/master/GC%20Free%20String/gstring.cs?1564015541577)
+- [C# 代码规则定义-StyleCop ](https://blog.redbluegames.com/how-to-set-up-stylecop-in-unity-b3ca908211d9)
+- [C# 编码指南-CSharpGuidelines](https://github.com/dennisdoomen/CSharpGuidelines)
+- [C# 代码热更补丁框架-InjectFix](https://github.com/Tencent/InjectFix)
+- [Unity 多线程协程-Thread Ninja](https://assetstore.unity.com/packages/tools/thread-ninja-multithread-coroutine-15717?aid=1101lSqC&utm_source=aff)
+- [一个比Unity默认更高效的协程-More Effective Coroutines](https://assetstore.unity.com/packages/tools/animation/more-effective-coroutines-free-54975?aid=1101lSqC&utm_source=aff)
+- [运行时C#补丁修复-Harmony](https://github.com/pardeike/Harmony)
 
 ## 算法
 - [Unity 伪随机数-UnityRandom](https://github.com/tucano/UnityRandom)
@@ -63,6 +82,11 @@
 - [Unity C#数据结构和算法-C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms)
 - [Unity 18种曲线算法-unity-curve-utils](https://github.com/baba-s/unity-curve-utils)
 - [C++ 数据结构和算法-algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures)
+- [Unity PathFindingAlgorithms](https://github.com/dbrizov/Unity-PathFindingAlgorithms)
+- [Unity 数学和物理算法-MathUtilities](https://github.com/zalo/MathUtilities)
+- [Unity 通用移动Ai库-unity-movement-ai](https://github.com/antonpantev/unity-movement-ai)
+- [Unity A* Pathfinding Project](https://arongranberg.com/astar/download)
+- [Unity 对象池-ObjectPool](https://github.com/UnityPatterns/ObjectPool/blob/master/Assets/ObjectPool/Scripts/ObjectPool.cs)
 
 ## 资源
 - [Unity AssetBundle框架-KEngine](https://github.com/mr-kelly/KEngine)
@@ -71,7 +95,26 @@
 - [Unity AssetBundle浏览导出工具-AssetStudio](https://github.com/Perfare/AssetStudio)
 - [Unity AssetBundle管理和打包-xasset](https://github.com/fengjiyuan/xasset)
 - [Unity 官方AssetBundle工具-AssetBundles-Browser](https://github.com/Unity-Technologies/AssetBundles-Browser)
-- 
+- [Unity 一个简单的有限状态机-Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine)
+- [Unity 使用SQLite的插件-SQLite4Unity3d](https://github.com/robertohuertasm/SQLite4Unity3d)
+- [Unity 最好的跨平台StreamingAssets资源加载方式-BetterStreamingAssets](https://github.com/gwiazdorrr/BetterStreamingAssets)
+- [Unity 资源非字符串引用-Weaver Lite](https://assetstore.unity.com/packages/tools/utilities/weaver-lite-60305?aid=1101lSqC&utm_source=aff)
+- [Unity 免费多语言框架-Lean Localization](https://assetstore.unity.com/packages/tools/localization/lean-localization-28504?aid=1101lSqC&utm_source=aff)
+- [Unity 音效管理框架-Eazy Sound Manager](https://assetstore.unity.com/packages/tools/audio/eazy-sound-manager-71142?aid=1101lSqC&utm_source=aff)
+- [漂亮英文字体1](https://www.dafont.com/)
+- [漂亮英文字体2](http://www.fontriver.com/)
+- [漂亮英文字体3](https://www.fontsquirrel.com/)
+- [1001中免费字体](https://www.1001freefonts.com/)
+- [Google字体](https://fonts.google.com/)
+- [Unity 免费场景资源-Blacksmith](https://assetstore.unity.com/packages/3d/environments/fantasy/blacksmith-46265?aid=1101lSqC&utm_source=aff)
+- [Blender资源分享网站-blendswap](https://www.blendswap.com/)
+- [游戏开发资源网站-devassets](http://devassets.com)
+- [游戏开发资源网站-opengameart](https://opengameart.org/)
+- [Unity 非常漂亮的场景资源-Nature Starter Kit 2](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977?aid=1101lSqC&utm_source=aff)
+- [Unity 分析Assetbundle资源工具-AssetBundleReporter](https://github.com/akof1314/AssetBundleReporter)
+- [Unity StreamingAssets资源同步加载-SyncStreamingAssetsLoader](https://github.com/conaman/SyncStreamingAssetsLoader)
+
+
 ## 网络
 - [Unity 基于Unity做的帧同步Demo,ECS架构-UnityLockStepDemo](https://github.com/GaoKaiHaHa/UnityLockStepDemo)
 - [Unity Protobuf无GC优化-protobuf-net-gc-optimization](https://github.com/smilehao/protobuf-net-gc-optimization)
@@ -79,6 +122,9 @@
 - [Unity 资源更新下载-assetUpdater-core](https://github.com/sNaticY/assetUpdater-core)
 - [Unity 官方资源后台下载-BackgroundDownload](https://github.com/Unity-Technologies/BackgroundDownload)
 - [Unity 开源网络系统-Forge Networking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered)
+- [Unity 帧同步游戏极简框架-LockStepSimpleFramework-Shared](https://github.com/CraneInForest/LockStepSimpleFramework-Shared)
+- [Unity 网络同步预测和回滚-UnityLockstep](https://github.com/proepkes/UnityLockstep)
+- [Unity 应用程序和游戏网络层解决方案-Megumin.Net](https://github.com/KumoKyaku/Megumin.Net)
 
 ##  UI
 - [Unity UGUI粒子特效插件-ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI)
@@ -104,11 +150,18 @@
 - [Unity 强大的UI框架-FairyGUI-unity](https://github.com/fairygui/FairyGUI-unity)
 - [Unity 运行时SpriteSheet动态创建-DynamicSpriteSheets](https://github.com/dusanst/DynamicSpriteSheets?1548422192338)
 - [Unity MVVM框架-loxodon-framework](https://github.com/cocowolf/loxodon-framework)
+- [Unity 简单的文本动画-Text-Juicer](https://github.com/badawe/Text-Juicer)
+- [Unity MVVM框架-Unity3d-Foundation](https://github.com/NVentimiglia/Unity3d-Foundation)
+- [Unity 窗口背景模糊方案-StaticBluredScreen](https://github.com/mob-sakai/StaticBluredScreen)
+- [Unity UGUI界面纹理镜像显示-MirrorReflectionEffectForUGUI](https://github.com/mob-sakai/MirrorReflectionEffectForUGUI)
+- [Unity NGUI扩展-NGUIExtension](https://github.com/kimsama/Unity-NGUIExtension)
+- [Unity 一个免费的Tween-LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595?aid=1101lSqC&utm_source=aff)
 
 ## 性能
 - [Unity 超强性能监视器-graphy](https://github.com/Tayx94/graphy)
 - [Unity CE性能调试工具-renderdoc](https://github.com/baldurk/renderdoc)
 - [Unity 官方合批被打断的各种情况-BatchBreakingCause](https://github.com/Unity-Technologies/BatchBreakingCause)
+- [Unity 堆内存性能分析-UnityHeapExplorer](https://bitbucket.org/pschraut/unityheapexplorer/src/master/)
 
 
 ## 图形
@@ -118,6 +171,8 @@
 - [Unity 自定义渲染管线(Not SRP)-Unity-Custom-Rendering-Pipline](https://github.com/MaxwellGengYF/Unity-Custom-Rendering-Pipline)
 - [Unity 超过300个Shader示例-Unity-Shaders](https://github.com/knapeczadam/Unity-Shaders)
 - [Unity 自定义渲染管线-LindenPipeline](https://github.com/lindenreid/LindenPipeline)
+- [Unity 使用CullingGroup获取视锥体最近物体](https://github.com/unitycoder/GetNearestObjectsWithCullingGroup)
+- [开源光线或路径追踪资源-Open-Source Ray Tracers and Path Tracers](https://kkhomyakov3d.github.io/raytracers-and-pathtracers/)
 
 ## Shader
 - [Unity ShaderGraph示例-ShaderGraphExamples](https://github.com/keijiro/ShaderGraphExamples)
@@ -140,11 +195,30 @@
 - [Unity 卡通渲染教程-UnityToonShader](https://github.com/IronWarrior/UnityToonShader)
 - [Unity 超过300个Shader Demo-UnityShaders](https://github.com/knapeczadam/Unity-Shaders)
 - [Unity 卡通渲染-Arktoon-Shaders](https://github.com/synqark/Arktoon-Shaders)
+- [GPU Instancing + Boids + Animation Texture Baker](https://github.com/kitasenjudesign/UnityGpuInstancing)
+- [Unity 自定义渲染管线学习](https://github.com/What-a-stupid-username/RP)
+- [OCEAN shader with Unity Shader Graph!](https://www.youtube.com/watch?v=FbTAbOnhRcI)
+- [Unity Shadergraph: Rain Drop Ripples!](https://www.youtube.com/watch?v=R6EX6dN1BOs)
+- [Amplify Shader Editor 扩展](https://github.com/DMeville/AmplifyShaderCommunityExtras)
+- [Unity 有向距离域阴影实现-Unity-Signed-Distance-Field-Shadow](https://github.com/chenjd/Unity-Signed-Distance-Field-Shadow)
+- [Unity 平面阴影实现-PlannarShadowForUnity](https://github.com/ozlael/PlannarShadowForUnity)
+- [Unity 移动端平面阴影实现方案-ShadowCode](https://github.com/RenLvDa/ShadowCode)
+- [Unity 次表面散射SSS实现优化](https://www.alanzucconi.com/2017/08/30/fast-subsurface-scattering-1/)
+- [Unity 一种简单的次表面散射实现](https://halisavakis.com/my-take-on-shaders-simple-subsurface-scattering/)
+- [Unity Shader中级教程-FishManShaderTutorial](https://github.com/JiepengTan/FishManShaderTutorial)
+- [Unity 基于物理的着色器框架-Lux – Physically Based Shader Framework](https://assetstore.unity.com/packages/vfx/shaders/lux-physically-based-shader-framework-16000?aid=1101lSqC&utm_source=aff)
+- [Unity 世界变化映射到纹理UV-UVProjectionShader](https://github.com/nomand/UVProjectionShader)
+- [Unity ASE扩展函数库-AmplifyShaderFunctions](https://github.com/RMSHR/AmplifyShaderFunctions)
 
 ## 动画
 - [Unity 大规模群体动画渲染-Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters)
 - [Unity 各种炫酷UI纹理动画-TexturePanner](https://github.com/AdultLink/TexturePanner)
 - [Unity 100行轻量级的Teen库-Uween](https://github.com/beinteractive/Uween)
+- [Unity 基于Animation状态机的框架-Animancer Lite](https://assetstore.unity.com/packages/tools/animation/animancer-lite-116516?aid=1101lSqC&utm_source=aff)
+- [Unity 风格化的效果实现细节-Kamakura Shaders**](https://github.com/kayac/kamakura-shaders)
+- [Unity 卡通渲染效果实现-Toon Shader Free](https://assetstore.unity.com/packages/vfx/shaders/toon-shader-free-21288?aid=1101%7CSqC&utm_source=aff)
+- [Unity RT涂鸦Shader-RevealShader](https://github.com/nomand/RevealShader)
+- [Unity 程序化模型破坏功能-ScamScatter](https://github.com/danbystrom/ScamScatter)
 
 ## 特效
 - [Unity Post Processing Stack实用脚本-PostProcessingUtilities](https://github.com/keijiro/PostProcessingUtilities)
@@ -164,6 +238,24 @@
 - [Unity 纹理涂鸦-InkPainter](https://github.com/EsProgram/InkPainter)
 - [Unity 图形描边-Outline-Effect](https://github.com/cakeslice/Outline-Effect)
 - [Unity 海水浮力模拟-Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy)
+- [Unity 低多边形水Shader-SurfaceWaterShader](https://github.com/jakubshark/SurfaceWaterShader)
+- [Unity 垂直溶解特效-VerticalDissolve](https://github.com/AdultLink/VerticalDissolve)
+- [Unity 风格化天空盒效果](https://www.patreon.com/posts/making-stylized-27402644)
+- [Unity 扭曲后处理效果-PostProcessDistortionFX](https://github.com/Broxxar/PostProcessDistortionFX)
+- [Unity 基于GPU的Bent Normal and Ambient Occlusion烘焙](https://github.com/Fewes/BNAO)
+- [Unity 体积云天空盒-kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D)
+- [Unity 屏幕空间的多次散射-取代全局雾SSMS](https://github.com/OCASM/SSMS)
+- [Unity 体积光和体积雾-Aura - Volumetric Lighting](https://assetstore.unity.com/packages/tools/particles-effects/aura-volumetric-lighting-111664?aid=1101lSqC&utm_source=aff)
+- [Unity 颜色渐变LUTs库-Cinema Themes 2 - Color Grading LUTs Library](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/cinema-themes-2-color-grading-luts-library-20394?aid=1101lSqC&utm_source=aff)
+- [Unity 简单的LUT调节器-Simple LUT Adjuster](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/simple-lut-adjuster-51762?aid=1101lSqC&utm_source=aff)
+- [Unity 每个模型单通道渲染21844个光源-SpriteLights](https://assetstore.unity.com/packages/vfx/shaders/spritelights-46409?aid=1101lSqC&utm_source=aff)
+- [Unity 开源体积光效果-VolumetricLights](https://github.com/SlightlyMad/VolumetricLights)
+- [Unity 闪电效果-Lightning Bolt Effect for Unity](https://assetstore.unity.com/packages/tools/particles-effects/lightning-bolt-effect-for-unity-59471?aid=1101lSqC&utm_source=aff)
+- [Unity SMAA实现-Subpixel Morphological Antialiasing](https://github.com/Chman/SMAA)
+- [Unity TAA-Temporal Reprojection Anti-Aliasing ](https://github.com/playdeadgames/temporal)
+- [Unity A forward projector Decal system](https://github.com/Kink3d/kDecals)
+- [Unity Alpha混合可交互的草-GrassBending](https://github.com/Elringus/GrassBending)
+- [Unity 软体模拟-SoftBodySimulation](https://github.com/chrismarch/SoftBodySimulation)
 
 ## 工具
 - [Unity AssetBundle资源浏览插件-AssetStudio](https://github.com/Perfare/AssetStudio)
@@ -189,6 +281,30 @@
 - [Unity Excel导入Unity-Excel-Importer-Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker)
 - [读写Excle文件库-CsvHelper](https://github.com/JoshClose/CsvHelper)
 - [Unity 路径创建工具-Path-Creator](https://github.com/SebLague/Path-Creator)
+- [Unity 改变Photoshop的颜色空间到线性空间-PSLinearColorSpace](https://github.com/ecidevilin/PSLinearColorSpace)
+- [跨平台Excel导出工具-tabtoy](https://github.com/davyxu/tabtoy)
+- [Unity Render Queue扩展](https://github.com/FreyaHolmer/Render-Queue?1551688255320)
+- [Unity RuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector)
+- [Unity 工具栏扩展-unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender)
+- [Unity 资源快速查找-unity-editor-spotlight](https://github.com/marijnz/unity-editor-spotlight)
+- [Unity 粒子特效性能分析工具-ParticleEffectProfiler](https://github.com/sunbrando/ParticleEffectProfiler)
+- [Unity 跨平台的CubeMap生成工具-cmftStudio](https://github.com/dariomanesku/cmftStudio)
+- [Unity 加解PlayerPrefs](https://assetstore.unity.com/packages/tools/input-management/secured-playerprefs-32357?aid=1101lSqC&utm_source=aff)
+- [Unity 游戏里面实现的颜色拾取器-UnityColorPicker](https://github.com/jongallant/UnityColorPicker)
+- [Unity Inspector增强-Inspector Gadgets Lite](https://assetstore.unity.com/packages/tools/gui/inspector-gadgets-lite-82896?aid=1101lSqC&utm_source=aff)
+- [Tile地图编辑器](https://www.mapeditor.org/)
+- [Unity 实时模型绘制-RealTime Painting](https://assetstore.unity.com/packages/templates/tutorials/realtime-painting-33506?aid=1101lSqC&utm_source=aff)
+- [Unity 公路创建-EasyRoads3D Free v3](https://assetstore.unity.com/packages/3d/characters/easyroads3d-free-v3-987?aid=1101lSqC&utm_source=aff)
+- [开源跨平台媲美PS的图形编辑器-GIMP](https://www.gimp.org/)
+- [Unity Gizmos扩展-GizmoExtensions](https://github.com/code-beans/GizmoExtensions)
+- [Unity 脚本符号定义工具-SymbolCatalog](https://github.com/mob-sakai/SymbolCatalog)
+- [Unity 使用Polybrush进行关卡材质混合-PBRBlendShader](https://github.com/nomand/PBRBlendShader)
+- [Unity Blender到Unity导入插件-BlenderToUnity](https://github.com/nomand/BlenderToUnity)
+- [Unity 资源依赖图-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph)
+- [Unity 非常强大的Inspector扩展-Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
+- [Unity 离线PotentiallyVisibleSet-PotentiallyVisibleSetPlugin](https://github.com/nashnie/PotentiallyVisibleSetPlugin)
+- [Unity 运行时地形编辑-RuntimeTerrainEditor](https://github.com/xdedzl/RuntimeTerrainEditor)
+
 
 ## 打包
 - [Unity APK重打包SDK工具-APKRepackageSDKTool](https://github.com/GaoKaiHaHa/APKRepackageSDKTool)
@@ -198,6 +314,7 @@
 - [Unity 游戏构建插件-unity-build](https://github.com/Chaser324/unity-build)
 - [Unity unity-build插件扩展 unity-build-actions](https://github.com/Chaser324/unity-build-actions)
 - [Unity 命令行参数解析类-CommandLineCustomArguments](https://github.com/EpixCode/CommandLineCustomArguments)
+- [Shader变体剥离插件](https://github.com/SixWays/UnityShaderStripper)
 
 ## 序列化
 - [高效内存序列化库-flatbuffers](https://github.com/google/flatbuffers)
@@ -225,6 +342,12 @@
 - [Unity 设置工程文件扩展名使用指定应用打开-unity-open-asset-customizer](https://github.com/baba-s/unity-open-asset-customizer)
 - [Unity 超强Inspector扩展-NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
 - [Unity Inspector扩展-UnityUtilities](https://github.com/pirhosoft/UnityUtilities)
+- [Unity ScriptableObjects下来列表多选扩展](https://github.com/ATHellboy/ScriptableObjectMultiSelectDropdown)
+- [Unity Light Probe环境光颜色和强度设置-LightProbeEditor](https://github.com/chenjd/LightProbeEditor)
+- [Unity Light Probe自动放置-Light-Probe-Populator](https://github.com/alexismorin/Light-Probe-Populator)
+- [Unity 绘制各种调试形状-UnityDbgDraw](https://bitbucket.org/pschraut/unitydbgdraw/src/master/)
+- [Unity Texture2DArray创建-UnityTexture2DArrayImportPipeline](https://github.com/pschraut/UnityTexture2DArrayImportPipeline)
+- [Unity CubemapArray创建-UnityCubemapArrayImportPipeline](https://github.com/pschraut/UnityCubemapArrayImportPipeline)
 
 ## 脚本
 - [Lua性能分析器-LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity)
@@ -232,32 +355,3 @@
 - [Unity C#代码热更新-cshotfix](https://github.com/qq576067421/cshotfix)
 - [Lua热更新框架-XLua](https://github.com/Tencent/xLua)
 - [Bash脚本教程-bash-scripting-tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
-
-## 综合
-- [浅墨-Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
-- [miloyip-游戏程序员学习路径-game-programmer](https://github.com/miloyip/game-programmer)
-- [PBR白皮书-PBR-White-Paper](https://github.com/QianMo/PBR-White-Paper)
-- [Unity Github资源-awesome-unity3d](https://github.com/insthync/awesome-unity3d)
-- [实时渲染第三版提炼总结-Real-Time-Rendering-3rd-CN-Summary-Ebook](https://github.com/QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook)
-- [游戏引擎列表-OpenGraphic](https://github.com/Gforcex/OpenGraphic)
-- [游戏网络编程资源-Awesome-Game-Networking](https://github.com/MFatihMAR/Awesome-Game-Networking)
-- [游戏开发资源列表-gamedev-resources](https://github.com/Ibuprogames/gamedev-resources)
-- [Unity游戏开发列表-awesome-unity](https://github.com/RyanNielson/awesome-unity)
-- [Unity综合大杂烩-Unity3DTraining](https://github.com/XINCGer/Unity3DTraining)
-- [Unity学习资源-StudyUnity](https://github.com/AllenKashiwa/StudyUnity)
-- [图形和游戏引擎列表-Open Graphic](https://lab.uwa4d.com/lab/5b55ee6fd7f10a201fd7611b)
-- [Unity 音乐和声音管理插件-Eazy Sound Manager](https://github.com/JackM36/Eazy-Sound-Manager)
-
-##  其他
-- [Chrome 浏览器github插件-GayHub](https://github.com/crazyshader/GayHub)
-- [游戏开发常见3500和7000字-CommonChineseCharacter](https://github.com/DavidSheh/CommonChineseCharacter)
-- [Youtube视频下载工具-YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)
-- [Youtube视频命令行下载工具-youtube-dl](https://github.com/rg3/youtube-dl)
-- [Mac开发环境搭建-mac-setup](https://github.com/sb2nov/mac-setup)
-- [科学上网必备工具-shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
-- [XCode命令行编译工具-xcbuild](https://github.com/facebook/xcbuild)
-- [XCode工程Python库-mod-pbxproj](https://github.com/kronenthaler/mod-pbxproj)
-- [PList Python解析库-openstep-parser](https://github.com/kronenthaler/openstep-parser)
-- [net跨平台UI框架-Avalonia](https://github.com/AvaloniaUI/Avalonia)
-- [net跨平台图表框架-Microcharts](https://github.com/aloisdeniel/Microcharts)
-- [windows平台快速开启应用入口工具-Wox](https://github.com/Wox-launcher/Wox)
