@@ -1,4 +1,4 @@
-# Unity游戏开发资源
+# 游戏开发
 
 ## 引擎
 - [CE游戏引擎-CRYENGINE](https://github.com/CRYTEK/CRYENGINE)
@@ -8,6 +8,7 @@
 - [C#开源跨平台游戏引擎-xenko](https://github.com/xenko3d/xenko)
 - [跨平台渲染框架-The-Forge](https://github.com/ConfettiFX/The-Forge)
 - [Google开源跨平台基于物理的渲染引擎-filament](https://github.com/google/filament)
+- [从零开始手敲次世代游戏引擎-GameEngineFromScratch](https://github.com/netwarm007/GameEngineFromScratch)
 
 ## 框架
 - [Unity 基础框架-MyUnityFrameWork](https://github.com/GaoKaiHaHa/MyUnityFrameWork)
@@ -38,6 +39,11 @@
 - [Unity 连式编程框架-UniRx - Reactive Extensions for Unity](https://assetstore.unity.com/packages/tools/integration/unirx-reactive-extensions-for-unity-17276?aid=1101lSqC&utm_source=aff)
 - [Unity 跨平台网络库-Photon Unity Networking Classic - FREE](https://assetstore.unity.com/packages/tools/network/photon-unity-networking-classic-free-1786?aid=1101lSqC&utm_source=aff)
 - [Unity 面向后端的网络框架-ForgeNetworkingRemastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered)
+- [Unity GameFramework, ILRuntime, Unity Version 2018.2](https://github.com/coding2233/UnityGameFramework)
+- [Unity ECS入门-entity-component-system-for-unity-getting-started](https://www.raywenderlich.com/7630142-entity-component-system-for-unity-getting-started)
+- [Unity 组件库-BUCK](https://github.com/ellisspice/BUCK)
+- [Unity AI深度学习动画框架-AI4Animation](https://github.com/sebastianstarke/AI4Animation)
+- [Unity 通用框架代码-UnityFramework](https://github.com/traggett/UnityFramework)
 
 ## 示例
 - [Unity ECS + C# Job System-Voxelman](https://github.com/keijiro/Voxelman)
@@ -68,8 +74,16 @@
 - [C# 编码指南-CSharpGuidelines](https://github.com/dennisdoomen/CSharpGuidelines)
 - [C# 代码热更补丁框架-InjectFix](https://github.com/Tencent/InjectFix)
 - [Unity 多线程协程-Thread Ninja](https://assetstore.unity.com/packages/tools/thread-ninja-multithread-coroutine-15717?aid=1101lSqC&utm_source=aff)
-- [一个比Unity默认更高效的协程-More Effective Coroutines](https://assetstore.unity.com/packages/tools/animation/more-effective-coroutines-free-54975?aid=1101lSqC&utm_source=aff)
+- [Unity 一个比Unity默认更高效的协程-More Effective Coroutines](https://assetstore.unity.com/packages/tools/animation/more-effective-coroutines-free-54975?aid=1101lSqC&utm_source=aff)
 - [运行时C#补丁修复-Harmony](https://github.com/pardeike/Harmony)
+- [Unity 非反射访问程序集私有方法-OpenSesameCompilerForUnity](https://github.com/mob-sakai/OpenSesameCompilerForUnity)
+- [C# 使用Roslyn代码分析、重构和修复库](https://github.com/JosefPihrt/Roslynator)
+- [C# Zero Allocation StringBuilder for .NET Core and Unity](https://github.com/Cysharp/ZString)
+- [Unity UniTask Provides an efficient async/await integration to Unity](https://github.com/Cysharp/UniTask)
+- [Unity UnityAsync 一个更高效的协程库](https://github.com/muckSponge/UnityAsync)
+- [Unity 另一个协程库-UnityAsync](https://github.com/coryleach/UnityAsync)
+- [Unity 兼容Unity组件生命周期的C#Async componenttask-unity ](https://github.com/BastianBlokland/componenttask-unity)
+- [Unity 设计模式-Unity-Programming-Patterns](https://github.com/Habrador/Unity-Programming-Patterns)
 
 ## 算法
 - [Unity 伪随机数-UnityRandom](https://github.com/tucano/UnityRandom)
@@ -87,6 +101,10 @@
 - [Unity 通用移动Ai库-unity-movement-ai](https://github.com/antonpantev/unity-movement-ai)
 - [Unity A* Pathfinding Project](https://arongranberg.com/astar/download)
 - [Unity 对象池-ObjectPool](https://github.com/UnityPatterns/ObjectPool/blob/master/Assets/ObjectPool/Scripts/ObjectPool.cs)
+- [Unity 使用ECS的Navmesh寻路-unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh)
+- [Unity 事件驱动的行为树-NPBehave](https://github.com/meniku/NPBehave)
+- [Unity 可定制化的对象池-kPooling](https://github.com/Kink3d/kPooling)
+- [Unity 扩展数学库-Mathfs](https://github.com/FreyaHolmer/Mathfs)
 
 ## 资源
 - [Unity AssetBundle框架-KEngine](https://github.com/mr-kelly/KEngine)
@@ -101,18 +119,11 @@
 - [Unity 资源非字符串引用-Weaver Lite](https://assetstore.unity.com/packages/tools/utilities/weaver-lite-60305?aid=1101lSqC&utm_source=aff)
 - [Unity 免费多语言框架-Lean Localization](https://assetstore.unity.com/packages/tools/localization/lean-localization-28504?aid=1101lSqC&utm_source=aff)
 - [Unity 音效管理框架-Eazy Sound Manager](https://assetstore.unity.com/packages/tools/audio/eazy-sound-manager-71142?aid=1101lSqC&utm_source=aff)
-- [漂亮英文字体1](https://www.dafont.com/)
-- [漂亮英文字体2](http://www.fontriver.com/)
-- [漂亮英文字体3](https://www.fontsquirrel.com/)
-- [1001中免费字体](https://www.1001freefonts.com/)
-- [Google字体](https://fonts.google.com/)
 - [Unity 免费场景资源-Blacksmith](https://assetstore.unity.com/packages/3d/environments/fantasy/blacksmith-46265?aid=1101lSqC&utm_source=aff)
-- [Blender资源分享网站-blendswap](https://www.blendswap.com/)
-- [游戏开发资源网站-devassets](http://devassets.com)
-- [游戏开发资源网站-opengameart](https://opengameart.org/)
 - [Unity 非常漂亮的场景资源-Nature Starter Kit 2](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977?aid=1101lSqC&utm_source=aff)
 - [Unity 分析Assetbundle资源工具-AssetBundleReporter](https://github.com/akof1314/AssetBundleReporter)
 - [Unity StreamingAssets资源同步加载-SyncStreamingAssetsLoader](https://github.com/conaman/SyncStreamingAssetsLoader)
+- [Unity 组件保存系统-Component-Save-System](https://github.com/AlexMeesters/Component-Save-System)
 
 
 ## 网络
@@ -125,6 +136,8 @@
 - [Unity 帧同步游戏极简框架-LockStepSimpleFramework-Shared](https://github.com/CraneInForest/LockStepSimpleFramework-Shared)
 - [Unity 网络同步预测和回滚-UnityLockstep](https://github.com/proepkes/UnityLockstep)
 - [Unity 应用程序和游戏网络层解决方案-Megumin.Net](https://github.com/KumoKyaku/Megumin.Net)
+- [Unity 开源的客户端服务器同体的网络框架-Mirror’s multiplayer High Level API](https://mirror-networking.com/docs/General/index.html)
+- [Unity MagicOnion is an Realtime Network Engine](https://github.com/Cysharp/MagicOnion)
 
 ##  UI
 - [Unity UGUI粒子特效插件-ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI)
@@ -209,6 +222,10 @@
 - [Unity 基于物理的着色器框架-Lux – Physically Based Shader Framework](https://assetstore.unity.com/packages/vfx/shaders/lux-physically-based-shader-framework-16000?aid=1101lSqC&utm_source=aff)
 - [Unity 世界变化映射到纹理UV-UVProjectionShader](https://github.com/nomand/UVProjectionShader)
 - [Unity ASE扩展函数库-AmplifyShaderFunctions](https://github.com/RMSHR/AmplifyShaderFunctions)
+- [Unity 基于PBR的贴花系统-driven-decals](https://github.com/Anatta336/driven-decals)
+- [Unity 内置管线升级到URP说明-From-Built-in-to-URP](https://teofilobd.github.io/unity/shaders/urp/graphics/2020/05/18/From-Built-in-to-URP.html)
+- [Unity Shader库-unity-shaders](https://github.com/adrian-miasik/unity-shaders)
+- [Unity Screen Space描边- UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline)
 
 ## 动画
 - [Unity 大规模群体动画渲染-Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters)
@@ -256,6 +273,9 @@
 - [Unity A forward projector Decal system](https://github.com/Kink3d/kDecals)
 - [Unity Alpha混合可交互的草-GrassBending](https://github.com/Elringus/GrassBending)
 - [Unity 软体模拟-SoftBodySimulation](https://github.com/chrismarch/SoftBodySimulation)
+- [Unity 漂亮的海洋效果Optically-Realistic-Water](https://github.com/muckSponge/Optically-Realistic-Water)
+- [Unity 体积云效果-Clouds](https://github.com/SebLague/Clouds)
+- [Unity 自定义扫描线后处理（基于PostProcessStack）](https://www.patreon.com/posts/38451970)
 
 ## 工具
 - [Unity AssetBundle资源浏览插件-AssetStudio](https://github.com/Perfare/AssetStudio)
@@ -304,7 +324,12 @@
 - [Unity 非常强大的Inspector扩展-Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
 - [Unity 离线PotentiallyVisibleSet-PotentiallyVisibleSetPlugin](https://github.com/nashnie/PotentiallyVisibleSetPlugin)
 - [Unity 运行时地形编辑-RuntimeTerrainEditor](https://github.com/xdedzl/RuntimeTerrainEditor)
-
+- [Unity 编辑器实用工具-com.pixelwizards.utilities](https://github.com/PixelWizards/com.pixelwizards.utilities)
+- [Unity 工程静态性能分析工具-ProjectAuditor](https://github.com/mtrive/ProjectAuditor)
+- [Unity Texture_maker A texture maker tool for unity](https://github.com/M-Fatah/texture_maker)
+- [Unity git文件属性-.gitattributes](https://gist.github.com/JoaoBorks/9cc68762f5d2f5573c00b3aacbb3a57f)
+- [Unity Blender FBX导出插件-blender-to-unity-fbx-exporter](https://github.com/EdyJ/blender-to-unity-fbx-exporter)
+- [Unity 运行时场景Gizmo-UnityRuntimeSceneGizmo](https://github.com/yasirkula/UnityRuntimeSceneGizmo)
 
 ## 打包
 - [Unity APK重打包SDK工具-APKRepackageSDKTool](https://github.com/GaoKaiHaHa/APKRepackageSDKTool)
@@ -314,12 +339,16 @@
 - [Unity 游戏构建插件-unity-build](https://github.com/Chaser324/unity-build)
 - [Unity unity-build插件扩展 unity-build-actions](https://github.com/Chaser324/unity-build-actions)
 - [Unity 命令行参数解析类-CommandLineCustomArguments](https://github.com/EpixCode/CommandLineCustomArguments)
-- [Shader变体剥离插件](https://github.com/SixWays/UnityShaderStripper)
+- [Unity Shader变体剥离插件](https://github.com/SixWays/UnityShaderStripper)
+- [Unity 输入系统回放-UnityInputReplay](https://github.com/LetsBuildGG/UnityInputReplay)
+- [Unity 游戏内截屏工具-ScreenshotTool](https://www.ryanmiller.ca/goodies/ScreenshotTool.cs)
+- [Unity 事件调试器-UnityEventDebugger](https://github.com/KevinHagen/UnityEventDebugger)
 
 ## 序列化
 - [高效内存序列化库-flatbuffers](https://github.com/google/flatbuffers)
 - [Unity Excel配置表导出工具-excelizor](https://github.com/sNaticY/excelizor)
 - [Unity 功能强大的序列化库-Odin Serializer](https://github.com/TeamSirenix/odin-serializer)
+- [Unity 工程符号链接-unity-symbolic-project-linker](https://github.com/thsbrown/unity-symbolic-project-linker)
 
 ## 编辑器
 - [Unity 编辑器使用工具-UnityEditorUtils](https://github.com/insthync/UnityEditorUtils)
@@ -348,6 +377,8 @@
 - [Unity 绘制各种调试形状-UnityDbgDraw](https://bitbucket.org/pschraut/unitydbgdraw/src/master/)
 - [Unity Texture2DArray创建-UnityTexture2DArrayImportPipeline](https://github.com/pschraut/UnityTexture2DArrayImportPipeline)
 - [Unity CubemapArray创建-UnityCubemapArrayImportPipeline](https://github.com/pschraut/UnityCubemapArrayImportPipeline)
+- [Unity 快速场景切换-UnitySceneSwitcher](https://github.com/coryleach/UnitySceneSwitcher)
+- [Unity 修改刚体质点中心-RigidbodyCenterOfMassEditor](https://github.com/MileyHollenberg/RigidbodyCenterOfMassEditor)
 
 ## 脚本
 - [Lua性能分析器-LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity)
@@ -355,3 +386,4 @@
 - [Unity C#代码热更新-cshotfix](https://github.com/qq576067421/cshotfix)
 - [Lua热更新框架-XLua](https://github.com/Tencent/xLua)
 - [Bash脚本教程-bash-scripting-tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
+- [Github快速下载或克隆插件-FastGithub](https://github.com/RC1844/FastGithub)
