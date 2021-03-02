@@ -44,6 +44,8 @@
 - [Unity 组件库-BUCK](https://github.com/ellisspice/BUCK)
 - [Unity AI深度学习动画框架-AI4Animation](https://github.com/sebastianstarke/AI4Animation)
 - [Unity 通用框架代码-UnityFramework](https://github.com/traggett/UnityFramework)
+- [Unity SRP图形技术研究-InfinityRenderPipeline](https://github.com/haolange/InfinityRenderPipeline)
+- [Unity 游戏开发扩展库-GDX](https://github.com/dotBunny/GDX)
 
 ## 示例
 - [Unity ECS + C# Job System-Voxelman](https://github.com/keijiro/Voxelman)
@@ -84,6 +86,10 @@
 - [Unity 另一个协程库-UnityAsync](https://github.com/coryleach/UnityAsync)
 - [Unity 兼容Unity组件生命周期的C#Async componenttask-unity ](https://github.com/BastianBlokland/componenttask-unity)
 - [Unity 设计模式-Unity-Programming-Patterns](https://github.com/Habrador/Unity-Programming-Patterns)
+- [Unity Dictionary序列化-generic-serializable-dictionary
+](https://github.com/upscalebaby/generic-serializable-dictionary)
+- [C# 强大命令行解析库-commandline](https://github.com/commandlineparser/commandline)
+- [C# 代码规范&实践-DotNet-Coding-Guidelines](https://github.com/justinamiller/DotNet-Coding-Guidelines?utm_source=csharpdigest&utm_medium=email&utm_campaign=351)
 
 ## 算法
 - [Unity 伪随机数-UnityRandom](https://github.com/tucano/UnityRandom)
@@ -188,6 +194,8 @@
 - [开源光线或路径追踪资源-Open-Source Ray Tracers and Path Tracers](https://kkhomyakov3d.github.io/raytracers-and-pathtracers/)
 
 ## Shader
+- [Unity 自定义SRP模板-CustomSRP](https://github.com/phi-lira/CustomSRP)
+- [Unity URP Shader实例-UniversalShaderExamples](https://github.com/phi-lira/UniversalShaderExamples)
 - [Unity ShaderGraph示例-ShaderGraphExamples](https://github.com/keijiro/ShaderGraphExamples)
 - [Unity 噪声着色器-NoiseShader](https://github.com/keijiro/NoiseShader)
 - [Unity 浅墨Shader库-Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader)
@@ -226,6 +234,8 @@
 - [Unity 内置管线升级到URP说明-From-Built-in-to-URP](https://teofilobd.github.io/unity/shaders/urp/graphics/2020/05/18/From-Built-in-to-URP.html)
 - [Unity Shader库-unity-shaders](https://github.com/adrian-miasik/unity-shaders)
 - [Unity Screen Space描边- UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline)
+- [Unity URP自定义后处理-URPCustomPostProcessingStack](https://github.com/yahiaetman/URPCustomPostProcessingStack)
+- [Unity 体积雾-unity-volumetric-fog](https://github.com/SiiMeR/unity-volumetric-fog)
 
 ## 动画
 - [Unity 大规模群体动画渲染-Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters)
@@ -276,6 +286,8 @@
 - [Unity 漂亮的海洋效果Optically-Realistic-Water](https://github.com/muckSponge/Optically-Realistic-Water)
 - [Unity 体积云效果-Clouds](https://github.com/SebLague/Clouds)
 - [Unity 自定义扫描线后处理（基于PostProcessStack）](https://www.patreon.com/posts/38451970)
+- [Unity URP屏幕空间的贴花-UnityURPUnlitScreenSpaceDecalShader](https://github.com/ColinLeung-NiloCat/UnityURPUnlitScreenSpaceDecalShader)
+- [Unity URP彩虹效果-URP-Iridescence-Example](https://github.com/CJT-Jackton/URP-Iridescence-Example)
 
 ## 工具
 - [Unity AssetBundle资源浏览插件-AssetStudio](https://github.com/Perfare/AssetStudio)
@@ -330,6 +342,8 @@
 - [Unity git文件属性-.gitattributes](https://gist.github.com/JoaoBorks/9cc68762f5d2f5573c00b3aacbb3a57f)
 - [Unity Blender FBX导出插件-blender-to-unity-fbx-exporter](https://github.com/EdyJ/blender-to-unity-fbx-exporter)
 - [Unity 运行时场景Gizmo-UnityRuntimeSceneGizmo](https://github.com/yasirkula/UnityRuntimeSceneGizmo)
+- [Unity Mesh的UV法线信息显示工具-mesh-debugging](https://github.com/nementic-games/mesh-debugging)
+- [RenderDoc Mesh数据导出插件-RenderDocMeshParserForUnity](https://github.com/windsmoon/RenderDocMeshParserForUnity)
 
 ## 打包
 - [Unity APK重打包SDK工具-APKRepackageSDKTool](https://github.com/GaoKaiHaHa/APKRepackageSDKTool)
@@ -379,6 +393,7 @@
 - [Unity CubemapArray创建-UnityCubemapArrayImportPipeline](https://github.com/pschraut/UnityCubemapArrayImportPipeline)
 - [Unity 快速场景切换-UnitySceneSwitcher](https://github.com/coryleach/UnitySceneSwitcher)
 - [Unity 修改刚体质点中心-RigidbodyCenterOfMassEditor](https://github.com/MileyHollenberg/RigidbodyCenterOfMassEditor)
+- [Unity 编辑器扩展拖放实现-DragAndDropEditorWindow](https://gist.github.com/rutcreate/0af3c34abd497a2bceed506f953308d7)
 
 ## 脚本
 - [Lua性能分析器-LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity)
