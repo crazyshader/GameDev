@@ -46,6 +46,7 @@
 - [Unity 通用框架代码-UnityFramework](https://github.com/traggett/UnityFramework)
 - [Unity SRP图形技术研究-InfinityRenderPipeline](https://github.com/haolange/InfinityRenderPipeline)
 - [Unity 游戏开发扩展库-GDX](https://github.com/dotBunny/GDX)
+- [Unity 常用组件库-PashmakCore](https://github.com/mohammadroohian/PashmakCore)
 
 ## 示例
 - [Unity ECS + C# Job System-Voxelman](https://github.com/keijiro/Voxelman)
@@ -90,6 +91,8 @@
 ](https://github.com/upscalebaby/generic-serializable-dictionary)
 - [C# 强大命令行解析库-commandline](https://github.com/commandlineparser/commandline)
 - [C# 代码规范&实践-DotNet-Coding-Guidelines](https://github.com/justinamiller/DotNet-Coding-Guidelines?utm_source=csharpdigest&utm_medium=email&utm_campaign=351)
+- [Unity 字典序列化-SerializableTupleCollection](http://wiki.unity3d.com/index.php/SerializableTupleCollection)
+- [C# 程序集加密方案-DCNETProtector](https://github.com/dcsoft-yyf/DCNETProtector)
 
 ## 算法
 - [Unity 伪随机数-UnityRandom](https://github.com/tucano/UnityRandom)
@@ -236,6 +239,7 @@
 - [Unity Screen Space描边- UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline)
 - [Unity URP自定义后处理-URPCustomPostProcessingStack](https://github.com/yahiaetman/URPCustomPostProcessingStack)
 - [Unity 体积雾-unity-volumetric-fog](https://github.com/SiiMeR/unity-volumetric-fog)
+- [Unity 官方开发的卡通渲染-com.unity.toonshader](https://github.com/Unity-Technologies/com.unity.toonshader)
 
 ## 动画
 - [Unity 大规模群体动画渲染-Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters)
@@ -246,6 +250,13 @@
 - [Unity 卡通渲染效果实现-Toon Shader Free](https://assetstore.unity.com/packages/vfx/shaders/toon-shader-free-21288?aid=1101%7CSqC&utm_source=aff)
 - [Unity RT涂鸦Shader-RevealShader](https://github.com/nomand/RevealShader)
 - [Unity 程序化模型破坏功能-ScamScatter](https://github.com/danbystrom/ScamScatter)
+- [Unity 模型动画位置烘焙到纹理插件-Animated-Mesh-Surface-Position-Texture-Generator
+](https://github.com/sugi-cho/Animated-Mesh-Surface-Position-Texture-Generator)
+[Unity 动画纹理烘焙插件-Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
+[Unity Animator动画LOD-FakeStopMotion](https://github.com/EricFreeman/FakeStopMotion)
+
+## 物理
+- [Unity GPU物理模拟-Fusion](https://github.com/Ninjajie/Fusion)
 
 ## 特效
 - [Unity Post Processing Stack实用脚本-PostProcessingUtilities](https://github.com/keijiro/PostProcessingUtilities)
@@ -344,6 +355,10 @@
 - [Unity 运行时场景Gizmo-UnityRuntimeSceneGizmo](https://github.com/yasirkula/UnityRuntimeSceneGizmo)
 - [Unity Mesh的UV法线信息显示工具-mesh-debugging](https://github.com/nementic-games/mesh-debugging)
 - [RenderDoc Mesh数据导出插件-RenderDocMeshParserForUnity](https://github.com/windsmoon/RenderDocMeshParserForUnity)
+- [Unity 编辑器多开同步插件-ParrelSync
+](https://github.com/VeriorPies/ParrelSync)
+- [Unity 运行时Gizmos](https://github.com/popcron/gizmos)
+
 
 ## 打包
 - [Unity APK重打包SDK工具-APKRepackageSDKTool](https://github.com/GaoKaiHaHa/APKRepackageSDKTool)
@@ -394,6 +409,10 @@
 - [Unity 快速场景切换-UnitySceneSwitcher](https://github.com/coryleach/UnitySceneSwitcher)
 - [Unity 修改刚体质点中心-RigidbodyCenterOfMassEditor](https://github.com/MileyHollenberg/RigidbodyCenterOfMassEditor)
 - [Unity 编辑器扩展拖放实现-DragAndDropEditorWindow](https://gist.github.com/rutcreate/0af3c34abd497a2bceed506f953308d7)
+- [Unity 管理所有Unity版本和工程-UnityLauncherPro
+](https://github.com/unitycoder/UnityLauncherPro?es_id=d65bb5abb5)
+- [Unity 编辑器扩展工具类-UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick)
+
 
 ## 脚本
 - [Lua性能分析器-LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity)
@@ -402,3 +421,4 @@
 - [Lua热更新框架-XLua](https://github.com/Tencent/xLua)
 - [Bash脚本教程-bash-scripting-tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 - [Github快速下载或克隆插件-FastGithub](https://github.com/RC1844/FastGithub)
+- [手机投屏工具-QtScrcpy](https://github.com/barry-ran/QtScrcpy)
