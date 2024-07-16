@@ -93,6 +93,7 @@
 - [C# 代码规范&实践-DotNet-Coding-Guidelines](https://github.com/justinamiller/DotNet-Coding-Guidelines?utm_source=csharpdigest&utm_medium=email&utm_campaign=351)
 - [Unity 字典序列化-SerializableTupleCollection](http://wiki.unity3d.com/index.php/SerializableTupleCollection)
 - [C# 程序集加密方案-DCNETProtector](https://github.com/dcsoft-yyf/DCNETProtector)
+- [ScriptableObjectCollection-提高Scriptable Objects可用性的库](https://github.com/brunomikoski/ScriptableObjectCollection)
 
 ## 算法
 - [Unity 伪随机数-UnityRandom](https://github.com/tucano/UnityRandom)
@@ -178,6 +179,8 @@
 - [Unity UGUI界面纹理镜像显示-MirrorReflectionEffectForUGUI](https://github.com/mob-sakai/MirrorReflectionEffectForUGUI)
 - [Unity NGUI扩展-NGUIExtension](https://github.com/kimsama/Unity-NGUIExtension)
 - [Unity 一个免费的Tween-LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595?aid=1101lSqC&utm_source=aff)
+- [Animation-Sequencer - 代替DOTween做UI动画的库](https://github.com/brunomikoski/Animation-Sequencer)
+- [UIManager-强大的UI管理框架](https://github.com/brunomikoski/UIManager)
 
 ## 性能
 - [Unity 超强性能监视器-graphy](https://github.com/Tayx94/graphy)
@@ -358,6 +361,7 @@
 - [Unity 编辑器多开同步插件-ParrelSync
 ](https://github.com/VeriorPies/ParrelSync)
 - [Unity 运行时Gizmos](https://github.com/popcron/gizmos)
+- [Debug-Panel 游戏运行时的调试面板](https://github.com/brunomikoski/Debug-Panel)
 
 
 ## 打包
@@ -413,7 +417,9 @@
 ](https://github.com/unitycoder/UnityLauncherPro?es_id=d65bb5abb5)
 - [Unity 编辑器扩展工具类-UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick)
 
-
+## AI
+- [GOAP - 强大的多线程目标导向行动计划系统](https://github.com/crashkonijn/GOAP)
+  
 ## 脚本
 - [Lua性能分析器-LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity)
 - [Unity C#代码热更新-ILRuntime](https://github.com/Ourpalm/ILRuntime)
