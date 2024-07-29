@@ -14,7 +14,6 @@
 - [Unity 基础框架-MyUnityFrameWork](https://github.com/GaoKaiHaHa/MyUnityFrameWork)
 - [Unity 游戏框架-GameFramework](https://github.com/EllanJiang/GameFramework)
 - [Unity 公用框架和工具-Moments](https://github.com/Elringus/UnityCommon)
-- [Unity 基础框架-TEDCore](https://github.com/ted10401/TEDCore)
 - [Unity 小框架-Autoya](https://github.com/sassembla/Autoya)
 - [Unity 公共代码库-UnityCommon](https://github.com/Elringus/UnityCommon)
 - [Unity 游戏框架-CatLib](https://github.com/CatLib/Core)
