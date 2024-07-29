@@ -99,7 +99,6 @@
 - [Unity 增强的触发器-Enhanced-Trigger-Box](https://github.com/Alexander-Scott/Enhanced-Trigger-Box)
 - [Unity A*寻路极致优化-Simple-optimized-A-Pathfinder](https://github.com/badawe/Simple-optimized-A-Pathfinder)
 - [Unity 自动LOD优化-AutoLOD](https://github.com/Unity-Technologies/AutoLOD)
-- [Unity 多线程访问API-UnityLoom](https://github.com/cathy33/UnityLoom)
 - [Unity 八叉树实现-UnityOctree](https://github.com/Nition/UnityOctree)
 - [Unity 设计模式-Unity-Design-Pattern](https://github.com/QianMo/Unity-Design-Pattern)
 - [Unity C#数据结构和算法-C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms)
