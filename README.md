@@ -55,10 +55,12 @@
 - [Unity  Unity 实用程序库-Unity-Utils](https://github.com/adammyhre/Unity-Utils?)
 - [Unity 实现UE的GAS框架-UnityGAS](https://github.com/h2v9696/UnityGAS?)
 - [Unity 强大的游戏前端框架-HTFramework](https://github.com/SaiTingHu/HTFramework)
+- [Unity 核心代码封装-UExtension](https://github.com/ls9512/UExtension?)
 
 ## GamePlay
 - [Unity 基于节点的对话系统-Dialogue-Node-System](https://github.com/ClemGG/Dialogue-Node-System?)
 - [Unity 基于节点的对话系统-fluid-dialogue](https://github.com/ashblue/fluid-dialogue)
+- [Unity 基于节点的对话系统-com.studio23.ss2.dialoguesystem](https://github.com/Studio-23-xyz/com.studio23.ss2.dialoguesystem?)
 - [Unity 事件系统，具有多级错误检查和视觉反馈-Tranzmit](https://github.com/code-blep/Tranzmit?)
 - [Unity 动作角色扮演游戏 - 中级/高级 Unity C# 游戏开发-RPGProject](https://github.com/ChoiBeomgyuItBoy/RPGProject?)
 - [Unity 项目工程模板-unity-project-template](https://github.com/SamuelAsherRivello/unity-project-template?)
@@ -225,6 +227,7 @@
 - [Unity 启动界面和图标生成工具-Splashdown](https://github.com/Ale1/Splashdown?)
 - [Unity 一个用于构建用户界面的轻量级模块化框架-Graphene](https://github.com/LudiKha/Graphene?)
 - [Unity UI 选项卡菜单-unity-tabsystem](https://github.com/b3x206/unity-tabsystem?)
+- [Unity UI数据绑定框架-DataBinding](https://github.com/JochenHeckl/DataBinding?)
 
 ## 性能
 - [Unity 超强性能监视器-graphy](https://github.com/Tayx94/graphy)
@@ -232,6 +235,7 @@
 - [Unity 官方合批被打断的各种情况-BatchBreakingCause](https://github.com/Unity-Technologies/BatchBreakingCause)
 - [Unity 堆内存性能分析-UnityHeapExplorer](https://bitbucket.org/pschraut/unityheapexplorer/src/master/)
 - [Unity 内存快照工具-UnityMemorySnapshotThing](https://github.com/SamboyCoding/UnityMemorySnapshotThing?)
+- [Unity GPU Instance优化工具-GPUInstance](https://github.com/mkrebser/GPUInstance?)
 
 
 ## 图形
@@ -432,6 +436,7 @@
 - [Unity 自定义贝塞尔路径工具-PathTools](https://github.com/romifauzi/PathTools?)
 - [Unity Hierarchy增强工具-HierarchyPlus](https://github.com/Dreadrith/HierarchyPlus?)
 - [Unity Lightmap动态设置方案-Lightmap switching tool](https://github.com/laurenth-personal/lightmap-switching-tool?)
+- [Unity adb命令的C#封装-AdvancedSharpAdbClient](https://github.com/SharpAdb/AdvancedSharpAdbClient?)
 
 
 ## 打包
@@ -461,6 +466,8 @@
 - [Unity 二进制序列化工具-QuickBin](https://github.com/abledbody/QuickBin?)
 - [Unity 场景引用框架-Eflatun.SceneReference](https://github.com/starikcetin/Eflatun.SceneReference)
 - [Unity 高性能的序列化库-Nino](https://list.marronegames.com/l/6Yv2ZBHwVodsOwnmaMsXTw/UCgsNQVbmIivxsWoadqMEw/axPnYruOiL7d8Lqg2FrOtw)
+- [Unity 简单的key value保存系统-unity-key-value-store](https://github.com/gilzoide/unity-key-value-store?)
+- [Unity 游戏设置数据管理框架-UnitySettingsFramework](https://github.com/xZenvin/UnitySettingsFramework?)
 
 ## 编辑器
 - [Unity 编辑器使用工具-UnityEditorUtils](https://github.com/insthync/UnityEditorUtils)
@@ -499,6 +506,8 @@
 - [Unity 显示丢失组件信息-missing-component-info](https://github.com/needle-tools/missing-component-info?)
 - [Unity 用于选择要在 Unity 中序列化的子类的属性-ChoiceReferenceAttribute](https://github.com/Paulsams/ChoiceReferenceAttribute?)
 - [Unity 专注于脚本字段检查器增强的 Unity Inspector 扩展工具-SaintsField](https://github.com/TylerTemp/SaintsField?)
+- [Unity 编辑器界面扩展工具-VTools](https://github.com/VictorHHT/VTools)
+- [Unity 在场景窗口中右键单击选择光标下的UI对象-SceneViewUIObjectPickerContextWindow](https://gist.github.com/yasirkula/06edc780beaa4d8705b3564d60886fa6)
 
 ## AI
 - [GOAP - 强大的多线程目标导向行动计划系统](https://github.com/crashkonijn/GOAP)
@@ -515,3 +524,4 @@
 
 ## 其它
 - [Unity面试题总结-Unity-InterviewQuestion](https://github.com/Lafree317/Unity-InterviewQuestion)
+- [Unity Shader Demo代码](https://github.com/csdjk/LearnUnityShader)
