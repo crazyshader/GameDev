@@ -38,7 +38,6 @@
 - [Unity 游戏框架-ColaFrameWork](https://github.com/XINCGer/ColaFrameWork)
 - [Crash 分析服务-superdump](https://github.com/Dynatrace/superdump)
 - [Unity 代码集合-Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection)
-- [Unity ECS框架-Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp)
 - [Unity 连式编程框架-UniRx - Reactive Extensions for Unity](https://assetstore.unity.com/packages/tools/integration/unirx-reactive-extensions-for-unity-17276?aid=1101lSqC&utm_source=aff)
 - [Unity 跨平台网络库-Photon Unity Networking Classic - FREE](https://assetstore.unity.com/packages/tools/network/photon-unity-networking-classic-free-1786?aid=1101lSqC&utm_source=aff)
 - [Unity 面向后端的网络框架-ForgeNetworkingRemastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered)
@@ -56,8 +55,15 @@
 - [Unity 实现UE的GAS框架-UnityGAS](https://github.com/h2v9696/UnityGAS?)
 - [Unity 强大的游戏前端框架-HTFramework](https://github.com/SaiTingHu/HTFramework)
 - [Unity 核心代码封装-UExtension](https://github.com/ls9512/UExtension?)
+- [Unity 游戏客户端和服务器框架-ET](https://github.com/egametang/ET)
+- [Unity 国人实现的RPG武侠游戏框架-jynew](https://github.com/jynew/jynew)
+- [支持多款引擎的游戏客户端和服务器框架-NoahGameFrame](https://github.com/ketoo/NoahGameFrame)
 
 ## GamePlay
+- [游戏开发的资源集合-anything_about_game](https://github.com/killop/anything_about_game)
+- [Unity 开源GitHub资源集合-awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github)
+- [Unity Github开源库集合-awesome-opensource-unity](https://github.com/StefanoCecere/awesome-opensource-unity)
+- [Unity] Unity免费资源集合-awesome-unity(https://github.com/RyanNielson/awesome-unity)
 - [Unity 基于节点的对话系统-Dialogue-Node-System](https://github.com/ClemGG/Dialogue-Node-System?)
 - [Unity 基于节点的对话系统-fluid-dialogue](https://github.com/ashblue/fluid-dialogue)
 - [Unity 基于节点的对话系统-com.studio23.ss2.dialoguesystem](https://github.com/Studio-23-xyz/com.studio23.ss2.dialoguesystem?)
@@ -66,6 +72,9 @@
 - [Unity 项目工程模板-unity-project-template](https://github.com/SamuelAsherRivello/unity-project-template?)
 - [Unity 本地和远程加载图像资源-Unity-ImageLoader](https://github.com/IvanMurzak/Unity-ImageLoader?)
 - [Unity 用于管理复杂任务系统-unity-quest-journal](https://github.com/ashblue/unity-quest-journal)
+- [Unity 简单的音频播放插件-LucidAudio](https://github.com/AnnulusGames/LucidAudio)
+- [支持多引擎的游戏数据配置框架-luban](https://github.com/focus-creative-games/luban)
+- [Unity 快速接入Steam的插件-Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks)
 
 ## 输入
 - [Unity 强大操纵杆和触摸板组件 - UniJoystick](https://github.com/Bian-Sh/UniJoystick?)
@@ -114,8 +123,7 @@
 - [Unity 另一个协程库-UnityAsync](https://github.com/coryleach/UnityAsync)
 - [Unity 兼容Unity组件生命周期的C#Async componenttask-unity ](https://github.com/BastianBlokland/componenttask-unity)
 - [Unity 设计模式-Unity-Programming-Patterns](https://github.com/Habrador/Unity-Programming-Patterns)
-- [Unity Dictionary序列化-generic-serializable-dictionary
-](https://github.com/upscalebaby/generic-serializable-dictionary)
+- [Unity Dictionary序列化-generic-serializable-dictionary](https://github.com/upscalebaby/generic-serializable-dictionary)
 - [C# 强大命令行解析库-commandline](https://github.com/commandlineparser/commandline)
 - [C# 代码规范&实践-DotNet-Coding-Guidelines](https://github.com/justinamiller/DotNet-Coding-Guidelines?utm_source=csharpdigest&utm_medium=email&utm_campaign=351)
 - [Unity 字典序列化-SerializableTupleCollection](http://wiki.unity3d.com/index.php/SerializableTupleCollection)
@@ -123,6 +131,8 @@
 - [ScriptableObjectCollection-提高Scriptable Objects可用性的库](https://github.com/brunomikoski/ScriptableObjectCollection)
 - [Unity 运行时编译C#代码-bowerbird](https://github.com/ara3d/bowerbird)
 - [Unity C#代码热更新方案-HybridCLR](https://github.com/focus-creative-games/hybridclr_unity)
+- [Unity C#代码生成-UnityCodeGen](https://github.com/AnnulusGames/UnityCodeGen)
+- [开源.Net反编译工具-dnSpy](https://github.com/dnSpyEx/dnSpy)
 
 ## 算法
 - [Unity 伪随机数-UnityRandom](https://github.com/tucano/UnityRandom)
@@ -165,6 +175,9 @@
 - [Unity 组件保存系统-Component-Save-System](https://github.com/AlexMeesters/Component-Save-System)
 - [Unity 将样条变形烘焙到纹理后通过着色器将其应用到网格-GPU-Spline-Deformation](https://github.com/RoyTheunissen/GPU-Spline-Deformation?)
 - [Unity 读写读写 Unity asset/bundle 文件-AssetsTools.NET](https://github.com/nesrak1/AssetsTools.NET?)
+- [Unity 开源Unity资源解包工具-AssetRipper](https://github.com/AssetRipper/AssetRipper)
+- [Unity AssetBundle解包工具-UABE](https://github.com/SeriousCache/UABE)
+- [Unity 程序化创建工具包-ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit)
 
 ## 网络
 - [Unity 基于Unity做的帧同步Demo,ECS架构-UnityLockStepDemo](https://github.com/GaoKaiHaHa/UnityLockStepDemo)
@@ -180,7 +193,8 @@
 - [Unity MagicOnion is an Realtime Network Engine](https://github.com/Cysharp/MagicOnion)
 - [Unity 网络通讯框架-unity-websocket](https://github.com/mikerochip/unity-websocket?)
 - [Unity UDP网络库-SimpleUDP](https://list.marronegames.com/l/6Yv2ZBHwVodsOwnmaMsXTw/d9LdtFLdcTwDGhozMjWtvA/axPnYruOiL7d8Lqg2FrOtw)
-
+- [多人网络游戏编程资源集合-GameNetworkingResources](https://github.com/0xFA11/GameNetworkingResources)
+- [Unity 功能强大的Mesh变形插件-Deform](https://github.com/keenanwoodall/Deform)
 
 ##  UI
 - [Unity UGUI粒子特效插件-ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI)
@@ -228,6 +242,8 @@
 - [Unity 一个用于构建用户界面的轻量级模块化框架-Graphene](https://github.com/LudiKha/Graphene?)
 - [Unity UI 选项卡菜单-unity-tabsystem](https://github.com/b3x206/unity-tabsystem?)
 - [Unity UI数据绑定框架-DataBinding](https://github.com/JochenHeckl/DataBinding?)
+- [Unity 基于UI Toolkit的调试UI工具-DebugUI](https://github.com/AnnulusGames/DebugUI)
+- [Unity 高度灵活的滚动视图组件-FancyScrollView](https://github.com/setchi/FancyScrollView)
 
 ## 性能
 - [Unity 超强性能监视器-graphy](https://github.com/Tayx94/graphy)
@@ -295,6 +311,9 @@
 - [Unity 平滑描边发现工具-OutlineNormalSmoother](https://github.com/JasonMa0012/OutlineNormalSmoother?)
 - [Unity URP体积光效果-Unity-URP-Volumetric-Light](https://github.com/CristianQiu/Unity-URP-Volumetric-Light?)
 - [Unity 风格化水效果-unity-stylized-water](https://github.com/danielshervheim/unity-stylized-water)
+- [Unity 3D游戏Shader初学者入门-3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
+- [Unity URP卡通渲染示例-UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
+- [Unity 高品质游戏后处理库-X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library)
 
 ## 动画
 - [Unity 大规模群体动画渲染-Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters)
@@ -437,6 +456,13 @@
 - [Unity Hierarchy增强工具-HierarchyPlus](https://github.com/Dreadrith/HierarchyPlus?)
 - [Unity Lightmap动态设置方案-Lightmap switching tool](https://github.com/laurenth-personal/lightmap-switching-tool?)
 - [Unity adb命令的C#封装-AdvancedSharpAdbClient](https://github.com/SharpAdb/AdvancedSharpAdbClient?)
+- [Unity 数据可视化插件-XCharts](https://github.com/XCharts-Team/XCharts)
+- [Unity 游戏破解方案指导-Unity-game-hacking](https://github.com/imadr/Unity-game-hacking)
+- [Unity IL2CPP逆向工具-Il2CppInspector](https://github.com/djkaty/Il2CppInspector)
+- [Unity Unity游戏Mod加载器-MelonLoader](https://github.com/LavaGang/MelonLoader)
+- [Unity 运行时dump IL2CPP数据-Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper)
+- [Unity 运行时游戏调试的工具-UnityExplorer](https://github.com/sinai-dev/UnityExplorer))
+- [Unity 在游戏中建立交互式对话的工具-YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner)
 
 
 ## 打包
@@ -468,6 +494,8 @@
 - [Unity 高性能的序列化库-Nino](https://list.marronegames.com/l/6Yv2ZBHwVodsOwnmaMsXTw/UCgsNQVbmIivxsWoadqMEw/axPnYruOiL7d8Lqg2FrOtw)
 - [Unity 简单的key value保存系统-unity-key-value-store](https://github.com/gilzoide/unity-key-value-store?)
 - [Unity 游戏设置数据管理框架-UnitySettingsFramework](https://github.com/xZenvin/UnitySettingsFramework?)
+- [Unity C#版本的MessagePack序列化工具-MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp)
+- [Unity 无限快的反序列化框架-ZeroFormatter](https://github.com/neuecc/ZeroFormatter)
 
 ## 编辑器
 - [Unity 编辑器使用工具-UnityEditorUtils](https://github.com/insthync/UnityEditorUtils)
@@ -508,20 +536,25 @@
 - [Unity 专注于脚本字段检查器增强的 Unity Inspector 扩展工具-SaintsField](https://github.com/TylerTemp/SaintsField?)
 - [Unity 编辑器界面扩展工具-VTools](https://github.com/VictorHHT/VTools)
 - [Unity 在场景窗口中右键单击选择光标下的UI对象-SceneViewUIObjectPickerContextWindow](https://gist.github.com/yasirkula/06edc780beaa4d8705b3564d60886fa6)
+- [Unity 基于节点的编辑器框架-xNode](https://github.com/Siccity/xNode)
 
 ## AI
 - [GOAP - 强大的多线程目标导向行动计划系统](https://github.com/crashkonijn/GOAP)
 - [ConfederateAI - Unity AI框架](https://github.com/CursedPrograms/ConfederateAI?)
+- [腾讯开源支持行为树、状态机和分层任务网络的AI框架-behaviac](https://github.com/Tencent/behaviac)
   
 ## 脚本
 - [Lua性能分析器-LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity)
 - [Unity C#代码热更新-ILRuntime](https://github.com/Ourpalm/ILRuntime)
+- [Unity lua的热更新方案-tolua](https://github.com/topameng/tolua)
 - [Unity C#代码热更新-cshotfix](https://github.com/qq576067421/cshotfix)
 - [Lua热更新框架-XLua](https://github.com/Tencent/xLua)
 - [Bash脚本教程-bash-scripting-tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 - [Github快速下载或克隆插件-FastGithub](https://github.com/RC1844/FastGithub)
 - [手机投屏工具-QtScrcpy](https://github.com/barry-ran/QtScrcpy)
+- [Unity 腾讯开源TS脚本游戏开源框架-puerts](https://github.com/Tencent/puerts)
 
 ## 其它
 - [Unity面试题总结-Unity-InterviewQuestion](https://github.com/Lafree317/Unity-InterviewQuestion)
 - [Unity Shader Demo代码](https://github.com/csdjk/LearnUnityShader)
+- [最全面的游戏开发技术图谱-GameDevMind](https://github.com/gonglei007/GameDevMind)
