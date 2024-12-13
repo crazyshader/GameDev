@@ -269,6 +269,7 @@
 - [Unity TextMeshPro中文字符集-Unity-TextMeshPro-Chinese-Characters-Set](https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set)
 - [Unity 可循环重复使用的Scroll组件-Recyclable-Scroll-Rect](https://github.com/MdIqubal/Recyclable-Scroll-Rect)
 - [游戏开发中常用字库-CommonChineseCharacter](https://github.com/DavidSheh/CommonChineseCharacter)
+- [Unity 基于UGUI的UI框架-YIUI](https://github.com/LiShengYang-yiyi/YIUI)
 
 ## 性能
 - [Unity 超强性能监视器-graphy](https://github.com/Tayx94/graphy)
@@ -602,11 +603,13 @@
 - [Unity 支持2D的NavMesh寻路工具-NavMeshPlus](https://github.com/h8man/NavMeshPlus)
 - [Unity 游戏中使用OpenAI框架-OpenAI-Unity](https://github.com/srcnalt/OpenAI-Unity)
 - [游戏AI开发工具-ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools)
+- [Unity 类似特斯拉Model Y的汽车自动导航寻路系统-Self-driving-vehicle](https://github.com/Habrador/Self-driving-vehicle)
 
   
 ## 脚本
 - [Lua性能分析器-LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity)
 - [Unity C#代码热更新-ILRuntime](https://github.com/Ourpalm/ILRuntime)
+- [Unity C#代码热更新示例-ILRuntime_HotGames](https://github.com/yukuyoulei/ILRuntime_HotGames)
 - [Unity 使Unity开发的游戏支持热更新的解决方案-JEngine](https://github.com/JasonXuDeveloper/JEngine)
 - [Unity lua的热更新方案-tolua](https://github.com/topameng/tolua)
 - [Unity C#代码热更新-cshotfix](https://github.com/qq576067421/cshotfix)
