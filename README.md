@@ -62,6 +62,7 @@
 - [Unity 基于ScriptableObject的框架-ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture)
 - [Unity 国人实现的Unity游戏框架-F8Framework](https://github.com/TippingGame/F8Framework)
 - [Unity 类似UE的GAS框架-gameplay-ability-system-for-unity](https://github.com/No78Vino/gameplay-ability-system-for-unity)
+- [Unity 自动获取场景组件或对象的引用-scene-ref-attribute](https://github.com/KyleBanks/scene-ref-attribute)
 
 ## GamePlay
 - [游戏开发的资源集合-anything_about_game](https://github.com/killop/anything_about_game)
@@ -417,6 +418,7 @@
 - [Unity 软体物理-Unity-SoftBody-physics](https://github.com/ehsanwwe/Unity-SoftBody-physics?)
 - [Unity Mesh拆分和破碎系统-OpenFracture](https://github.com/dgreenheck/OpenFracture)
 - [Unity 基于位置的2D物理模拟-PBD2D](https://github.com/andywiecko/PBD2D?)
+- [Unity 布料弹簧系统-Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone)
 
 ## 特效
 - [Unity Post Processing Stack实用脚本-PostProcessingUtilities](https://github.com/keijiro/PostProcessingUtilities)
