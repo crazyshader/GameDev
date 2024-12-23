@@ -419,6 +419,7 @@
 - [Unity Mesh拆分和破碎系统-OpenFracture](https://github.com/dgreenheck/OpenFracture)
 - [Unity 基于位置的2D物理模拟-PBD2D](https://github.com/andywiecko/PBD2D?)
 - [Unity 布料弹簧系统-Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone)
+- [Unity 用于为骨骼和网格添加弹性物理特性的插件-UnityJigglePhysics](https://github.com/naelstrof/UnityJigglePhysics?)
 
 ## 特效
 - [Unity Post Processing Stack实用脚本-PostProcessingUtilities](https://github.com/keijiro/PostProcessingUtilities)
@@ -564,6 +565,7 @@
 - [Unity Android无线调试链接脚本-AndroidWirelessDebuggingAutoConnect](https://gist.github.com/yasirkula/289a0eb41794c67ef1a18f082d491a74#file-androidwirelessdebuggingautoconnect-cs)
 - [Unity 运行时Unity编辑调试工具-RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor?tab=readme-ov-file)
 - [Unity Excel数据转ScriptableObject工具-excel_to_scriptableobject](https://github.com/greatclock/excel_to_scriptableobject)
+- [Unity 实现运行时显示Hierarchy和InSpector的工具-UnityDynamicPanels](https://github.com/yasirkula/UnityDynamicPanels?)
 
 
 ## 打包
