@@ -26,9 +26,10 @@
 - [从零开始手敲次世代游戏引擎-GameEngineFromScratch](https://github.com/netwarm007/GameEngineFromScratch)
 - [实验性实时全局照明渲染器](https://github.com/EmbarkStudios/kajiya?)
 - [简单、现代、纯代码 C# 游戏引擎-KorpiEngine](https://github.com/japsuu/KorpiEngine?)
-- [开源跨平台的C++游戏引擎=U3D](https://github.com/u3d-community/U3D)
+- [开源跨平台的C++游戏引擎-U3D](https://github.com/u3d-community/U3D)
 - [开源C#游戏引擎-Prowl](https://github.com/michaelsakharov/Prowl?)
-
+- [开源C++游戏引擎-crown](https://github.com/crownengine/crown)
+  
 </details>
 
 <details open>
@@ -72,6 +73,7 @@
 - [Unity 类似UE的GAS框架-gameplay-ability-system-for-unity](https://github.com/No78Vino/gameplay-ability-system-for-unity)
 - [Unity 实现UE的GAS框架-UnityGAS](https://github.com/h2v9696/UnityGAS?)
 - [Unity 项目工程模板-unity-project-template](https://github.com/SamuelAsherRivello/unity-project-template?)
+- [Unity 快速构建游戏的组件集合-JCSUnity](https://github.com/jcs090218/JCSUnity?)
   
 </details>
 
@@ -119,6 +121,8 @@
 - [Unity 轻量级的技能框架-EGamePlay](https://github.com/m969/EGamePlay)
 - [Unity 分层有限状态机框架-UnityHFSM](https://github.com/Inspiaaa/UnityHFSM)
 - [Unity 最小依赖注入的框架-Reflex](https://github.com/gustavopsantos/Reflex)
+- [Unity 单位对象选择系统-Unit Selection System](https://assetstore.unity.com/packages/tools/input-management/unit-selection-system-295674?aid=1011l37no&pubref=x)
+- [Unity 游戏内截图并支持水印-Social Network Screenshot Creator](https://assetstore.unity.com/packages/tools/utilities/social-network-screenshot-creator-295455?aid=1011l37no&pubref=x)
 
 </details>
 
@@ -465,6 +469,7 @@
 - [Unity UI图像圆角自动生成-Unity-UI-Rounded-Corners](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners)
 - [Unity TextMeshPro文本组件之字体图集生成-UnityTMProFontCustomizedCreater](https://github.com/akof1314/UnityTMProFontCustomizedCreater)
 - [Unity Noesis UI Flow 框架-UIFlow](https://github.com/LizzyFox-code/UIFlow?)
+- [Unity 运行时移动旋转缩放Canvas-Bounding Box](https://assetstore.unity.com/packages/2d/gui/bounding-box-289226)
 - 
 </details>
 
@@ -503,7 +508,8 @@
 - [游戏开发中常用字库-CommonChineseCharacter](https://github.com/DavidSheh/CommonChineseCharacter)
 - [Unity 高度灵活的滚动视图组件-FancyScrollView](https://github.com/setchi/FancyScrollView)
 - [Unity UGUI的软化Mask插件-SoftMaskForUGUI](https://github.com/mob-sakai/SoftMaskForUGUI)
-- [Unity UI 选项卡菜单-unity-tabsystem](https://github.com/b3x206/unity-tabsystem?)
+- [Unity 选项卡菜单-unity-tabsystem](https://github.com/b3x206/unity-tabsystem?)
+- [Unity 动态可扩展的Scroll组件-MMAR ScrollSystem](https://assetstore.unity.com/packages/2d/gui/mmar-scrollsystem-294872)
   
 </details>
 
@@ -519,28 +525,41 @@
 - [Unity 游戏调试UI面板-uni-debug-panel](https://github.com/baba-s/uni-debug-panel)
 - [Unity 运行时线条绘制实用程序-NDraw](https://github.com/nothke/NDraw?)
 - [Unity 使用 ImGui.NET 的即时模式 GUI 库的 UPM 包-uimgui](https://github.com/psydack/uimgui?)
+- [Unity 运行时日志系统-Realtime In Game Log Console](https://assetstore.unity.com/packages/tools/gui/realtime-in-game-log-console-212758)
 - 
 </details>
 
 </details>
 
 <details open>
-<summary><h2>分析工具</h2></summary>
+<summary><h2>性能</h2></summary>
 
+<details open>
+<summary><h3>分析工具</h3></summary>
+  
 - [Unity 超强性能监视器-graphy](https://github.com/Tayx94/graphy)
 - [Unity CE性能调试工具-renderdoc](https://github.com/baldurk/renderdoc)
-- [Unity 官方合批被打断的各种情况-BatchBreakingCause](https://github.com/Unity-Technologies/BatchBreakingCause)
 - [Unity 堆内存性能分析-UnityHeapExplorer](https://bitbucket.org/pschraut/unityheapexplorer/src/master/)
 - [Unity 内存快照工具-UnityMemorySnapshotThing](https://github.com/SamboyCoding/UnityMemorySnapshotThing?)
 - [Unity GPU Instance优化工具-GPUInstance](https://github.com/mkrebser/GPUInstance?)
 - [Unity 自能Mesh合并工具-intelligent_mesh_combiner](https://github.com/roundyyy/intelligent_mesh_combiner?)
 - [Unity 将屏幕截图嵌入到 Unity Profiler 协议中-ScreenshotToUnityProfiler](https://github.com/wotakuro/ScreenshotToUnityProfiler?)
 - [Unity 事件调试器-UnityEventDebugger](https://github.com/KevinHagen/UnityEventDebugger)
-- [Unity 运行时Gizmos](https://github.com/popcron/gizmos)
 - [Unity 工程静态性能分析工具-ProjectAuditor](https://github.com/mtrive/ProjectAuditor)
-- [Debug-Panel 游戏运行时的调试面板](https://github.com/brunomikoski/Debug-Panel)
 - [Unity 粒子特效性能分析工具-ParticleEffectProfiler](https://github.com/sunbrando/ParticleEffectProfiler)
-  
+
+</details>
+
+<details open>
+<summary><h3>优化方案</h3></summary>
+
+- [Unity 官方合批被打断的各种情况-BatchBreakingCause](https://github.com/Unity-Technologies/BatchBreakingCause)
+- [Unity 运行时Gizmos](https://github.com/popcron/gizmos)
+- [Unity Debug-Panel 游戏运行时的调试面板](https://github.com/brunomikoski/Debug-Panel)
+- [Unity Mesh合并工具-intelligent_mesh_combiner](https://github.com/roundyyy/intelligent_mesh_combiner?)
+- [Unity Terrian到Mesh转换工具-FastTerrainToMesh](https://github.com/roundyyy/FastTerrainToMesh)
+
+</details>  
 </details>
 
 <details open>
@@ -642,7 +661,7 @@
 - [Unity 内置管线升级到URP说明-From-Built-in-to-URP](https://teofilobd.github.io/unity/shaders/urp/graphics/2020/05/18/From-Built-in-to-URP.html)
 - [Unity Shader库-unity-shaders](https://github.com/adrian-miasik/unity-shaders)
 - [Unity 体积雾-unity-volumetric-fog](https://github.com/SiiMeR/unity-volumetric-fog)
-- [Unity URP体积光效果-Unity-URP-Volumetric-Light](https://github.com/CristianQiu/Unity-URP-Volumetric-Light?)
+- [Unity URP体积光效果-In-Game-Color-Picker-For-Unity](https://github.com/CristianQiu/In-Game-Color-Picker-For-Unity?)
 - [Unity 风格化水效果-unity-stylized-water](https://github.com/danielshervheim/unity-stylized-water)
 - [Unity 3D游戏Shader初学者入门-3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 - [Unity Shader Demo代码](https://github.com/csdjk/LearnUnityShader)
@@ -710,6 +729,7 @@
 - [Unity 高性能Tween库-LitMotion](https://github.com/AnnulusGames/LitMotion)
 - [Unity 等待动画完成的自定义Yield-UnityWaitForAnim](https://github.com/ComradeVanti/UnityWaitForAnim?)
 - [Unity 功能强大的Mesh变形插件-Deform](https://github.com/keenanwoodall/Deform)
+- [Unity 动画路径编辑工具-3 in 1 Animation tools | Animation path](https://assetstore.unity.com/packages/tools/animation/3-in-1-animation-tools-animation-path-video-reference-297188?aid=1011l37no&pubref=bsky)
 
 </details>
 </details>
@@ -803,6 +823,7 @@
 - [Unity 编辑器扩展工具集-Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
 - [Unity 工具栏扩展-unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender)
 - [Unity 编辑器界面扩展工具-VTools](https://github.com/VictorHHT/VTools)
+- [Unity 多态ReorderableList扩展-Unity-Editor-PolymorphicReorderableList](https://github.com/CristianQiu/Unity-Editor-PolymorphicReorderableList)
   
 </details>
 
@@ -834,7 +855,7 @@
 - [Unity 编辑器Hierarchy装饰器-https://github.com/WooshiiDev/HierarchyDecorator](https://github.com/WooshiiDev/HierarchyDecorator)
 - [Unity 非常强大的Inspector扩展-Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
 - [Unity Hierarchy增强工具-HierarchyPlus](https://github.com/Dreadrith/HierarchyPlus?)
-- 
+- [Unity Inspector属性扩展-artificetoolkit](https://github.com/AbZorbaGames/artificetoolkit?)
 </details>
 
 <details open>
@@ -881,6 +902,7 @@
 - [Unity 管理 Unity 3D 中的资源的工具-UnityAssetManagementTools](https://github.com/NibbleByte/UnityAssetManagementTools?)
 - [Unity 简单编辑器选择历史面板-unity-history-window](https://github.com/acoppes/unity-history-window)
 - [Unity 可以更快地更改对象及其子对象的材质-QuickMaterialSwap](https://github.com/NotAKidOnSteam/QuickMaterialSwap?)
+- [Unity 自动备份工具-autobackupsaver](https://github.com/roundyyy/autobackupsaver)
 - 
 </details>
 
@@ -896,7 +918,7 @@
 - [Unity 运行时场景Gizmo-UnityRuntimeSceneGizmo](https://github.com/yasirkula/UnityRuntimeSceneGizmo)
 - [Unity 运行时程序生成Mesh框架-BMeshUnity](https://github.com/eliemichel/BMeshUnity?)
 - [Unity 运行时游戏调试的工具-UnityExplorer](https://github.com/sinai-dev/UnityExplorer))
-
+- [Unity 运行时颜色拾取器-In-Game-Color-Picker-For-Unity](https://github.com/XeniaPhe/In-Game-Color-Picker-For-Unity?)
 
 </details>
 
@@ -913,9 +935,7 @@
 - [Unity 序列帧导出工具-FrameDump](https://github.com/keijiro/FrameDump)
 - [Unity Sprite重用扩展-SpriteDicing](https://github.com/Elringus/SpriteDicing)
 - [Unity 跨平台的CubeMap生成工具-cmftStudio](https://github.com/dariomanesku/cmftStudio)
-
 - [Unity Texture_maker A texture maker tool for unity](https://github.com/M-Fatah/texture_maker)
-
 
 <details open>
 <summary><h3>其它工具</h3></summary>
@@ -973,6 +993,7 @@
 <details open>
 <summary><h2>其它</h2></summary>
 
+- [Unity 常用API使用说明-unity-cheat-sheet](https://github.com/ozankasikci/unity-cheat-sheet#singleton)
 - [Unity面试题总结-Unity-InterviewQuestion](https://github.com/Lafree317/Unity-InterviewQuestion)
 - [游戏分析原理集合-Awesome-Game-Analysis](https://github.com/OTFCG/Awesome-Game-Analysis)
 - [最全面的游戏开发技术图谱-GameDevMind](https://github.com/gonglei007/GameDevMind)
