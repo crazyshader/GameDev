@@ -143,6 +143,15 @@
 <summary><h2>脚本</h2></summary>
 
 <details open>
+<summary><h3>Visual Scripting</h3></summary>
+
+- [Unity Visual Scripting使用示例-unity-visualscripting-samples](https://github.com/avashly/unity-visualscripting-samples)
+- [Unity Bolt社区扩展-Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community)
+- [Unity 高性能可视化脚本-uNode](https://github.com/wahidrachmawan/uNode)
+
+</details>
+  
+<details open>
 <summary><h3>C#热更新</h3></summary>
 
 <details open>
