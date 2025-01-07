@@ -677,6 +677,7 @@
 - [Unity 轻量级的Shader GUI系统-LWGUI](https://github.com/JasonMa0012/LWGUI)
 - [Unity Mesh破面渲染Shader-Unity3DCrossSectionShader](https://github.com/Dandarawy/Unity3DCrossSectionShader)
 - [Unity RT涂鸦Shader-RevealShader](https://github.com/nomand/RevealShader)
+- [Unity 支持多种效果粒子Shader-NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader)
   
 </details>
 
@@ -996,6 +997,7 @@
 - [Unity ECS入门-entity-component-system-for-unity-getting-started](https://www.raywenderlich.com/7630142-entity-component-system-for-unity-getting-started)
 - [Unity 动作角色扮演游戏 - 中级/高级 Unity C# 游戏开发-RPGProject](https://github.com/ChoiBeomgyuItBoy/RPGProject?)
 - [Unity 官方机器人模拟-Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
+- [Unity 重制暴雪《星际争霸》-startcraft-unity3d](https://github.com/coconauts/startcraft-unity3d/tree/master)
 
 </details>
 
@@ -1006,5 +1008,7 @@
 - [Unity面试题总结-Unity-InterviewQuestion](https://github.com/Lafree317/Unity-InterviewQuestion)
 - [游戏分析原理集合-Awesome-Game-Analysis](https://github.com/OTFCG/Awesome-Game-Analysis)
 - [最全面的游戏开发技术图谱-GameDevMind](https://github.com/gonglei007/GameDevMind)
+- [解决Github访问时图裂、加载慢的问题-GitHub520](https://github.com/521xueweihan/GitHub520)
+- [Git的奇技淫巧-git-tips](https://github.com/521xueweihan/git-tips)
 
 </details>
