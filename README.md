@@ -519,6 +519,7 @@
 - [Unity UGUI的软化Mask插件-SoftMaskForUGUI](https://github.com/mob-sakai/SoftMaskForUGUI)
 - [Unity 选项卡菜单-unity-tabsystem](https://github.com/b3x206/unity-tabsystem?)
 - [Unity 动态可扩展的Scroll组件-MMAR ScrollSystem](https://assetstore.unity.com/packages/2d/gui/mmar-scrollsystem-294872)
+- [Unity 环形饼状菜单-Simple Pie Menu | Radial Menu Asset](https://assetstore.unity.com/packages/tools/gui/simple-pie-menu-radial-menu-asset-270056?aid=1011l37no&pubref=x)
   
 </details>
 
@@ -913,6 +914,9 @@
 - [Unity 简单编辑器选择历史面板-unity-history-window](https://github.com/acoppes/unity-history-window)
 - [Unity 可以更快地更改对象及其子对象的材质-QuickMaterialSwap](https://github.com/NotAKidOnSteam/QuickMaterialSwap?)
 - [Unity 自动备份工具-autobackupsaver](https://github.com/roundyyy/autobackupsaver)
+- [Unity 支持在编辑器进行C#代码编辑工具-SuperEditor](https://github.com/UnitySuperEditor/SuperEditor)
+- [Unity 官方支持的分析资源依赖关系的插件-com.unity.search.extensions](https://github.com/Unity-Technologies/com.unity.search.extensions)
+- [Unity 基于正则表达式的资源引用快速搜索工具-Find References To Asset](https://assetstore.unity.com/packages/tools/utilities/find-references-to-asset-271348)
 - 
 </details>
 
@@ -973,6 +977,7 @@
 - [Unity Android 和 iOS 上使用设备相机拍照/录制视频-UnityNativeCamera](https://github.com/yasirkula/UnityNativeCamera?)
 - [Unity Android无线调试链接脚本-AndroidWirelessDebuggingAutoConnect](https://gist.github.com/yasirkula/289a0eb41794c67ef1a18f082d491a74#file-androidwirelessdebuggingautoconnect-cs)
 - [Unity 工程符号链接-unity-symbolic-project-linker](https://github.com/thsbrown/unity-symbolic-project-linker)
+
 
 </details>
  
