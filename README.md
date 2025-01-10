@@ -74,6 +74,7 @@
 - [Unity 实现UE的GAS框架-UnityGAS](https://github.com/h2v9696/UnityGAS?)
 - [Unity 项目工程模板-unity-project-template](https://github.com/SamuelAsherRivello/unity-project-template?)
 - [Unity 快速构建游戏的组件集合-JCSUnity](https://github.com/jcs090218/JCSUnity?)
+- [Unity DOTS框架-Latios-Framework](https://github.com/Dreaming381/Latios-Framework)
   
 </details>
 
@@ -615,6 +616,7 @@
 - [Unity 风格化的效果实现细节-Kamakura Shaders**](https://github.com/kayac/kamakura-shaders)
 - [Unity 卡通渲染效果实现-Toon Shader Free](https://assetstore.unity.com/packages/vfx/shaders/toon-shader-free-21288?aid=1101%7CSqC&utm_source=aff)
 - [Unity 图形描边-Outline-Effect](https://github.com/cakeslice/Outline-Effect)
+- [Unity 对象快速描边-QuickOutline](https://github.com/chrisnolet/QuickOutline)
   
 </details>
 
