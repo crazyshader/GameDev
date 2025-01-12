@@ -10,6 +10,7 @@
 - [Unity Github开源库集合-awesome-opensource-unity](https://github.com/StefanoCecere/awesome-opensource-unity)
 - [Unity Unity免费资源集合-awesome-unity](https://github.com/RyanNielson/awesome-unity)
 - [Unity 免费资源集合-awesome-unity](https://github.com/proyecto26/awesome-unity)
+- [Unity 游戏AI开发工具集合-ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools?)
 
 </details>
 
@@ -111,6 +112,7 @@
 - [Unity 强大操纵杆和触摸板组件 - UniJoystick](https://github.com/Bian-Sh/UniJoystick?)
 - [Unity 游戏中按 Tab 键的导航功能-EasyTab](https://github.com/dav-sea/EasyTab?)
 - [Unity 输入系统回放-UnityInputReplay](https://github.com/LetsBuildGG/UnityInputReplay)
+- [Unity 使用新输入系统的鼠标和键盘提示管理-InputGlyphs](https://github.com/eviltwo/InputGlyphs?)
 
 
 <details open>
@@ -360,6 +362,7 @@
 - [Unity 通过Shader查找使用的所有材质-unity-search-material-by-shader](https://github.com/JakeCarterDPM/unity-search-material-by-shader?)
 - [Unity 查找丢失的脚本组件-DeleteMissingScripts](https://github.com/snoopyuj/DeleteMissingScripts?)
 - [Unity 使用Python实现的Unity资源解包工具-UnityPy](https://github.com/K0lb3/UnityPy)
+- [Unity Steam打包上传工具-UnitySteamBuildUploader](https://github.com/JamesVeug/UnitySteamBuildUploader?)
 
 - 
 </details>
@@ -394,6 +397,7 @@
 <summary><h3>多语言</h3></summary>
  
 - [Unity 免费多语言框架-Lean Localization](https://assetstore.unity.com/packages/tools/localization/lean-localization-28504?aid=1101lSqC&utm_source=aff)
+- [Unity 模块化读语言框架-DGG-Localization](https://github.com/DaniilDGG/DGG-Localization?)
 
 </details>
 
@@ -919,6 +923,7 @@
 - [Unity 支持在编辑器进行C#代码编辑工具-SuperEditor](https://github.com/UnitySuperEditor/SuperEditor)
 - [Unity 官方支持的分析资源依赖关系的插件-com.unity.search.extensions](https://github.com/Unity-Technologies/com.unity.search.extensions)
 - [Unity 基于正则表达式的资源引用快速搜索工具-Find References To Asset](https://assetstore.unity.com/packages/tools/utilities/find-references-to-asset-271348)
+- [Unity Spline轨道模型生成工具-TrackGenerator](https://github.com/rob1997/TrackGenerator?)
 - 
 </details>
 
