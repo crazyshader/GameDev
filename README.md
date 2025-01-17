@@ -11,6 +11,8 @@
 - [Unity Unity免费资源集合-awesome-unity](https://github.com/RyanNielson/awesome-unity)
 - [Unity 免费资源集合-awesome-unity](https://github.com/proyecto26/awesome-unity)
 - [Unity 游戏AI开发工具集合-ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools?)
+- [AI代码生成工具集合-awesome-ai-coding](https://github.com/wsxiaoys/awesome-ai-coding)
+- [Unity游戏开发技术集合-GameAndUnity-TechLib](https://github.com/m969/GameAndUnity-TechLib)
 
 </details>
 
@@ -139,6 +141,7 @@
 - [C++实现的游戏服务器框架-GameProject3](https://github.com/ylmbtm/GameProject3)
 - [springboot编写的高性能分布式mmorpg手游服务端框架-mmorpg](https://github.com/kingston-csj/mmorpg)
 - [支持不同引擎的游戏后端实现-rivet](https://github.com/rivet-gg/rivet?)
+- [轻量级的Actor模型服务器框架-moon](https://github.com/sniper00/moon)
 
 </details>
 
