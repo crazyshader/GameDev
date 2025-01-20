@@ -97,7 +97,22 @@
 </details>
 
 <details open>
-<summary><h3>对话系统</h2></summary>
+<summary><h3>事件系统</h3></summary>
+
+- [Unity 使用PubSub模式和响应式编程原则管理游戏内事件的简单解决方案](https://github.com/DevsDaddy/UnityEventFramework)
+
+</details>
+
+<details open>
+<summary><h3>安全系统</h3></summary>
+
+- [Unity 游戏反外挂数据加密和内存保护的解决方案-GameShield](https://github.com/DevsDaddy/GameShield?)
+- [Unity 包含多种加密算法的数据加解密库-UnityCrypto](https://github.com/DevsDaddy/UnityCrypto)
+
+</details>
+
+<details open>
+<summary><h3>对话系统</h3></summary>
   
 - [Unity 基于节点的对话系统-Dialogue-Node-System](https://github.com/ClemGG/Dialogue-Node-System?)
 - [Unity 基于节点的对话系统-NodeBasedDialogueSystem](https://github.com/merpheus-dev/NodeBasedDialogueSystem)
@@ -116,10 +131,12 @@
 - [Unity 输入系统回放-UnityInputReplay](https://github.com/LetsBuildGG/UnityInputReplay)
 - [Unity 使用新输入系统的鼠标和键盘提示管理-InputGlyphs](https://github.com/eviltwo/InputGlyphs?)
 
-
+</details>
+ 
 <details open>
 <summary><h3>其它</h2></summary>
- 
+
+- [Unity 计时器管理器-UnityTimer](https://github.com/Mr-sB/UnityTimer?)
 - [Unity 具有多级错误检查和视觉反馈的事件系统-Tranzmit](https://github.com/code-blep/Tranzmit?)
 - [Unity 用于管理复杂任务系统-unity-quest-journal](https://github.com/ashblue/unity-quest-journal)
 - [Unity 快速接入Steam的插件-Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks)
@@ -142,6 +159,7 @@
 - [springboot编写的高性能分布式mmorpg手游服务端框架-mmorpg](https://github.com/kingston-csj/mmorpg)
 - [支持不同引擎的游戏后端实现-rivet](https://github.com/rivet-gg/rivet?)
 - [轻量级的Actor模型服务器框架-moon](https://github.com/sniper00/moon)
+- [可扩展的游戏服务器Go框架-pitaya](https://github.com/topfreegames/pitaya?)
 
 </details>
 
@@ -322,6 +340,7 @@
 - [Unity 自动获取场景组件或对象的引用-scene-ref-attribute](https://github.com/KyleBanks/scene-ref-attribute)
 - [Unity 本地和远程加载图像资源-Unity-ImageLoader](https://github.com/IvanMurzak/Unity-ImageLoader?)
 - [Unity Lightmap动态设置方案-Lightmap switching tool](https://github.com/laurenth-personal/lightmap-switching-tool?)
+- [Unity AssetBundle管理工具-AssetBundleManager](https://github.com/Mr-sB/AssetBundleManager)
 
 - 
 </details>
@@ -401,6 +420,8 @@
  
 - [Unity 免费多语言框架-Lean Localization](https://assetstore.unity.com/packages/tools/localization/lean-localization-28504?aid=1101lSqC&utm_source=aff)
 - [Unity 模块化读语言框架-DGG-Localization](https://github.com/DaniilDGG/DGG-Localization?)
+- [Unity 简单多语言解决方案-UnitySimpleLocalization](https://github.com/DevsDaddy/UnitySimpleLocalization)
+- [游戏UI音频资源结合-Unity-UI-Audio-Collection](https://github.com/DevsDaddy/Unity-UI-Audio-Collection)
 
 </details>
 
@@ -462,6 +483,7 @@
 - [Unity 基于UGUI的UI框架-YIUI](https://github.com/LiShengYang-yiyi/YIUI)
 - [Unity NGUI扩展-NGUIExtension](https://github.com/kimsama/Unity-NGUIExtension)
 - [Unity 一个用于构建用户界面的轻量级模块化框架-Graphene](https://github.com/LudiKha/Graphene?)
+- [Unity 简单的UI界面管理器-Simple-Screen-Manager-for-Unity-aka-SS](https://github.com/AnhPham/Simple-Screen-Manager-for-Unity-aka-SS?)
     
 </details>
 
@@ -576,6 +598,7 @@
 - [Unity Debug-Panel 游戏运行时的调试面板](https://github.com/brunomikoski/Debug-Panel)
 - [Unity Mesh合并工具-intelligent_mesh_combiner](https://github.com/roundyyy/intelligent_mesh_combiner?)
 - [Unity Terrian到Mesh转换工具-FastTerrainToMesh](https://github.com/roundyyy/FastTerrainToMesh)
+- [Unity 基于GPU的纹理和渲染超分解决方案-UnityXScaling](https://github.com/DevsDaddy/UnityXScaling)
 
 </details>  
 </details>
@@ -595,6 +618,7 @@
 <details open>
 <summary><h3>渲染管线</h3></summary>
 
+- [基于CPU的光栅化学习教程-tiny-rasterizer](https://github.com/lisyarus/tiny-rasterizer)
 - [开源光线或路径追踪资源-Open-Source Ray Tracers and Path Tracers](https://kkhomyakov3d.github.io/raytracers-and-pathtracers/)
 - [Unity 自定义渲染管线(Not SRP)-Unity-Custom-Rendering-Pipline](https://github.com/MaxwellGengYF/Unity-Custom-Rendering-Pipline)
 - [Unity 自定义渲染管线-LindenPipeline](https://github.com/lindenreid/LindenPipeline)
@@ -688,6 +712,7 @@
 - [Unity Mesh破面渲染Shader-Unity3DCrossSectionShader](https://github.com/Dandarawy/Unity3DCrossSectionShader)
 - [Unity RT涂鸦Shader-RevealShader](https://github.com/nomand/RevealShader)
 - [Unity 支持多种效果粒子Shader-NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader)
+- [Unity 基于URP的真实渲染水效果-Oceana-URP](https://github.com/ZloyKorovanovich/Oceana-URP?)
   
 </details>
 
@@ -716,6 +741,7 @@
 - [Unity 官方基于timeline的小型rts游戏-ATerribleKingdom](https://github.com/UnityTechnologies/ATerribleKingdom)
 - [Unity Timeline控制粒子系统-TimelineParticleControl](https://github.com/keijiro/TimelineParticleControl)
 - [Unity timeline预览音频-AudioPreviewTrack](https://github.com/keijiro/AudioPreviewTrack)
+- [Unity timeline事件系统扩展-TimelineExtension]https://github.com/Mr-sB/TimelineExtension()
   
 </details>
 
@@ -876,6 +902,9 @@
 - [Unity 非常强大的Inspector扩展-Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
 - [Unity Hierarchy增强工具-HierarchyPlus](https://github.com/Dreadrith/HierarchyPlus?)
 - [Unity Inspector属性扩展-artificetoolkit](https://github.com/AbZorbaGames/artificetoolkit?)
+- [Unity 组件引用丢失分析工具-Unity-MissingReferences-Hunter](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter)
+- [Unity Inspector属性扩展-EditorAttributes](https://github.com/v0lt13/EditorAttributes?)
+- 
 </details>
 
 <details open>
@@ -960,6 +989,7 @@
 - [Unity Sprite重用扩展-SpriteDicing](https://github.com/Elringus/SpriteDicing)
 - [Unity 跨平台的CubeMap生成工具-cmftStudio](https://github.com/dariomanesku/cmftStudio)
 - [Unity Texture_maker A texture maker tool for unity](https://github.com/M-Fatah/texture_maker)
+- [Unity 项目纹理和图集分析工具-Unity-Textures-Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter?)
 
 <details open>
 <summary><h3>其它工具</h3></summary>
