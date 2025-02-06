@@ -130,6 +130,7 @@
 - [Unity 游戏中按 Tab 键的导航功能-EasyTab](https://github.com/dav-sea/EasyTab?)
 - [Unity 输入系统回放-UnityInputReplay](https://github.com/LetsBuildGG/UnityInputReplay)
 - [Unity 使用新输入系统的鼠标和键盘提示管理-InputGlyphs](https://github.com/eviltwo/InputGlyphs?)
+- [Unity 动态输入管理解决方案-Inputs-Manager](https://github.com/BxB-Studio/Inputs-Manager?)
 
 </details>
  
@@ -145,6 +146,7 @@
 - [Unity 最小依赖注入的框架-Reflex](https://github.com/gustavopsantos/Reflex)
 - [Unity 单位对象选择系统-Unit Selection System](https://assetstore.unity.com/packages/tools/input-management/unit-selection-system-295674?aid=1011l37no&pubref=x)
 - [Unity 游戏内截图并支持水印-Social Network Screenshot Creator](https://assetstore.unity.com/packages/tools/utilities/social-network-screenshot-creator-295455?aid=1011l37no&pubref=x)
+- [Unity RTS游戏相机控制插件-RTSCameraController-Cinemachine](https://github.com/Nickk888SAMP/RTSCameraController-Cinemachine?)
 
 </details>
 
@@ -287,6 +289,7 @@
 - [C# 代码规范&实践-DotNet-Coding-Guidelines](https://github.com/justinamiller/DotNet-Coding-Guidelines?utm_source=csharpdigest&utm_medium=email&utm_campaign=351)
 - [C# 代码规则定义-StyleCop ](https://blog.redbluegames.com/how-to-set-up-stylecop-in-unity-b3ca908211d9)
 - [C# 编码指南-CSharpGuidelines](https://github.com/dennisdoomen/CSharpGuidelines)
+- [C# Unity项目代码规范-Unity-Code-Style-Guide](https://github.com/thomasjacobsen-unity/Unity-Code-Style-Guide?)
 
 </details>
  
@@ -338,7 +341,6 @@
 - [Unity StreamingAssets资源同步加载-SyncStreamingAssetsLoader](https://github.com/conaman/SyncStreamingAssetsLoader)
 - [Unity 音效管理框架-Eazy Sound Manager](https://assetstore.unity.com/packages/tools/audio/eazy-sound-manager-71142?aid=1101lSqC&utm_source=aff)
 - [Unity 自动获取场景组件或对象的引用-scene-ref-attribute](https://github.com/KyleBanks/scene-ref-attribute)
-- [Unity 本地和远程加载图像资源-Unity-ImageLoader](https://github.com/IvanMurzak/Unity-ImageLoader?)
 - [Unity Lightmap动态设置方案-Lightmap switching tool](https://github.com/laurenth-personal/lightmap-switching-tool?)
 - [Unity AssetBundle管理工具-AssetBundleManager](https://github.com/Mr-sB/AssetBundleManager)
 
@@ -385,8 +387,8 @@
 - [Unity 查找丢失的脚本组件-DeleteMissingScripts](https://github.com/snoopyuj/DeleteMissingScripts?)
 - [Unity 使用Python实现的Unity资源解包工具-UnityPy](https://github.com/K0lb3/UnityPy)
 - [Unity Steam打包上传工具-UnitySteamBuildUploader](https://github.com/JamesVeug/UnitySteamBuildUploader?)
-
-- 
+- [Unity 使用Github的Action进行Unity Ios打包方案-unity-xcode-builder](https://github.com/buildalon/unity-xcode-builder?)
+- [Unity 游戏中文本转语音工具-PathfinderTextToSpeechMod](https://github.com/Osmodium/PathfinderTextToSpeechMod?)
 </details>
 
 <details open>
@@ -550,7 +552,8 @@
 - [Unity 选项卡菜单-unity-tabsystem](https://github.com/b3x206/unity-tabsystem?)
 - [Unity 动态可扩展的Scroll组件-MMAR ScrollSystem](https://assetstore.unity.com/packages/2d/gui/mmar-scrollsystem-294872)
 - [Unity 环形饼状菜单-Simple Pie Menu | Radial Menu Asset](https://assetstore.unity.com/packages/tools/gui/simple-pie-menu-radial-menu-asset-270056?aid=1011l37no&pubref=x)
-  
+- [Unity UI主题颜色解决方案-Unity-Theme](https://github.com/IvanMurzak/Unity-Theme?)
+- 
 </details>
 
 <details open>
@@ -853,6 +856,7 @@
 - [Unity 3D版本的RenderLine-LineRenderer3D](https://github.com/survivorr9049/LineRenderer3D?)
 - [Unity 动态可交互Shader-DynamicInteractableShader](https://github.com/Umbrason/DynamicInteractableShader?)
 - [Unity 烘焙斑点阴影纹理的简单工具-BlobShadowBaker](https://github.com/Helix128/BlobShadowBaker?)
+- [Unity 高性能程序化动态草-UnityURP-InfiniteGrass](https://github.com/Youssef-Afella/UnityURP-InfiniteGrass)
 
 </details>
 
@@ -904,6 +908,7 @@
 - [Unity Inspector属性扩展-artificetoolkit](https://github.com/AbZorbaGames/artificetoolkit?)
 - [Unity 组件引用丢失分析工具-Unity-MissingReferences-Hunter](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter)
 - [Unity Inspector属性扩展-EditorAttributes](https://github.com/v0lt13/EditorAttributes?)
+- [Unity 实现Inspector引用属性内联编辑-ReferenceFieldTweaker](https://github.com/AbdrahmanSoliman/ReferenceFieldTweaker)
 - 
 </details>
 
@@ -1017,6 +1022,9 @@
 - [Unity Android 和 iOS 上使用设备相机拍照/录制视频-UnityNativeCamera](https://github.com/yasirkula/UnityNativeCamera?)
 - [Unity Android无线调试链接脚本-AndroidWirelessDebuggingAutoConnect](https://gist.github.com/yasirkula/289a0eb41794c67ef1a18f082d491a74#file-androidwirelessdebuggingautoconnect-cs)
 - [Unity 工程符号链接-unity-symbolic-project-linker](https://github.com/thsbrown/unity-symbolic-project-linker)
+- [Unity 使得创建Package插件包更容易-unity-package-tools](https://github.com/jeffcampbellmakesgames/unity-package-tools?)
+- [Unity VSCode的Shader语法增强插件-ShadeView 2 - Ultimate Shader Tool](https://marketplace.visualstudio.com/items?itemName=awwsky.shadeview)
+- [Unity 生成版本ChangeLog说明文件插件-unity-buildplus](https://github.com/Hermesiss/unity-buildplus?)
 
 
 </details>
