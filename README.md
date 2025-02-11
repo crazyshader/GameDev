@@ -814,6 +814,7 @@
 - [C# 的导航网格工具集-DotRecast](https://github.com/ikpil/DotRecast?)
 - [Unity 基于深度学习的角色控制-AI4Animation](https://github.com/sebastianstarke/AI4Animation?tab=readme-ov-file)
 - [Unity AI深度学习动画框架-AI4Animation](https://github.com/sebastianstarke/AI4Animation)
+- [Unity 接入大语言模型框架-LLMUnity](https://github.com/undreamai/LLMUnity)
     
 </details>
 
