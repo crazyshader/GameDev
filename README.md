@@ -280,6 +280,7 @@
 - [识别并减少C#字符串内存占用-string-theory](https://github.com/drewnoakes/string-theory)
 - [C# 无GC字符串类-gstring](https://github.com/vexe/gstring/blob/master/GC%20Free%20String/gstring.cs?1564015541577)
 - [C# Zero Allocation StringBuilder for .NET Core and Unity](https://github.com/Cysharp/ZString)
+- [Unity 简单的依赖注入插件-com.lurking-ninja.dependency](https://github.com/LurkingNinja/com.lurking-ninja.dependency?)
   
 </details>
  
@@ -343,6 +344,7 @@
 - [Unity 自动获取场景组件或对象的引用-scene-ref-attribute](https://github.com/KyleBanks/scene-ref-attribute)
 - [Unity Lightmap动态设置方案-Lightmap switching tool](https://github.com/laurenth-personal/lightmap-switching-tool?)
 - [Unity AssetBundle管理工具-AssetBundleManager](https://github.com/Mr-sB/AssetBundleManager)
+- [Unity 支持多平台的图像异步加载-AsyncImageLibrary](https://github.com/SrejonKhan/AsyncImageLibrary?)
 
 - 
 </details>
@@ -413,6 +415,7 @@
 - [C#实现非常漂亮的图表库-Live-Charts/Live-Charts](https://github.com/Live-Charts/Live-Charts)
 - [Unity 数据可视化插件-XCharts](https://github.com/XCharts-Team/XCharts)
 - [Unity 简单的黑板实现-Simple-Blackboard](https://github.com/ZorPastaman/Simple-Blackboard?)
+- [Unity 以Json文件格式存储PlayerPrefs数据-FileBasedPlayerPrefs](https://github.com/richardelms/FileBasedPlayerPrefs?)
 
 </details>
 
@@ -553,6 +556,7 @@
 - [Unity 动态可扩展的Scroll组件-MMAR ScrollSystem](https://assetstore.unity.com/packages/2d/gui/mmar-scrollsystem-294872)
 - [Unity 环形饼状菜单-Simple Pie Menu | Radial Menu Asset](https://assetstore.unity.com/packages/tools/gui/simple-pie-menu-radial-menu-asset-270056?aid=1011l37no&pubref=x)
 - [Unity UI主题颜色解决方案-Unity-Theme](https://github.com/IvanMurzak/Unity-Theme?)
+- [Unity Table ScrollView扩展-TableScrollView](https://github.com/catsnipe/TableScrollView?)
 - 
 </details>
 
@@ -962,6 +966,8 @@
 - [Unity 官方支持的分析资源依赖关系的插件-com.unity.search.extensions](https://github.com/Unity-Technologies/com.unity.search.extensions)
 - [Unity 基于正则表达式的资源引用快速搜索工具-Find References To Asset](https://assetstore.unity.com/packages/tools/utilities/find-references-to-asset-271348)
 - [Unity Spline轨道模型生成工具-TrackGenerator](https://github.com/rob1997/TrackGenerator?)
+- [Unity 操作历史面板-UnityHistoryPanel](https://github.com/brunomikoski/UnityHistoryPanel?)
+- [Unity 支持Windows平台下文件选择插件-AnotherFileBrowser](https://github.com/SrejonKhan/AnotherFileBrowser)
 - 
 </details>
 
