@@ -147,6 +147,7 @@
 - [Unity 单位对象选择系统-Unit Selection System](https://assetstore.unity.com/packages/tools/input-management/unit-selection-system-295674?aid=1011l37no&pubref=x)
 - [Unity 游戏内截图并支持水印-Social Network Screenshot Creator](https://assetstore.unity.com/packages/tools/utilities/social-network-screenshot-creator-295455?aid=1011l37no&pubref=x)
 - [Unity RTS游戏相机控制插件-RTSCameraController-Cinemachine](https://github.com/Nickk888SAMP/RTSCameraController-Cinemachine?)
+- [Unity Linq遍历GameObject的层次结构-LINQ-to-GameObject-for-Unity](https://github.com/neuecc/LINQ-to-GameObject-for-Unity?)
 
 </details>
 
@@ -261,10 +262,10 @@
 - [Unity 高性能的序列化库-Nino](https://list.marronegames.com/l/6Yv2ZBHwVodsOwnmaMsXTw/UCgsNQVbmIivxsWoadqMEw/axPnYruOiL7d8Lqg2FrOtw)
 - [Unity C#版本的MessagePack序列化工具-MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp)
 - [Unity 无限快的反序列化框架-ZeroFormatter](https://github.com/neuecc/ZeroFormatter)
-- [Unity 序列化引用扩展-Unity-SerializeReferenceExtensions](https://github.com/mackysoft/Unity-SerializeReferenceExtensions)
 - [Unity 二进制序列化工具-QuickBin](https://github.com/abledbody/QuickBin?)
 - [Unity 场景引用框架-Eflatun.SceneReference](https://github.com/starikcetin/Eflatun.SceneReference)
 - [Unity Inspector序列化字典-Unity-SerializableDictionary](https://github.com/azixMcAze/Unity-SerializableDictionary)
+- [Unity 序列化泛型引用-SerializeReferenceDropdown](https://github.com/AlexeyTaranov/SerializeReferenceDropdown)
 - 
 </details>
 
@@ -619,6 +620,7 @@
 - [Unity 深度投影到世界和相机坐标系-DepthInverseProjection](https://github.com/a3geek/Bloom/blob/master/Assets/PostEffects/Shaders/Bloom.shader?1547650334723)
 - [Unity 蒙皮顶点修改器-SkinnedVertexModifier](https://github.com/keijiro/SkinnedVertexModifier)
 - [Unity 使用CullingGroup获取视锥体最近物体](https://github.com/unitycoder/GetNearestObjectsWithCullingGroup)
+- [Unity 渲染管线模板调试工具-stencil-debugger](https://github.com/alexanderameye/stencil-debugger)
 
 </details>
  
@@ -655,6 +657,7 @@
 - [Unity 卡通渲染效果实现-Toon Shader Free](https://assetstore.unity.com/packages/vfx/shaders/toon-shader-free-21288?aid=1101%7CSqC&utm_source=aff)
 - [Unity 图形描边-Outline-Effect](https://github.com/cakeslice/Outline-Effect)
 - [Unity 对象快速描边-QuickOutline](https://github.com/chrisnolet/QuickOutline)
+- [Unity 后处理描边方案-Unity-URP-Outline](https://github.com/CristianQiu/Unity-URP-Outline?)
   
 </details>
 
