@@ -148,6 +148,7 @@
 - [Unity 游戏内截图并支持水印-Social Network Screenshot Creator](https://assetstore.unity.com/packages/tools/utilities/social-network-screenshot-creator-295455?aid=1011l37no&pubref=x)
 - [Unity RTS游戏相机控制插件-RTSCameraController-Cinemachine](https://github.com/Nickk888SAMP/RTSCameraController-Cinemachine?)
 - [Unity Linq遍历GameObject的层次结构-LINQ-to-GameObject-for-Unity](https://github.com/neuecc/LINQ-to-GameObject-for-Unity?)
+- [Unity Android和IOS权限申请框架-permissions-kit](https://github.com/voxelbusters/permissions-kit)
 
 </details>
 
@@ -502,6 +503,8 @@
 - [Unity 窗口背景模糊方案-StaticBluredScreen](https://github.com/mob-sakai/StaticBluredScreen)
 - [Unity UGUI界面纹理镜像显示-MirrorReflectionEffectForUGUI](https://github.com/mob-sakai/MirrorReflectionEffectForUGUI)
 - [Unity 各种炫酷UI纹理动画-TexturePanner](https://github.com/AdultLink/TexturePanner)
+- [Unity 文本动画特效工具-TextTween](https://github.com/AlicanHasirci/TextTween)
+- [Unity Sprite精灵变形工具-Sprite-Swap-Morph](https://github.com/V0odo0/Sprite-Swap-Morph)
 
 </details>
 
@@ -670,6 +673,7 @@
 - [Unity Post Processing Stack自定义效果集合-Kino](https://github.com/keijiro/Kino)
 - [Unity 扭曲后处理效果-PostProcessDistortionFX](https://github.com/Broxxar/PostProcessDistortionFX)
 - [Unity 自定义扫描线后处理（基于PostProcessStack）](https://www.patreon.com/posts/38451970)
+- [Unity 基于层的辉光Glow特效-LayeredGlow](https://github.com/nobnak/LayeredGlow?)
   
 </details>
 
@@ -723,6 +727,9 @@
 - [Unity RT涂鸦Shader-RevealShader](https://github.com/nomand/RevealShader)
 - [Unity 支持多种效果粒子Shader-NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader)
 - [Unity 基于URP的真实渲染水效果-Oceana-URP](https://github.com/ZloyKorovanovich/Oceana-URP?)
+- [Unity 可交互的2D水效果-WaterRW](https://github.com/ruccho/WaterRW)
+- [Unity 支持多种类型雾效的URP框架-URPFog](https://github.com/meryuhi/URPFog?)
+
   
 </details>
 
@@ -822,6 +829,7 @@
 - [Unity 基于深度学习的角色控制-AI4Animation](https://github.com/sebastianstarke/AI4Animation?tab=readme-ov-file)
 - [Unity AI深度学习动画框架-AI4Animation](https://github.com/sebastianstarke/AI4Animation)
 - [Unity 接入大语言模型框架-LLMUnity](https://github.com/undreamai/LLMUnity)
+- [Unity 足部IK系统-IKFootPlacement](https://github.com/plonkabartosz/IKFootPlacement)
     
 </details>
 
@@ -865,6 +873,7 @@
 - [Unity 动态可交互Shader-DynamicInteractableShader](https://github.com/Umbrason/DynamicInteractableShader?)
 - [Unity 烘焙斑点阴影纹理的简单工具-BlobShadowBaker](https://github.com/Helix128/BlobShadowBaker?)
 - [Unity 高性能程序化动态草-UnityURP-InfiniteGrass](https://github.com/Youssef-Afella/UnityURP-InfiniteGrass)
+- [Unity 基于GPU的实例化或裁剪草系统-Unity-Grass-Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer?)
 
 </details>
 
@@ -917,6 +926,7 @@
 - [Unity 组件引用丢失分析工具-Unity-MissingReferences-Hunter](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter)
 - [Unity Inspector属性扩展-EditorAttributes](https://github.com/v0lt13/EditorAttributes?)
 - [Unity 实现Inspector引用属性内联编辑-ReferenceFieldTweaker](https://github.com/AbdrahmanSoliman/ReferenceFieldTweaker)
+- [Unity Inspector属性扩展-UnityInspectorUtils](https://github.com/qweasfjbv/UnityInspectorUtils?)
 - 
 </details>
 
@@ -1061,6 +1071,7 @@
 - [Unity 动作角色扮演游戏 - 中级/高级 Unity C# 游戏开发-RPGProject](https://github.com/ChoiBeomgyuItBoy/RPGProject?)
 - [Unity 官方机器人模拟-Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 - [Unity 重制暴雪《星际争霸》-startcraft-unity3d](https://github.com/coconauts/startcraft-unity3d/tree/master)
+- [Unity 第一人称和第三人称射击游戏框架-com.david6.shootercore](https://github.com/David-63/com.david6.shootercore)
 
 </details>
 
