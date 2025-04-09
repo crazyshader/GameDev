@@ -768,7 +768,7 @@
 - [Unity 官方基于timeline的小型rts游戏-ATerribleKingdom](https://github.com/UnityTechnologies/ATerribleKingdom)
 - [Unity Timeline控制粒子系统-TimelineParticleControl](https://github.com/keijiro/TimelineParticleControl)
 - [Unity timeline预览音频-AudioPreviewTrack](https://github.com/keijiro/AudioPreviewTrack)
-- [Unity timeline事件系统扩展-TimelineExtension]https://github.com/Mr-sB/TimelineExtension()
+- [Unity timeline事件系统扩展-TimelineExtension](https://github.com/Mr-sB/TimelineExtension)
   
 </details>
 
