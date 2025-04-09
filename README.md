@@ -100,6 +100,7 @@
 <summary><h3>事件系统</h3></summary>
 
 - [Unity 使用PubSub模式和响应式编程原则管理游戏内事件的简单解决方案](https://github.com/DevsDaddy/UnityEventFramework)
+- [Unity 支持多种模式的通用事件系统-UnityEventBus](https://github.com/NullTale/UnityEventBus?)
 
 </details>
 
@@ -149,6 +150,9 @@
 - [Unity RTS游戏相机控制插件-RTSCameraController-Cinemachine](https://github.com/Nickk888SAMP/RTSCameraController-Cinemachine?)
 - [Unity Linq遍历GameObject的层次结构-LINQ-to-GameObject-for-Unity](https://github.com/neuecc/LINQ-to-GameObject-for-Unity?)
 - [Unity Android和IOS权限申请框架-permissions-kit](https://github.com/voxelbusters/permissions-kit)
+- [Unity 可视化状态机-VisualStateMachineV2](https://github.com/PaulNonatomic/VisualStateMachineV2?)
+- [Unity 微软可视化Mesh工具包-Mesh-Toolkit-Unity](https://github.com/microsoft/Mesh-Toolkit-Unity?)
+- [Unity 相机实时跟踪多个目标对象-unity-camera-multi-target](https://github.com/lopespm/unity-camera-multi-target?)
 
 </details>
 
@@ -204,6 +208,7 @@
 - [Unity 运行时dump IL2CPP数据-Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper)
 - [Unity IL2CPP逆向工具-Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
 - [Unity 基于frida的libil2cpp.so运行时解析脚本-Il2CppHookScripts](https://github.com/topics/unity)
+- [Unity 零GC的Linq实现-ZLinq](https://github.com/Cysharp/ZLinq?)
 
 
 </details>
@@ -267,6 +272,7 @@
 - [Unity 场景引用框架-Eflatun.SceneReference](https://github.com/starikcetin/Eflatun.SceneReference)
 - [Unity Inspector序列化字典-Unity-SerializableDictionary](https://github.com/azixMcAze/Unity-SerializableDictionary)
 - [Unity 序列化泛型引用-SerializeReferenceDropdown](https://github.com/AlexeyTaranov/SerializeReferenceDropdown)
+- [Unity 使用XML格式进行数据的加载和保存-XmlStorage](https://github.com/a3geek/XmlStorage?)
 - 
 </details>
 
@@ -347,6 +353,8 @@
 - [Unity Lightmap动态设置方案-Lightmap switching tool](https://github.com/laurenth-personal/lightmap-switching-tool?)
 - [Unity AssetBundle管理工具-AssetBundleManager](https://github.com/Mr-sB/AssetBundleManager)
 - [Unity 支持多平台的图像异步加载-AsyncImageLibrary](https://github.com/SrejonKhan/AsyncImageLibrary?)
+- [Unity 多场景加载管理-scene-loader](https://github.com/mygamedevtools/scene-loader?)
+- [Unity 简洁易扩展的资源管理框架-Flexy.AssetRefs](https://github.com/FlexyTools/Flexy.AssetRefs?)
 
 - 
 </details>
@@ -729,6 +737,8 @@
 - [Unity 基于URP的真实渲染水效果-Oceana-URP](https://github.com/ZloyKorovanovich/Oceana-URP?)
 - [Unity 可交互的2D水效果-WaterRW](https://github.com/ruccho/WaterRW)
 - [Unity 支持多种类型雾效的URP框架-URPFog](https://github.com/meryuhi/URPFog?)
+- [Unity 基于GPU的BVH实现-ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit?)
+- [Unity 草和毛发渲染的解决方案-GrassAndFur](https://github.com/Propagant/Unity-GrassAndFur?)
 
   
 </details>
@@ -769,6 +779,7 @@
 - [Unity 动画纹理烘焙插件-Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
 - [Unity 基于GPU的顶点动画Shader-Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation)
 - [Unity GPU顶点动画纹理 (VAT) 烘焙-Unity-GPU-Vertex-Animations-Baker](https://github.com/FuadJfrv/Unity-GPU-Vertex-Animations-Baker?)
+- [Unity SkinRenderMesh顶点动画烘焙和渲染框架-UnityVATBaker](https://github.com/Mamantenok1599/UnityVATBaker)
 
 </details>
 
@@ -793,6 +804,7 @@
 - [Unity 等待动画完成的自定义Yield-UnityWaitForAnim](https://github.com/ComradeVanti/UnityWaitForAnim?)
 - [Unity 功能强大的Mesh变形插件-Deform](https://github.com/keenanwoodall/Deform)
 - [Unity 动画路径编辑工具-3 in 1 Animation tools | Animation path](https://assetstore.unity.com/packages/tools/animation/3-in-1-animation-tools-animation-path-video-reference-297188?aid=1011l37no&pubref=bsky)
+- [Unity 运动匹配实现-MotionMatching](https://github.com/JLPM22/MotionMatching?)
 
 </details>
 </details>
@@ -811,7 +823,8 @@
 - [Unity 在编辑器模式基于物理的放置对象-TCS-PhysicsDropper](https://github.com/Ddemon26/TCS-PhysicsDropper)
 - [Unity 增强的触发器-Enhanced-Trigger-Box](https://github.com/Alexander-Scott/Enhanced-Trigger-Box)
 - [Unity 软体模拟-SoftBodySimulation](https://github.com/chrismarch/SoftBodySimulation)
-- 
+- [Unity 软体动画框架-Jelly-Mesh-System](https://github.com/roundyyy/Jelly-Mesh-System)
+
 </details>
 
 <details open>
@@ -981,6 +994,8 @@
 - [Unity Spline轨道模型生成工具-TrackGenerator](https://github.com/rob1997/TrackGenerator?)
 - [Unity 操作历史面板-UnityHistoryPanel](https://github.com/brunomikoski/UnityHistoryPanel?)
 - [Unity 支持Windows平台下文件选择插件-AnotherFileBrowser](https://github.com/SrejonKhan/AnotherFileBrowser)
+- [Unity 编辑器模式截屏工具-Editor-Screenshot](https://github.com/rurre/Editor-Screenshot?)
+- [Unity 轻量化的UnityHub替代工具-UnityHubNative](https://github.com/somedeveloper00/UnityHubNative.Net?)
 - 
 </details>
 
@@ -1045,6 +1060,7 @@
 - [Unity 使得创建Package插件包更容易-unity-package-tools](https://github.com/jeffcampbellmakesgames/unity-package-tools?)
 - [Unity VSCode的Shader语法增强插件-ShadeView 2 - Ultimate Shader Tool](https://marketplace.visualstudio.com/items?itemName=awwsky.shadeview)
 - [Unity 生成版本ChangeLog说明文件插件-unity-buildplus](https://github.com/Hermesiss/unity-buildplus?)
+- [Unity SDF生成操作方案-SdfManipulator](https://github.com/T3sT3ro/SdfManipulator?)
 
 
 </details>
