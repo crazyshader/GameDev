@@ -222,6 +222,7 @@
 - [Lua Lua性能调试分析工具-Miku-LuaProfiler](https://github.com/leinlin/Miku-LuaProfiler)
 - [Unity Lua和.net绑定库-NLua](https://github.com/NLua/NLua)
 - [Unity 腾讯开源TS脚本游戏开源框架-puerts](https://github.com/Tencent/puerts)
+- [Unity C#实现的Lua解释器框架-moonsharp](https://github.com/moonsharp-devs/moonsharp)
       
 </details>
 </details>
@@ -695,6 +696,7 @@
 - [Unity URP Shader实例-UniversalShaderExamples](https://github.com/phi-lira/UniversalShaderExamples)
 - [Unity ShaderGraph示例-ShaderGraphExamples](https://github.com/keijiro/ShaderGraphExamples)
 - [Unity 噪声着色器-NoiseShader](https://github.com/keijiro/NoiseShader)
+- [Unity 支持Shader Graph的各种噪声节点-Noisy-Nodes](https://github.com/JimmyCushnie/Noisy-Nodes)
 - [Unity 浅墨Shader库-Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader)
 - [Unity 陈嘉栋Shader库-Unity-Miscellaneous-Shaders](https://github.com/chenjd/Unity-Miscellaneous-Shaders)
 - [Unity 陈嘉栋使用深度的特殊效果-UnitySpecialEffectWithDepth](https://github.com/chenjd/UnitySpecialEffectWithDepth)
@@ -739,6 +741,7 @@
 - [Unity 支持多种类型雾效的URP框架-URPFog](https://github.com/meryuhi/URPFog?)
 - [Unity 基于GPU的BVH实现-ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit?)
 - [Unity 草和毛发渲染的解决方案-GrassAndFur](https://github.com/Propagant/Unity-GrassAndFur?)
+- [Unity 屏幕空间的全局光照-UnitySSGIURP](https://github.com/jiaozi158/UnitySSGIURP)
 
   
 </details>
