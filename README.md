@@ -78,6 +78,7 @@
 - [Unity 项目工程模板-unity-project-template](https://github.com/SamuelAsherRivello/unity-project-template?)
 - [Unity 快速构建游戏的组件集合-JCSUnity](https://github.com/jcs090218/JCSUnity?)
 - [Unity DOTS框架-Latios-Framework](https://github.com/Dreaming381/Latios-Framework)
+- [Unity 支持很多扩展的核心框架=Core](https://github.com/JuDelCo/Core?)
   
 </details>
 
@@ -132,6 +133,7 @@
 - [Unity 输入系统回放-UnityInputReplay](https://github.com/LetsBuildGG/UnityInputReplay)
 - [Unity 使用新输入系统的鼠标和键盘提示管理-InputGlyphs](https://github.com/eviltwo/InputGlyphs?)
 - [Unity 动态输入管理解决方案-Inputs-Manager](https://github.com/BxB-Studio/Inputs-Manager?)
+- [支持多种平台的输入提示资源库-Input Prompts](https://kenney.nl/assets/input-prompts)
 
 </details>
  
@@ -274,6 +276,7 @@
 - [Unity Inspector序列化字典-Unity-SerializableDictionary](https://github.com/azixMcAze/Unity-SerializableDictionary)
 - [Unity 序列化泛型引用-SerializeReferenceDropdown](https://github.com/AlexeyTaranov/SerializeReferenceDropdown)
 - [Unity 使用XML格式进行数据的加载和保存-XmlStorage](https://github.com/a3geek/XmlStorage?)
+- [Unity 支持二进制和Json的数据序列化框架-Neuro](https://github.com/Ninjadini/Neuro?)
 - 
 </details>
 
@@ -584,6 +587,8 @@
 - [Unity Gizmos扩展-GizmoExtensions](https://github.com/code-beans/GizmoExtensions)
 - [Unity 游戏调试UI面板-uni-debug-panel](https://github.com/baba-s/uni-debug-panel)
 - [Unity 运行时线条绘制实用程序-NDraw](https://github.com/nothke/NDraw?)
+- [Unity 运行时线条绘制实用程序-UGizmo](https://github.com/harumas/UGizmo?)
+- [Unity 支持编辑器和运行时绘制实用程序-Unity-DebugX](https://github.com/DCFApixels/Unity-DebugX?)
 - [Unity 使用 ImGui.NET 的即时模式 GUI 库的 UPM 包-uimgui](https://github.com/psydack/uimgui?)
 - [Unity 运行时日志系统-Realtime In Game Log Console](https://assetstore.unity.com/packages/tools/gui/realtime-in-game-log-console-212758)
 - 
@@ -772,6 +777,7 @@
 - [Unity Timeline控制粒子系统-TimelineParticleControl](https://github.com/keijiro/TimelineParticleControl)
 - [Unity timeline预览音频-AudioPreviewTrack](https://github.com/keijiro/AudioPreviewTrack)
 - [Unity timeline事件系统扩展-TimelineExtension](https://github.com/Mr-sB/TimelineExtension)
+- [Unity 支持DOTween Pro的Timeline组件-dotween-timeline](https://github.com/medvejut/dotween-timeline)
   
 </details>
 
