@@ -407,6 +407,7 @@
 - [Unity Steam打包上传工具-UnitySteamBuildUploader](https://github.com/JamesVeug/UnitySteamBuildUploader?)
 - [Unity 使用Github的Action进行Unity Ios打包方案-unity-xcode-builder](https://github.com/buildalon/unity-xcode-builder?)
 - [Unity 游戏中文本转语音工具-PathfinderTextToSpeechMod](https://github.com/Osmodium/PathfinderTextToSpeechMod?)
+- [Unity 轻量、可伸缩、可扩展的音频解决方案-KNOT-Audio](https://github.com/V0odo0/KNOT-Audio)
 </details>
 
 <details open>
@@ -443,6 +444,7 @@
 - [Unity 免费多语言框架-Lean Localization](https://assetstore.unity.com/packages/tools/localization/lean-localization-28504?aid=1101lSqC&utm_source=aff)
 - [Unity 模块化读语言框架-DGG-Localization](https://github.com/DaniilDGG/DGG-Localization?)
 - [Unity 简单多语言解决方案-UnitySimpleLocalization](https://github.com/DevsDaddy/UnitySimpleLocalization)
+- [Unity 强大好用的多语言解决方案-KNOT-Localization](https://github.com/V0odo0/KNOT-Localization)
 - [游戏UI音频资源结合-Unity-UI-Audio-Collection](https://github.com/DevsDaddy/Unity-UI-Audio-Collection)
 
 </details>
@@ -520,6 +522,7 @@
 - [Unity 各种炫酷UI纹理动画-TexturePanner](https://github.com/AdultLink/TexturePanner)
 - [Unity 文本动画特效工具-TextTween](https://github.com/AlicanHasirci/TextTween)
 - [Unity Sprite精灵变形工具-Sprite-Swap-Morph](https://github.com/V0odo0/Sprite-Swap-Morph)
+- [Unity 基于顶点变换的UI效果-UGUIVertexEffect](https://github.com/markeahogan/UGUIVertexEffect?)
 
 </details>
 
@@ -577,6 +580,7 @@
 - [Unity UI主题颜色解决方案-Unity-Theme](https://github.com/IvanMurzak/Unity-Theme?)
 - [Unity Table ScrollView扩展-TableScrollView](https://github.com/catsnipe/TableScrollView?)
 - [Unity UGUI纹理动态采样-UIDynamicSampler](https://github.com/mob-sakai/UIDynamicSampler?)
+- [Unity HSV颜色拾取组件-HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity?)
 - 
 </details>
 
@@ -751,6 +755,7 @@
 - [Unity 基于GPU的BVH实现-ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit?)
 - [Unity 草和毛发渲染的解决方案-GrassAndFur](https://github.com/Propagant/Unity-GrassAndFur?)
 - [Unity 屏幕空间的全局光照-UnitySSGIURP](https://github.com/jiaozi158/UnitySSGIURP)
+- [Unity 实现顺序无关的透明度效果-oit-unity](https://github.com/happy-turtle/oit-unity?)
 
   
 </details>
@@ -818,6 +823,7 @@
 - [Unity 功能强大的Mesh变形插件-Deform](https://github.com/keenanwoodall/Deform)
 - [Unity 动画路径编辑工具-3 in 1 Animation tools | Animation path](https://assetstore.unity.com/packages/tools/animation/3-in-1-animation-tools-animation-path-video-reference-297188?aid=1011l37no&pubref=bsky)
 - [Unity 运动匹配实现-MotionMatching](https://github.com/JLPM22/MotionMatching?)
+- [Unity 强大高性能的Tween工具-MojoTween](https://github.com/scottcgi/MojoTween?)
 
 </details>
 </details>
