@@ -1,4 +1,4 @@
-# 游戏开发
+![image](https://github.com/user-attachments/assets/47fd1557-3f1f-4b6d-9444-7e76b1420617)# 游戏开发
 
 <details open>
 <summary><h2>资源集合</h2></summary>
@@ -332,6 +332,7 @@
 - [Unity 可定制化的对象池-kPooling](https://github.com/Kink3d/kPooling)
 - [Unity 扩展数学库-Mathfs](https://github.com/FreyaHolmer/Mathfs)
 - [Unity 一个简单的有限状态机-Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine)
+- [Unity 类似动画状态机的游戏逻辑状态机工具-StateGraphTool](https://github.com/darkrainbowsprinkles/StateGraphTool?)
 - 
 </details>
 
@@ -1017,6 +1018,7 @@
 - [Unity 编辑器模式截屏工具-Editor-Screenshot](https://github.com/rurre/Editor-Screenshot?)
 - [Unity 轻量化的UnityHub替代工具-UnityHubNative](https://github.com/somedeveloper00/UnityHubNative.Net?)
 - [Unity 基于TileMap的2D网格地图编辑器-UnityGridLevelEditor](https://github.com/SinlessDevil/UnityGridLevelEditor)
+- [Unity 自定义基于节点的Shader编辑器-Graphlit](https://github.com/z3y/Graphlit?)
 - 
 </details>
 
