@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/47fd1557-3f1f-4b6d-9444-7e76b1420617)# 游戏开发
+# 游戏开发
 
 <details open>
 <summary><h2>资源集合</h2></summary>
