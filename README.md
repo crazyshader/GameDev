@@ -80,7 +80,10 @@
 - [Unity DOTS框架-Latios-Framework](https://github.com/Dreaming381/Latios-Framework)
 - [Unity 支持很多扩展的核心框架-Core](https://github.com/JuDelCo/Core?)
 - [Unity 支持常用游戏功能的框架-Osk-Framework](https://github.com/O-S-K/Osk-Framework?)
-  
+- [Unity 运行时动态依赖注入框架-usyrup](https://github.com/Jeffan207/usyrup?)
+- [Unity 轻量级依赖注入框架-Zenject](https://github.com/modesttree/Zenject)
+- [Unity 快速高效的动画引擎-dotween](https://github.com/Demigiant/dotween)
+
 </details>
 
 <details open>
@@ -217,7 +220,7 @@
 </details>
 
 <details open>
-<summary><h4>Lua</h4></summary>
+<summary><h4>其它脚本</h4></summary>
 
 - [Lua性能分析器-LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity)
 - [Unity lua的热更新方案-tolua](https://github.com/topameng/tolua)
@@ -226,6 +229,7 @@
 - [Unity Lua和.net绑定库-NLua](https://github.com/NLua/NLua)
 - [Unity 腾讯开源TS脚本游戏开源框架-puerts](https://github.com/Tencent/puerts)
 - [Unity C#实现的Lua解释器框架-moonsharp](https://github.com/moonsharp-devs/moonsharp)
+- [Unity 集成JavaScript的框架-OneJS](https://github.com/Singtaa/OneJS?)
       
 </details>
 </details>
@@ -509,6 +513,7 @@
 - [Unity NGUI扩展-NGUIExtension](https://github.com/kimsama/Unity-NGUIExtension)
 - [Unity 一个用于构建用户界面的轻量级模块化框架-Graphene](https://github.com/LudiKha/Graphene?)
 - [Unity 简单的UI界面管理器-Simple-Screen-Manager-for-Unity-aka-SS](https://github.com/AnhPham/Simple-Screen-Manager-for-Unity-aka-SS?)
+- [Unity UI功能扩展框架-com.unity.uiextensions](https://github.com/Unity-UI-Extensions/com.unity.uiextensions)
     
 </details>
 
