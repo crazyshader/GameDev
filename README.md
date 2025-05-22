@@ -13,6 +13,7 @@
 - [Unity 游戏AI开发工具集合-ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools?)
 - [AI代码生成工具集合-awesome-ai-coding](https://github.com/wsxiaoys/awesome-ai-coding)
 - [Unity游戏开发技术集合-GameAndUnity-TechLib](https://github.com/m969/GameAndUnity-TechLib)
+- [Unity 设计模式、架构与算法-Unity-Advanced-Engineering-Guide](https://github.com/MfaXyz/Unity-Advanced-Engineering-Guide?)
 
 </details>
 
@@ -282,6 +283,8 @@
 - [Unity 序列化泛型引用-SerializeReferenceDropdown](https://github.com/AlexeyTaranov/SerializeReferenceDropdown)
 - [Unity 使用XML格式进行数据的加载和保存-XmlStorage](https://github.com/a3geek/XmlStorage?)
 - [Unity 支持二进制和Json的数据序列化框架-Neuro](https://github.com/Ninjadini/Neuro?)
+- [Unity 支持多种数据序列化格式框架-SaveSystemToolkit](https://github.com/SinlessDevil/SaveSystemToolkit?)
+- [Unity 旧的序列化数据格式迁移到新数据格式框架-TypedMigrate](https://github.com/dmitrybaltin/TypedMigrate.NET?)
 - 
 </details>
 
@@ -529,6 +532,7 @@
 - [Unity 文本动画特效工具-TextTween](https://github.com/AlicanHasirci/TextTween)
 - [Unity Sprite精灵变形工具-Sprite-Swap-Morph](https://github.com/V0odo0/Sprite-Swap-Morph)
 - [Unity 基于顶点变换的UI效果-UGUIVertexEffect](https://github.com/markeahogan/UGUIVertexEffect?)
+- [Unity 文本动画特效组件-Easy-Text-Effects-for-Unity](https://github.com/LeiQiaoZhi/Easy-Text-Effects-for-Unity?)
 
 </details>
 
@@ -587,6 +591,7 @@
 - [Unity Table ScrollView扩展-TableScrollView](https://github.com/catsnipe/TableScrollView?)
 - [Unity UGUI纹理动态采样-UIDynamicSampler](https://github.com/mob-sakai/UIDynamicSampler?)
 - [Unity HSV颜色拾取组件-HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity?)
+- [Unity 通过Animation修改UI材质属性组件-UIMaterialPropertyInjector](https://github.com/mob-sakai/UIMaterialPropertyInjector?)
 - 
 </details>
 
@@ -849,6 +854,7 @@
 - [Unity 增强的触发器-Enhanced-Trigger-Box](https://github.com/Alexander-Scott/Enhanced-Trigger-Box)
 - [Unity 软体模拟-SoftBodySimulation](https://github.com/chrismarch/SoftBodySimulation)
 - [Unity 软体动画框架-Jelly-Mesh-System](https://github.com/roundyyy/Jelly-Mesh-System)
+- [Unity 流体模拟框架-The-Fluid-Toy](https://github.com/Victor2266/The-Fluid-Toy)
 
 </details>
 
@@ -1001,6 +1007,7 @@
 - [Unity Render Queue扩展](https://github.com/FreyaHolmer/Render-Queue?1551688255320)
 - [Unity 游戏里面实现的颜色拾取器-UnityColorPicker](https://github.com/jongallant/UnityColorPicker)
 - [Unity 公路创建-EasyRoads3D Free v3](https://assetstore.unity.com/packages/3d/characters/easyroads3d-free-v3-987?aid=1101lSqC&utm_source=aff)
+- [Unity 基于Spline的公路创建工具-Unity-SplineRoadUtils](https://github.com/elrod/Unity-SplineRoadUtils?)
 - [Unity 使用Polybrush进行关卡材质混合-PBRBlendShader](https://github.com/nomand/PBRBlendShader)
 - [Unity 离线PotentiallyVisibleSet-PotentiallyVisibleSetPlugin](https://github.com/nashnie/PotentiallyVisibleSetPlugin)
 - [Unity 编辑器实用工具-com.pixelwizards.utilities](https://github.com/PixelWizards/com.pixelwizards.utilities)
