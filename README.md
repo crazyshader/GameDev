@@ -231,6 +231,7 @@
 - [Unity 腾讯开源TS脚本游戏开源框架-puerts](https://github.com/Tencent/puerts)
 - [Unity C#实现的Lua解释器框架-moonsharp](https://github.com/moonsharp-devs/moonsharp)
 - [Unity 集成JavaScript的框架-OneJS](https://github.com/Singtaa/OneJS?)
+- [Unity C#实现的高性能Lua解释器-Lua-CSharp](https://github.com/nuskey8/Lua-CSharp?)
       
 </details>
 </details>
@@ -370,6 +371,7 @@
 - [Unity 支持多平台的图像异步加载-AsyncImageLibrary](https://github.com/SrejonKhan/AsyncImageLibrary?)
 - [Unity 多场景加载管理-scene-loader](https://github.com/mygamedevtools/scene-loader?)
 - [Unity 简洁易扩展的资源管理框架-Flexy.AssetRefs](https://github.com/FlexyTools/Flexy.AssetRefs?)
+- [Unity 场景加载和管理框架-Navigathena](https://github.com/mackysoft/Navigathena?)
 
 - 
 </details>
@@ -633,6 +635,8 @@
 - [Unity 工程静态性能分析工具-ProjectAuditor](https://github.com/mtrive/ProjectAuditor)
 - [Unity 粒子特效性能分析工具-ParticleEffectProfiler](https://github.com/sunbrando/ParticleEffectProfiler)
 - [Unity 移动平台控制台调试工具-MobileConsoleKit](https://github.com/pixeption/MobileConsoleKit?)
+- [Unity 游戏内显示控制台调试等信息工具-UnityInGameConsole](https://github.com/ArtOfSettling/UnityInGameConsole?)
+- [Unity 游戏内控制台日志显示工具-UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole?)
 
 </details>
 
@@ -696,6 +700,7 @@
 - [Unity 图形描边-Outline-Effect](https://github.com/cakeslice/Outline-Effect)
 - [Unity 对象快速描边-QuickOutline](https://github.com/chrisnolet/QuickOutline)
 - [Unity 后处理描边方案-Unity-URP-Outline](https://github.com/CristianQiu/Unity-URP-Outline?)
+- [Unity 基于内置渲染管线的卡通效果-PoiyomiToonShader](https://github.com/poiyomi/PoiyomiToonShader?)
   
 </details>
 
@@ -769,7 +774,8 @@
 - [Unity 草和毛发渲染的解决方案-GrassAndFur](https://github.com/Propagant/Unity-GrassAndFur?)
 - [Unity 屏幕空间的全局光照-UnitySSGIURP](https://github.com/jiaozi158/UnitySSGIURP)
 - [Unity 实现顺序无关的透明度效果-oit-unity](https://github.com/happy-turtle/oit-unity?)
-
+- [Unity 比Unity内置渲染效果更好的Shader-GeneLit](https://github.com/momoma-null/GeneLit?)
+- [Unity 类似ShaderGraph的Shader编辑器-Graphlit](https://github.com/z3y/Graphlit?)
   
 </details>
 
@@ -1034,6 +1040,8 @@
 - [Unity 基于TileMap的2D网格地图编辑器-UnityGridLevelEditor](https://github.com/SinlessDevil/UnityGridLevelEditor)
 - [Unity 自定义基于节点的Shader编辑器-Graphlit](https://github.com/z3y/Graphlit?)
 - [Unity 运行平台构建时符号定义检查工具-DevAccelerationSystem](https://github.com/FoxsterDev/DevAccelerationSystem?)
+- [Unity 手动生成mesh collider的工具-ColliderMeshTool](https://github.com/SinlessDevil/ColliderMeshTool?)
+- [Unity Mesh的SDF生成工具-IsoMesh](https://github.com/EmmetOT/IsoMesh?)
 - 
 </details>
 
@@ -1050,6 +1058,7 @@
 - [Unity 运行时程序生成Mesh框架-BMeshUnity](https://github.com/eliemichel/BMeshUnity?)
 - [Unity 运行时游戏调试的工具-UnityExplorer](https://github.com/sinai-dev/UnityExplorer))
 - [Unity 运行时颜色拾取器-In-Game-Color-Picker-For-Unity](https://github.com/XeniaPhe/In-Game-Color-Picker-For-Unity?)
+- [Unity 用于从Android和iOS上导入/导出文件-UnityNativeFilePicker](https://github.com/yasirkula/UnityNativeFilePicker?)
 
 </details>
 
