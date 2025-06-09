@@ -84,6 +84,7 @@
 - [Unity 运行时动态依赖注入框架-usyrup](https://github.com/Jeffan207/usyrup?)
 - [Unity 轻量级依赖注入框架-Zenject](https://github.com/modesttree/Zenject)
 - [Unity 快速高效的动画引擎-dotween](https://github.com/Demigiant/dotween)
+- [Unity 第一人称冒险游戏费模板项目-Unity-FirstPersonInteractionToolkit](https://github.com/stevenharmongames/Unity-FirstPersonInteractionToolkit?)
 
 </details>
 
@@ -160,6 +161,7 @@
 - [Unity 可视化状态机-VisualStateMachineV2](https://github.com/PaulNonatomic/VisualStateMachineV2?)
 - [Unity 微软可视化Mesh工具包-Mesh-Toolkit-Unity](https://github.com/microsoft/Mesh-Toolkit-Unity?)
 - [Unity 相机实时跟踪多个目标对象-unity-camera-multi-target](https://github.com/lopespm/unity-camera-multi-target?)
+- [Unity 运行时和编辑器模式简化Mesh工具-Meshia.MeshSimplification](https://github.com/RamType0/Meshia.MeshSimplification?)
 
 </details>
 
@@ -1042,6 +1044,7 @@
 - [Unity 运行平台构建时符号定义检查工具-DevAccelerationSystem](https://github.com/FoxsterDev/DevAccelerationSystem?)
 - [Unity 手动生成mesh collider的工具-ColliderMeshTool](https://github.com/SinlessDevil/ColliderMeshTool?)
 - [Unity Mesh的SDF生成工具-IsoMesh](https://github.com/EmmetOT/IsoMesh?)
+- [Unity 程序化生成关卡环境工具-UnityMapGenerator](https://github.com/Lawlzee/UnityMapGenerator?)
 - 
 </details>
 
@@ -1108,6 +1111,7 @@
 - [Unity VSCode的Shader语法增强插件-ShadeView 2 - Ultimate Shader Tool](https://marketplace.visualstudio.com/items?itemName=awwsky.shadeview)
 - [Unity 生成版本ChangeLog说明文件插件-unity-buildplus](https://github.com/Hermesiss/unity-buildplus?)
 - [Unity SDF生成操作方案-SdfManipulator](https://github.com/T3sT3ro/SdfManipulator?)
+- [Unity 几何网格点云渲染框架-Unity_Geometry_Sequence_Player](https://github.com/BuildingVolumes/Unity_Geometry_Sequence_Player)
 
 
 </details>
