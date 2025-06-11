@@ -100,6 +100,7 @@
 - [Unity 游戏的核心 ScriptableObject 架构-sunflower](https://github.com/VirtueSky/sunflower?)
 - [Unity Excel转Scriptobjectable工具-excel-to-unity](https://github.com/hnb-rabear/excel-to-unity?)
 - [Unity ScriptableObjects下拉列表多选扩展](https://github.com/ATHellboy/ScriptableObjectMultiSelectDropdown)
+- [Unity 自定义类似Unreal的对象GamePlay Tag系统-Unity-Scriptable-Tags](https://github.com/Jason-Skillman/Unity-Scriptable-Tags)
     
 </details>
 
@@ -108,6 +109,7 @@
 
 - [Unity 使用PubSub模式和响应式编程原则管理游戏内事件的简单解决方案](https://github.com/DevsDaddy/UnityEventFramework)
 - [Unity 支持多种模式的通用事件系统-UnityEventBus](https://github.com/NullTale/UnityEventBus?)
+- [Unity 基于ScriptableObject的事件系统-Unity-Scriptable-Events](https://github.com/Jason-Skillman/Unity-Scriptable-Events?)
 
 </details>
 
@@ -421,6 +423,8 @@
 - [Unity 使用Github的Action进行Unity Ios打包方案-unity-xcode-builder](https://github.com/buildalon/unity-xcode-builder?)
 - [Unity 游戏中文本转语音工具-PathfinderTextToSpeechMod](https://github.com/Osmodium/PathfinderTextToSpeechMod?)
 - [Unity 轻量、可伸缩、可扩展的音频解决方案-KNOT-Audio](https://github.com/V0odo0/KNOT-Audio)
+- [Unity 管理和配置构建多平台工具-BuildMagic](https://github.com/CyberAgentGameEntertainment/BuildMagic?)
+- 
 </details>
 
 <details open>
@@ -498,6 +502,7 @@
 - [Unity 容易使用的高性能网络库-Mirage](https://github.com/MirageNet/Mirage)
 - [Unity 跨平台网络库-Photon Unity Networking Classic - FREE](https://assetstore.unity.com/packages/tools/network/photon-unity-networking-classic-free-1786?aid=1101lSqC&utm_source=aff)
 - [Unity 面向后端的网络框架-ForgeNetworkingRemastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered)
+- [Unity 完全免费的网路解决方案-PurrNet](https://github.com/PurrNet/PurrNet)
 
 </details>
 </details>
@@ -551,6 +556,7 @@
 - [Unity TextMeshPro文本组件之字体图集生成-UnityTMProFontCustomizedCreater](https://github.com/akof1314/UnityTMProFontCustomizedCreater)
 - [Unity Noesis UI Flow 框架-UIFlow](https://github.com/LizzyFox-code/UIFlow?)
 - [Unity 运行时移动旋转缩放Canvas-Bounding Box](https://assetstore.unity.com/packages/2d/gui/bounding-box-289226)
+- [Unity UGUI刘海安全区域控制方案-unity-safe-area-layout](https://github.com/gilzoide/unity-safe-area-layout?)
 - 
 </details>
 
@@ -865,6 +871,7 @@
 - [Unity 软体模拟-SoftBodySimulation](https://github.com/chrismarch/SoftBodySimulation)
 - [Unity 软体动画框架-Jelly-Mesh-System](https://github.com/roundyyy/Jelly-Mesh-System)
 - [Unity 流体模拟框架-The-Fluid-Toy](https://github.com/Victor2266/The-Fluid-Toy)
+- [Unity Raycast可视化物理碰撞调试工具-RaycastVisualization](https://github.com/nomnomab/RaycastVisualization?)
 
 </details>
 
@@ -884,6 +891,9 @@
 - [Unity AI深度学习动画框架-AI4Animation](https://github.com/sebastianstarke/AI4Animation)
 - [Unity 接入大语言模型框架-LLMUnity](https://github.com/undreamai/LLMUnity)
 - [Unity 足部IK系统-IKFootPlacement](https://github.com/plonkabartosz/IKFootPlacement)
+- [Unity 可视化状态机工具-StateGraphTool](https://github.com/darkrainbowsprinkles/StateGraphTool?)
+- [Unity 可视化行为树工具-BehaviourGraphTool](https://github.com/darkrainbowsprinkles/BehaviourGraphTool)
+- [Unity AI视觉检测方案-VisionFieldMesh](https://github.com/SinlessDevil/VisionFieldMesh?)
     
 </details>
 
@@ -1045,6 +1055,7 @@
 - [Unity 手动生成mesh collider的工具-ColliderMeshTool](https://github.com/SinlessDevil/ColliderMeshTool?)
 - [Unity Mesh的SDF生成工具-IsoMesh](https://github.com/EmmetOT/IsoMesh?)
 - [Unity 程序化生成关卡环境工具-UnityMapGenerator](https://github.com/Lawlzee/UnityMapGenerator?)
+- [Unity 编辑器自定义消息弹出显示-EditorToast](https://github.com/CookieJarTools/EditorToast?)
 - 
 </details>
 
@@ -1139,6 +1150,7 @@
 - [Unity 官方机器人模拟-Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 - [Unity 重制暴雪《星际争霸》-startcraft-unity3d](https://github.com/coconauts/startcraft-unity3d/tree/master)
 - [Unity 第一人称和第三人称射击游戏框架-com.david6.shootercore](https://github.com/David-63/com.david6.shootercore)
+- [Unity 模块化FPS游戏框架-Unity-Hyper-FPS-FrameWork-Open-Source](https://github.com/InboraStudio/Unity-Hyper-FPS-FrameWork-Open-Source-?)
 
 </details>
 
