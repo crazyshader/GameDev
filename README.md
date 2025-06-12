@@ -118,6 +118,7 @@
 
 - [Unity 游戏反外挂数据加密和内存保护的解决方案-GameShield](https://github.com/DevsDaddy/GameShield?)
 - [Unity 包含多种加密算法的数据加解密库-UnityCrypto](https://github.com/DevsDaddy/UnityCrypto)
+- [Unity 代码混淆方案-obfuz](https://github.com/focus-creative-games/obfuz)
 
 </details>
 
