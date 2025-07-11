@@ -85,6 +85,7 @@
 - [Unity 轻量级依赖注入框架-Zenject](https://github.com/modesttree/Zenject)
 - [Unity 快速高效的动画引擎-dotween](https://github.com/Demigiant/dotween)
 - [Unity 第一人称冒险游戏费模板项目-Unity-FirstPersonInteractionToolkit](https://github.com/stevenharmongames/Unity-FirstPersonInteractionToolkit?)
+- [Unity 包含多种实用功能的工具类-Evolunity](https://github.com/Bodix/Evolunity?)
 
 </details>
 
@@ -101,6 +102,7 @@
 - [Unity Excel转Scriptobjectable工具-excel-to-unity](https://github.com/hnb-rabear/excel-to-unity?)
 - [Unity ScriptableObjects下拉列表多选扩展](https://github.com/ATHellboy/ScriptableObjectMultiSelectDropdown)
 - [Unity 自定义类似Unreal的对象GamePlay Tag系统-Unity-Scriptable-Tags](https://github.com/Jason-Skillman/Unity-Scriptable-Tags)
+- [Unity 基于ScriptableObject的对象多标签系统-NeatoTags](https://github.com/KingRecycle/NeatoTags)
     
 </details>
 
@@ -165,6 +167,7 @@
 - [Unity 微软可视化Mesh工具包-Mesh-Toolkit-Unity](https://github.com/microsoft/Mesh-Toolkit-Unity?)
 - [Unity 相机实时跟踪多个目标对象-unity-camera-multi-target](https://github.com/lopespm/unity-camera-multi-target?)
 - [Unity 运行时和编辑器模式简化Mesh工具-Meshia.MeshSimplification](https://github.com/RamType0/Meshia.MeshSimplification?)
+- [Unity 为对象添加状态特效的框架-StatusEffectsFramework-Unity](https://github.com/maraudical/StatusEffectsFramework-Unity?)
 
 </details>
 
@@ -558,6 +561,7 @@
 - [Unity Noesis UI Flow 框架-UIFlow](https://github.com/LizzyFox-code/UIFlow?)
 - [Unity 运行时移动旋转缩放Canvas-Bounding Box](https://assetstore.unity.com/packages/2d/gui/bounding-box-289226)
 - [Unity UGUI刘海安全区域控制方案-unity-safe-area-layout](https://github.com/gilzoide/unity-safe-area-layout?)
+- [Unity TextMeshPro帮助工具包-TextMeshProMax](https://github.com/kwan3854/TextMeshProMax?)
 - 
 </details>
 
@@ -604,6 +608,8 @@
 - [Unity UGUI纹理动态采样-UIDynamicSampler](https://github.com/mob-sakai/UIDynamicSampler?)
 - [Unity HSV颜色拾取组件-HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity?)
 - [Unity 通过Animation修改UI材质属性组件-UIMaterialPropertyInjector](https://github.com/mob-sakai/UIMaterialPropertyInjector?)
+- [Unity 实现UI材质动画的组件-AnimateUIMaterials](https://github.com/lgarczyn/AnimateUIMaterials?)
+- [Unity 检测不规则图形按钮的点击事件-unity_image_with_hit_detection_on_shape](https://github.com/lucbloom/unity_image_with_hit_detection_on_shape?)
 - 
 </details>
 
@@ -686,6 +692,7 @@
 - [Unity 自定义SRP模板-CustomSRP](https://github.com/phi-lira/CustomSRP)
 - [Unity 自定义渲染管线学习](https://github.com/What-a-stupid-username/RP)
 - [Unity GPU驱动管线-Unity-GPU-Driven-Pipeline](https://github.com/MaxwellGengYF?tab=repositories)
+- [Unity 基于SRP的自定义渲染管线-NoesisRender](https://github.com/5a5ha111/NoesisRender?)
 - 
 </details>
 
@@ -1057,6 +1064,8 @@
 - [Unity Mesh的SDF生成工具-IsoMesh](https://github.com/EmmetOT/IsoMesh?)
 - [Unity 程序化生成关卡环境工具-UnityMapGenerator](https://github.com/Lawlzee/UnityMapGenerator?)
 - [Unity 编辑器自定义消息弹出显示-EditorToast](https://github.com/CookieJarTools/EditorToast?)
+- [Unity 支持多种不同类型的网格系统-MyGrid](https://github.com/bilalemregrkn/MyGrid?)
+- [Unity 实现不切换场景播放任意场景的自定义播放工具栏工具-unity-custom-play-button](https://github.com/antonysze/unity-custom-play-button?)
 - 
 </details>
 
@@ -1132,6 +1141,11 @@
 </details>
 
 <details open>
+<summary><h2>多平台</h2></summary>
+- [Unity 支持多平台在Unity显示Web页面的工具-unity-webview](https://github.com/gree/unity-webview?)
+</details>
+
+<details open>
 <summary><h2>示例项目</h2></summary>
 
 - [Unity ECS + C# Job System-Voxelman](https://github.com/keijiro/Voxelman)
@@ -1152,7 +1166,8 @@
 - [Unity 重制暴雪《星际争霸》-startcraft-unity3d](https://github.com/coconauts/startcraft-unity3d/tree/master)
 - [Unity 第一人称和第三人称射击游戏框架-com.david6.shootercore](https://github.com/David-63/com.david6.shootercore)
 - [Unity 模块化FPS游戏框架-Unity-Hyper-FPS-FrameWork-Open-Source](https://github.com/InboraStudio/Unity-Hyper-FPS-FrameWork-Open-Source-?)
-
+- [Unity 开源实时车辆物理实现项目-TORSION-Community-Edition](https://github.com/LemonMontage420/TORSION-Community-Edition?)
+- 
 </details>
 
 <details open>
