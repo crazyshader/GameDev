@@ -86,6 +86,8 @@
 - [Unity 快速高效的动画引擎-dotween](https://github.com/Demigiant/dotween)
 - [Unity 第一人称冒险游戏费模板项目-Unity-FirstPersonInteractionToolkit](https://github.com/stevenharmongames/Unity-FirstPersonInteractionToolkit?)
 - [Unity 包含多种实用功能的工具类-Evolunity](https://github.com/Bodix/Evolunity?)
+- [Unity 组件工具集-Medicine](https://github.com/apkd/Medicine)
+- [Unity 通用功能实现集合-UniSharper.Core](https://github.com/iDreamsOfGame/UniSharper.Core/tree/upm)
 
 </details>
 
@@ -103,6 +105,7 @@
 - [Unity ScriptableObjects下拉列表多选扩展](https://github.com/ATHellboy/ScriptableObjectMultiSelectDropdown)
 - [Unity 自定义类似Unreal的对象GamePlay Tag系统-Unity-Scriptable-Tags](https://github.com/Jason-Skillman/Unity-Scriptable-Tags)
 - [Unity 基于ScriptableObject的对象多标签系统-NeatoTags](https://github.com/KingRecycle/NeatoTags)
+- [Unity 直接在Inspector显示引用ScriptableObject对象的属性-scrutable-objects ](https://github.com/moonymachine/scrutable-objects/tree/main)
     
 </details>
 
@@ -311,6 +314,8 @@
 - [C# 无GC字符串类-gstring](https://github.com/vexe/gstring/blob/master/GC%20Free%20String/gstring.cs?1564015541577)
 - [C# Zero Allocation StringBuilder for .NET Core and Unity](https://github.com/Cysharp/ZString)
 - [Unity 简单的依赖注入插件-com.lurking-ninja.dependency](https://github.com/LurkingNinja/com.lurking-ninja.dependency?)
+- [C# 让低版本运行时库使用最新版本C#特性-PolySharp](https://github.com/Sergio0694/PolySharp)
+- [Unity 依赖注入框架-Saneject](https://github.com/alexanderlarsen/Saneject)
   
 </details>
  
@@ -344,6 +349,7 @@
 - [Unity 通用移动Ai库-unity-movement-ai](https://github.com/antonpantev/unity-movement-ai)
 - [Unity A* Pathfinding Project](https://arongranberg.com/astar/download)
 - [Unity 对象池-ObjectPool](https://github.com/UnityPatterns/ObjectPool/blob/master/Assets/ObjectPool/Scripts/ObjectPool.cs)
+- [Unity 轻量级的异步对象池系统-PoolManager](https://github.com/BatuhanKanbur/PoolManager)
 - [Unity 使用ECS的Navmesh寻路-unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh)
 - [Unity 事件驱动的行为树-NPBehave](https://github.com/meniku/NPBehave)
 - [Unity 可定制化的对象池-kPooling](https://github.com/Kink3d/kPooling)
@@ -380,6 +386,7 @@
 - [Unity 多场景加载管理-scene-loader](https://github.com/mygamedevtools/scene-loader?)
 - [Unity 简洁易扩展的资源管理框架-Flexy.AssetRefs](https://github.com/FlexyTools/Flexy.AssetRefs?)
 - [Unity 场景加载和管理框架-Navigathena](https://github.com/mackysoft/Navigathena?)
+- [Unity 更好的Lightmap打包方案-XatlasLightmap](https://github.com/z3y/XatlasLightmap)
 
 - 
 </details>
@@ -455,6 +462,7 @@
 - [Unity 数据可视化插件-XCharts](https://github.com/XCharts-Team/XCharts)
 - [Unity 简单的黑板实现-Simple-Blackboard](https://github.com/ZorPastaman/Simple-Blackboard?)
 - [Unity 以Json文件格式存储PlayerPrefs数据-FileBasedPlayerPrefs](https://github.com/richardelms/FileBasedPlayerPrefs?)
+- [Unity 现代化高性能数据表系统-DataTables](https://github.com/ChronosGames/DataTables)
 
 </details>
 
@@ -531,6 +539,7 @@
 - [Unity 一个用于构建用户界面的轻量级模块化框架-Graphene](https://github.com/LudiKha/Graphene?)
 - [Unity 简单的UI界面管理器-Simple-Screen-Manager-for-Unity-aka-SS](https://github.com/AnhPham/Simple-Screen-Manager-for-Unity-aka-SS?)
 - [Unity UI功能扩展框架-com.unity.uiextensions](https://github.com/Unity-UI-Extensions/com.unity.uiextensions)
+- [Unity 基于UGUI的UI元素管理系统-MacacaViewSystem](https://github.com/MacacaGames/MacacaViewSystem)
     
 </details>
 
@@ -610,6 +619,7 @@
 - [Unity 通过Animation修改UI材质属性组件-UIMaterialPropertyInjector](https://github.com/mob-sakai/UIMaterialPropertyInjector?)
 - [Unity 实现UI材质动画的组件-AnimateUIMaterials](https://github.com/lgarczyn/AnimateUIMaterials?)
 - [Unity 检测不规则图形按钮的点击事件-unity_image_with_hit_detection_on_shape](https://github.com/lucbloom/unity_image_with_hit_detection_on_shape?)
+- [Unity 使用UIToolkit渲染Markdown-MarkdownRenderer](https://github.com/UnityGuillaume/MarkdownRenderer)
 - 
 </details>
 
@@ -652,6 +662,7 @@
 - [Unity 移动平台控制台调试工具-MobileConsoleKit](https://github.com/pixeption/MobileConsoleKit?)
 - [Unity 游戏内显示控制台调试等信息工具-UnityInGameConsole](https://github.com/ArtOfSettling/UnityInGameConsole?)
 - [Unity 游戏内控制台日志显示工具-UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole?)
+- [Unity 基于UIToolkit界面美观的性能监视器-UniStats](https://github.com/witalosk/UniStats)
 
 </details>
 
@@ -792,6 +803,8 @@
 - [Unity 实现顺序无关的透明度效果-oit-unity](https://github.com/happy-turtle/oit-unity?)
 - [Unity 比Unity内置渲染效果更好的Shader-GeneLit](https://github.com/momoma-null/GeneLit?)
 - [Unity 类似ShaderGraph的Shader编辑器-Graphlit](https://github.com/z3y/Graphlit?)
+- [Unity 基于URP的屏幕空间全局光照SSGI-unity-poor-gi](https://github.com/alexmalyutindev/unity-poor-gi)
+- [Unity 免费技术美术Shader资源库-ShaderStory](https://github.com/DeGGeD/ShaderStory)
   
 </details>
 
@@ -859,6 +872,7 @@
 - [Unity 动画路径编辑工具-3 in 1 Animation tools | Animation path](https://assetstore.unity.com/packages/tools/animation/3-in-1-animation-tools-animation-path-video-reference-297188?aid=1011l37no&pubref=bsky)
 - [Unity 运动匹配实现-MotionMatching](https://github.com/JLPM22/MotionMatching?)
 - [Unity 强大高性能的Tween工具-MojoTween](https://github.com/scottcgi/MojoTween?)
+- [Unity 简单的动画播放系统-unity-animation-system](https://github.com/amirhoseinjfri/unity-animation-system)
 
 </details>
 </details>
@@ -880,6 +894,8 @@
 - [Unity 软体动画框架-Jelly-Mesh-System](https://github.com/roundyyy/Jelly-Mesh-System)
 - [Unity 流体模拟框架-The-Fluid-Toy](https://github.com/Victor2266/The-Fluid-Toy)
 - [Unity Raycast可视化物理碰撞调试工具-RaycastVisualization](https://github.com/nomnomab/RaycastVisualization?)
+- [Unity 为骨骼动画增加弹性物理模拟的框架-UnityJigglePhysics](https://github.com/naelstrof/UnityJigglePhysics)
+- [Unity 功能强大的物理交互框架-Interactions](https://github.com/Shababeek/Interactions)
 
 </details>
 
@@ -902,6 +918,8 @@
 - [Unity 可视化状态机工具-StateGraphTool](https://github.com/darkrainbowsprinkles/StateGraphTool?)
 - [Unity 可视化行为树工具-BehaviourGraphTool](https://github.com/darkrainbowsprinkles/BehaviourGraphTool)
 - [Unity AI视觉检测方案-VisionFieldMesh](https://github.com/SinlessDevil/VisionFieldMesh?)
+- [Unity Navmesh烘焙无效区域优化工具-NavMesh-Cleaner](https://github.com/Acissathar/NavMesh-Cleaner)
+- [Unity 官方通用车辆控制器-Vehicle](https://docs.unity3d.com/Packages/com.unity.vehicles@0.1/manual/index.html)
     
 </details>
 
@@ -1066,6 +1084,9 @@
 - [Unity 编辑器自定义消息弹出显示-EditorToast](https://github.com/CookieJarTools/EditorToast?)
 - [Unity 支持多种不同类型的网格系统-MyGrid](https://github.com/bilalemregrkn/MyGrid?)
 - [Unity 实现不切换场景播放任意场景的自定义播放工具栏工具-unity-custom-play-button](https://github.com/antonysze/unity-custom-play-button?)
+- [Unity 数学可视化工具-UnityMathReference](https://github.com/zezba9000/UnityMathReference)
+- [Unity Shader变体优化工具-StrippingByVariantCollection](https://github.com/wotakuro/StrippingByVariantCollection)
+- [Unity 将6.2生成网格LOD导出到FBX文件工具-MeshLOD2Fbx](https://github.com/staggartcreations/MeshLOD2Fbx)
 - 
 </details>
 
@@ -1083,7 +1104,8 @@
 - [Unity 运行时游戏调试的工具-UnityExplorer](https://github.com/sinai-dev/UnityExplorer))
 - [Unity 运行时颜色拾取器-In-Game-Color-Picker-For-Unity](https://github.com/XeniaPhe/In-Game-Color-Picker-For-Unity?)
 - [Unity 用于从Android和iOS上导入/导出文件-UnityNativeFilePicker](https://github.com/yasirkula/UnityNativeFilePicker?)
-
+- [Unity 跨平台的文件打开和保存框架-nativefileso](https://github.com/keiwando/nativefileso)
+- 
 </details>
 
 
@@ -1101,6 +1123,7 @@
 - [Unity 跨平台的CubeMap生成工具-cmftStudio](https://github.com/dariomanesku/cmftStudio)
 - [Unity Texture_maker A texture maker tool for unity](https://github.com/M-Fatah/texture_maker)
 - [Unity 项目纹理和图集分析工具-Unity-Textures-Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter?)
+- [Unity 多通道纹理组合打包工具-SmartTexture](https://github.com/mattdevv/SmartTexture)
 
 <details open>
 <summary><h3>其它工具</h3></summary>
@@ -1133,6 +1156,7 @@
 - [Unity 生成版本ChangeLog说明文件插件-unity-buildplus](https://github.com/Hermesiss/unity-buildplus?)
 - [Unity SDF生成操作方案-SdfManipulator](https://github.com/T3sT3ro/SdfManipulator?)
 - [Unity 几何网格点云渲染框架-Unity_Geometry_Sequence_Player](https://github.com/BuildingVolumes/Unity_Geometry_Sequence_Player)
+- [Unity 使用git工具合并场景和预制件的插件-GitMerge-for-Unity](https://github.com/FlaShG/GitMerge-for-Unity)
 
 
 </details>
@@ -1167,6 +1191,7 @@
 - [Unity 第一人称和第三人称射击游戏框架-com.david6.shootercore](https://github.com/David-63/com.david6.shootercore)
 - [Unity 模块化FPS游戏框架-Unity-Hyper-FPS-FrameWork-Open-Source](https://github.com/InboraStudio/Unity-Hyper-FPS-FrameWork-Open-Source-?)
 - [Unity 开源实时车辆物理实现项目-TORSION-Community-Edition](https://github.com/LemonMontage420/TORSION-Community-Edition?)
+- [Unity 高性能动态城市交通管理工具包-Traffic-Toolkit-DOTS](https://github.com/pekaram/Traffic-Toolkit-DOTS)
 - 
 </details>
 
