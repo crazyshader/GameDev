@@ -625,6 +625,7 @@
 - [Unity 实现UI材质动画的组件-AnimateUIMaterials](https://github.com/lgarczyn/AnimateUIMaterials?)
 - [Unity 检测不规则图形按钮的点击事件-unity_image_with_hit_detection_on_shape](https://github.com/lucbloom/unity_image_with_hit_detection_on_shape?)
 - [Unity 使用UIToolkit渲染Markdown-MarkdownRenderer](https://github.com/UnityGuillaume/MarkdownRenderer)
+- [Unity UI的SDF工具包-Unity-SDF-UI-Toolkit](https://github.com/TLabAltoh/Unity-SDF-UI-Toolkit)
 - 
 </details>
 
@@ -1086,6 +1087,7 @@
 - [Unity 自定义基于节点的Shader编辑器-Graphlit](https://github.com/z3y/Graphlit?)
 - [Unity 运行平台构建时符号定义检查工具-DevAccelerationSystem](https://github.com/FoxsterDev/DevAccelerationSystem?)
 - [Unity 手动生成mesh collider的工具-ColliderMeshTool](https://github.com/SinlessDevil/ColliderMeshTool?)
+- [Unity 自动或手动生成mesh collider的工具-ColliderMeshTool](https://github.com/edgard25/ColliderMeshTool)
 - [Unity Mesh的SDF生成工具-IsoMesh](https://github.com/EmmetOT/IsoMesh?)
 - [Unity 程序化生成关卡环境工具-UnityMapGenerator](https://github.com/Lawlzee/UnityMapGenerator?)
 - [Unity 编辑器自定义消息弹出显示-EditorToast](https://github.com/CookieJarTools/EditorToast?)
