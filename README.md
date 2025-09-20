@@ -83,6 +83,7 @@
 - [Unity 支持常用游戏功能的框架-Osk-Framework](https://github.com/O-S-K/Osk-Framework?)
 - [Unity 运行时动态依赖注入框架-usyrup](https://github.com/Jeffan207/usyrup?)
 - [Unity 轻量级依赖注入框架-Zenject](https://github.com/modesttree/Zenject)
+- [Unity 轻量级依赖注入框架-Tarject](https://github.com/tariksavas/tarject)
 - [Unity 快速高效的动画引擎-dotween](https://github.com/Demigiant/dotween)
 - [Unity 第一人称冒险游戏费模板项目-Unity-FirstPersonInteractionToolkit](https://github.com/stevenharmongames/Unity-FirstPersonInteractionToolkit?)
 - [Unity 包含多种实用功能的工具类-Evolunity](https://github.com/Bodix/Evolunity?)
