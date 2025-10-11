@@ -627,6 +627,8 @@
 - [Unity 检测不规则图形按钮的点击事件-unity_image_with_hit_detection_on_shape](https://github.com/lucbloom/unity_image_with_hit_detection_on_shape?)
 - [Unity 使用UIToolkit渲染Markdown-MarkdownRenderer](https://github.com/UnityGuillaume/MarkdownRenderer)
 - [Unity UI的SDF工具包-Unity-SDF-UI-Toolkit](https://github.com/TLabAltoh/Unity-SDF-UI-Toolkit)
+- [Unity 自适应UI图像的组件-FitForScreen](https://github.com/tetr4lab/FitForScreen)
+- [Unity 使得引用UI-Toolkit元素更加便捷-UI-Toolkit-Linker-and-Binder](https://github.com/DA-Assets/UI-Toolkit-Linker-and-Binder)
 - 
 </details>
 
@@ -1101,6 +1103,7 @@
 - [Unity Shader变体优化工具-StrippingByVariantCollection](https://github.com/wotakuro/StrippingByVariantCollection)
 - [Unity 将6.2生成网格LOD导出到FBX文件工具-MeshLOD2Fbx](https://github.com/staggartcreations/MeshLOD2Fbx)
 - [Unity 实时关卡内容创建框架-BlockMaps](https://github.com/p-svacha/BlockMaps)
+- [Unity 查找或删除引用丢失的脚本工具-Unity-MissingScriptsFinder](https://github.com/RimuruDev/Unity-MissingScriptsFinder)
 - 
 </details>
 
@@ -1220,5 +1223,6 @@
 - [最全面的游戏开发技术图谱-GameDevMind](https://github.com/gonglei007/GameDevMind)
 - [解决Github访问时图裂、加载慢的问题-GitHub520](https://github.com/521xueweihan/GitHub520)
 - [Git的奇技淫巧-git-tips](https://github.com/521xueweihan/git-tips)
+- [Unity国际版下载站-NoUnityCN](https://www.nounitycn.top/)
 
 </details>
