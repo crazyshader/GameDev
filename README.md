@@ -201,6 +201,7 @@
 - [Unity Visual Scripting使用示例-unity-visualscripting-samples](https://github.com/avashly/unity-visualscripting-samples)
 - [Unity Bolt社区扩展-Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community)
 - [Unity 高性能可视化脚本-uNode](https://github.com/wahidrachmawan/uNode)
+- [Unity 可视化蓝图脚本方案-Ceres](https://github.com/AkiKurisu/Ceres)
 
 </details>
   
@@ -359,6 +360,7 @@
 - [Unity 扩展数学库-Mathfs](https://github.com/FreyaHolmer/Mathfs)
 - [Unity 一个简单的有限状态机-Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine)
 - [Unity 类似动画状态机的游戏逻辑状态机工具-StateGraphTool](https://github.com/darkrainbowsprinkles/StateGraphTool?)
+- [Unity 高性能噪声库-NoiseDotNet](https://github.com/krubbles/NoiseDotNet)
 - 
 </details>
 
@@ -438,6 +440,7 @@
 - [Unity 游戏中文本转语音工具-PathfinderTextToSpeechMod](https://github.com/Osmodium/PathfinderTextToSpeechMod?)
 - [Unity 轻量、可伸缩、可扩展的音频解决方案-KNOT-Audio](https://github.com/V0odo0/KNOT-Audio)
 - [Unity 管理和配置构建多平台工具-BuildMagic](https://github.com/CyberAgentGameEntertainment/BuildMagic?)
+- [Unity 将Package导入到自定义文件夹-com.dreamcode.editor.smart-importer](https://github.com/yapetrichka/com.dreamcode.editor.smart-importer)
 - 
 </details>
 
@@ -445,6 +448,7 @@
 <summary><h3>数据管理</h3></summary>
 
 - [Unity 使用SQLite的插件-SQLite4Unity3d](https://github.com/robertohuertasm/SQLite4Unity3d)
+- [Unity SqlCipher4的Unity封装-SqlCipher4Unity3D](https://github.com/netpyoung/SqlCipher4Unity3D)
 - [Unity 组件保存系统-Component-Save-System](https://github.com/AlexMeesters/Component-Save-System)
 - [Unity Excel配置表导出工具-excelizor](https://github.com/sNaticY/excelizor)
 - [Unity Excel导入Unity-Excel-Importer-Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker)
@@ -546,6 +550,7 @@
 - [Unity 简单的UI界面管理器-Simple-Screen-Manager-for-Unity-aka-SS](https://github.com/AnhPham/Simple-Screen-Manager-for-Unity-aka-SS?)
 - [Unity UI功能扩展框架-com.unity.uiextensions](https://github.com/Unity-UI-Extensions/com.unity.uiextensions)
 - [Unity 基于UGUI的UI元素管理系统-MacacaViewSystem](https://github.com/MacacaGames/MacacaViewSystem)
+- [Unity 强大高性能MVVM框架-Aspid.MVVM](https://github.com/VPDPersonal/Aspid.MVVM)
     
 </details>
 
