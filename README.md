@@ -361,6 +361,7 @@
 - [Unity 一个简单的有限状态机-Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine)
 - [Unity 类似动画状态机的游戏逻辑状态机工具-StateGraphTool](https://github.com/darkrainbowsprinkles/StateGraphTool?)
 - [Unity 高性能噪声库-NoiseDotNet](https://github.com/krubbles/NoiseDotNet)
+- [Unity C#定点数库-fixed-point-types](https://github.com/stormmuller/fixed-point-types)
 - 
 </details>
 
@@ -551,6 +552,7 @@
 - [Unity UI功能扩展框架-com.unity.uiextensions](https://github.com/Unity-UI-Extensions/com.unity.uiextensions)
 - [Unity 基于UGUI的UI元素管理系统-MacacaViewSystem](https://github.com/MacacaGames/MacacaViewSystem)
 - [Unity 强大高性能MVVM框架-Aspid.MVVM](https://github.com/VPDPersonal/Aspid.MVVM)
+- [Unity 具有绑定器的MVVM框架-Mace](https://github.com/Aleshmandr/Mace)
     
 </details>
 
@@ -937,6 +939,9 @@
 - [Unity AI视觉检测方案-VisionFieldMesh](https://github.com/SinlessDevil/VisionFieldMesh?)
 - [Unity Navmesh烘焙无效区域优化工具-NavMesh-Cleaner](https://github.com/Acissathar/NavMesh-Cleaner)
 - [Unity 官方通用车辆控制器-Vehicle](https://docs.unity3d.com/Packages/com.unity.vehicles@0.1/manual/index.html)
+- [Unity NavMesh Link创建和优化工具-unity-navgen](https://github.com/idbrii/unity-navgen)
+- [Unity 接入Google Gemini的工具包-Gemini-Unity-Package](https://github.com/UnityGameStudio/Gemini-Unity-Package)
+- [Unity 接入DeepSeek的工具包](https://github.com/UnityGameStudio/DeepSeek-Unity)
     
 </details>
 
@@ -1109,6 +1114,7 @@
 - [Unity 将6.2生成网格LOD导出到FBX文件工具-MeshLOD2Fbx](https://github.com/staggartcreations/MeshLOD2Fbx)
 - [Unity 实时关卡内容创建框架-BlockMaps](https://github.com/p-svacha/BlockMaps)
 - [Unity 查找或删除引用丢失的脚本工具-Unity-MissingScriptsFinder](https://github.com/RimuruDev/Unity-MissingScriptsFinder)
+- [Unity 子资源SubAssets编辑工具-SubAssetEditor](https://github.com/mob-sakai/SubAssetEditor)
 - 
 </details>
 
@@ -1228,6 +1234,7 @@
 - [最全面的游戏开发技术图谱-GameDevMind](https://github.com/gonglei007/GameDevMind)
 - [解决Github访问时图裂、加载慢的问题-GitHub520](https://github.com/521xueweihan/GitHub520)
 - [Git的奇技淫巧-git-tips](https://github.com/521xueweihan/git-tips)
+- [Unity编辑器内使用Git可视化工具-UnityGitUI](https://github.com/mrtrizer/UnityGitUI)
 - [Unity国际版下载站-NoUnityCN](https://www.nounitycn.top/)
 
 </details>
