@@ -108,6 +108,7 @@
 - [Unity 自定义类似Unreal的对象GamePlay Tag系统-Unity-Scriptable-Tags](https://github.com/Jason-Skillman/Unity-Scriptable-Tags)
 - [Unity 基于ScriptableObject的对象多标签系统-NeatoTags](https://github.com/KingRecycle/NeatoTags)
 - [Unity 直接在Inspector显示引用ScriptableObject对象的属性-scrutable-objects ](https://github.com/moonymachine/scrutable-objects/tree/main)
+- [Unity 基于Scriptobjectable的游戏属性修改组合器-Modifiers](https://github.com/OlegDzhuraev/Modifiers)
     
 </details>
 
@@ -670,7 +671,6 @@
 - [Unity 堆内存性能分析-UnityHeapExplorer](https://bitbucket.org/pschraut/unityheapexplorer/src/master/)
 - [Unity 内存快照工具-UnityMemorySnapshotThing](https://github.com/SamboyCoding/UnityMemorySnapshotThing?)
 - [Unity GPU Instance优化工具-GPUInstance](https://github.com/mkrebser/GPUInstance?)
-- [Unity 自能Mesh合并工具-intelligent_mesh_combiner](https://github.com/roundyyy/intelligent_mesh_combiner?)
 - [Unity 将屏幕截图嵌入到 Unity Profiler 协议中-ScreenshotToUnityProfiler](https://github.com/wotakuro/ScreenshotToUnityProfiler?)
 - [Unity 事件调试器-UnityEventDebugger](https://github.com/KevinHagen/UnityEventDebugger)
 - [Unity 工程静态性能分析工具-ProjectAuditor](https://github.com/mtrive/ProjectAuditor)
@@ -691,7 +691,9 @@
 - [Unity Mesh合并工具-intelligent_mesh_combiner](https://github.com/roundyyy/intelligent_mesh_combiner?)
 - [Unity Terrian到Mesh转换工具-FastTerrainToMesh](https://github.com/roundyyy/FastTerrainToMesh)
 - [Unity 基于GPU的纹理和渲染超分解决方案-UnityXScaling](https://github.com/DevsDaddy/UnityXScaling)
-
+- [Unity 基于MeshSimplifier的Mesh优化工具](https://github.com/refiaa/MeshOptimizer.Unity)
+- [Unity 自能Mesh合并工具-intelligent_mesh_combiner](https://github.com/roundyyy/intelligent_mesh_combiner?)
+- 
 </details>  
 </details>
 
@@ -904,7 +906,6 @@
 - [Unity Mesh拆分和破碎系统-OpenFracture](https://github.com/dgreenheck/OpenFracture)
 - [Unity 基于位置的2D物理模拟-PBD2D](https://github.com/andywiecko/PBD2D?)
 - [Unity 布料弹簧系统-Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone)
-- [Unity 用于为骨骼和网格添加弹性物理特性的插件-UnityJigglePhysics](https://github.com/naelstrof/UnityJigglePhysics?)
 - [Unity 在编辑器模式基于物理的放置对象-TCS-PhysicsDropper](https://github.com/Ddemon26/TCS-PhysicsDropper)
 - [Unity 增强的触发器-Enhanced-Trigger-Box](https://github.com/Alexander-Scott/Enhanced-Trigger-Box)
 - [Unity 软体模拟-SoftBodySimulation](https://github.com/chrismarch/SoftBodySimulation)
@@ -942,6 +943,7 @@
 - [Unity NavMesh Link创建和优化工具-unity-navgen](https://github.com/idbrii/unity-navgen)
 - [Unity 接入Google Gemini的工具包-Gemini-Unity-Package](https://github.com/UnityGameStudio/Gemini-Unity-Package)
 - [Unity 接入DeepSeek的工具包](https://github.com/UnityGameStudio/DeepSeek-Unity)
+- [Unity NavMesh代理之间避障功能-NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance)
     
 </details>
 
@@ -1195,7 +1197,9 @@
 
 <details open>
 <summary><h2>多平台</h2></summary>
-- [Unity 支持多平台在Unity显示Web页面的工具-unity-webview](https://github.com/gree/unity-webview?)
+
+- [Unity 支持多平台在Unity显示Web页面的工具 unity-webview](https://github.com/gree/unity-webview?)
+- 
 </details>
 
 <details open>
