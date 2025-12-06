@@ -348,6 +348,7 @@
 - [Unity 八叉树实现-UnityOctree](https://github.com/Nition/UnityOctree)
 - [Unity C#数据结构和算法-C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms)
 - [Unity 18种曲线算法-unity-curve-utils](https://github.com/baba-s/unity-curve-utils)
+- [Unity 优化平滑3D曲线的组件-MGS.Curve](https://github.com/mogoson/MGS.Curve)
 - [C++ 数据结构和算法-algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures)
 - [Unity PathFindingAlgorithms](https://github.com/dbrizov/Unity-PathFindingAlgorithms)
 - [Unity 数学和物理算法-MathUtilities](https://github.com/zalo/MathUtilities)
@@ -443,6 +444,7 @@
 - [Unity 轻量、可伸缩、可扩展的音频解决方案-KNOT-Audio](https://github.com/V0odo0/KNOT-Audio)
 - [Unity 管理和配置构建多平台工具-BuildMagic](https://github.com/CyberAgentGameEntertainment/BuildMagic?)
 - [Unity 将Package导入到自定义文件夹-com.dreamcode.editor.smart-importer](https://github.com/yapetrichka/com.dreamcode.editor.smart-importer)
+- [Unity 将Unity的批量构建日志输出到StandardOutput-UnityBuildRunner](https://github.com/guitarrapc/UnityBuildRunner)
 - 
 </details>
 
@@ -563,6 +565,7 @@
 - [Unity UGUI粒子特效插件-ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI)
 - [Unity 各种有用的UGUI特效-UIEffect](https://github.com/mob-sakai/UIEffect)
 - [Unity UI毛玻璃效果-Super-Blur](https://github.com/PavelDoGreat/Super-Blur)
+- [Unity UI背景的场景半透模糊效果-Unified-Universal-Blur](https://github.com/lukakldiashvili/Unified-Universal-Blur)
 - [Unity 窗口背景模糊方案-StaticBluredScreen](https://github.com/mob-sakai/StaticBluredScreen)
 - [Unity UGUI界面纹理镜像显示-MirrorReflectionEffectForUGUI](https://github.com/mob-sakai/MirrorReflectionEffectForUGUI)
 - [Unity 各种炫酷UI纹理动画-TexturePanner](https://github.com/AdultLink/TexturePanner)
@@ -649,9 +652,12 @@
 - [Unity 基于UI Toolkit的调试UI工具-DebugUI](https://github.com/AnnulusGames/DebugUI)
 - [Unity 实时日志-unity_realtime_log](https://github.com/mr-kelly/unity_realtime_log)
 - [Unity Gizmos扩展-GizmoExtensions](https://github.com/code-beans/GizmoExtensions)
+- [Unity Gizmo调试工具-Vertx.Debugging](https://github.com/vertxxyz/Vertx.Debugging)
+- [Unity 高效gizmo绘制工具-UGizmo](https://github.com/harumas/UGizmo?)
+- [Unity 运行时场景Gizmo-UnityRuntimeSceneGizmo](https://github.com/yasirkula/UnityRuntimeSceneGizmo)
+- [Unity 显示丢失组件信息-missing-component-info](https://github.com/needle-tools/missing-component-info?)
 - [Unity 游戏调试UI面板-uni-debug-panel](https://github.com/baba-s/uni-debug-panel)
 - [Unity 运行时线条绘制实用程序-NDraw](https://github.com/nothke/NDraw?)
-- [Unity 运行时线条绘制实用程序-UGizmo](https://github.com/harumas/UGizmo?)
 - [Unity 支持编辑器和运行时绘制实用程序-Unity-DebugX](https://github.com/DCFApixels/Unity-DebugX?)
 - [Unity 使用 ImGui.NET 的即时模式 GUI 库的 UPM 包-uimgui](https://github.com/psydack/uimgui?)
 - [Unity 运行时日志系统-Realtime In Game Log Console](https://assetstore.unity.com/packages/tools/gui/realtime-in-game-log-console-212758)
@@ -686,7 +692,6 @@
 <summary><h3>优化方案</h3></summary>
 
 - [Unity 官方合批被打断的各种情况-BatchBreakingCause](https://github.com/Unity-Technologies/BatchBreakingCause)
-- [Unity 运行时Gizmos](https://github.com/popcron/gizmos)
 - [Unity Debug-Panel 游戏运行时的调试面板](https://github.com/brunomikoski/Debug-Panel)
 - [Unity Mesh合并工具-intelligent_mesh_combiner](https://github.com/roundyyy/intelligent_mesh_combiner?)
 - [Unity Terrian到Mesh转换工具-FastTerrainToMesh](https://github.com/roundyyy/FastTerrainToMesh)
@@ -892,6 +897,7 @@
 - [Unity 强大高性能的Tween工具-MojoTween](https://github.com/scottcgi/MojoTween?)
 - [Unity 简单的动画播放系统-unity-animation-system](https://github.com/amirhoseinjfri/unity-animation-system)
 - [Unity 类似DOTween的动画框架-tools-motion-kit](https://github.com/cocodrilodog/tools-motion-kit)
+- [Unity 优化拖尾Trial的组件-Unity-SmoothLineTrail](https://github.com/Yword/Unity-SmoothLineTrail)
 
 </details>
 </details>
@@ -1067,9 +1073,6 @@
 - [Unity 用于选择要在 Unity 中序列化的子类的属性-ChoiceReferenceAttribute](https://github.com/Paulsams/ChoiceReferenceAttribute?)
 - [Unity 编译可视化工具-compilation-visualizer](https://github.com/needle-tools/compilation-visualizer)
 - [Unity 显示Mesh线框模式的Shader-unity-wireframe](https://github.com/Chaser324/unity-wireframe)
-- [Unity Gizmo调试工具-Vertx.Debugging](https://github.com/vertxxyz/Vertx.Debugging)
-- [Unity 显示丢失组件信息-missing-component-info](https://github.com/needle-tools/missing-component-info?)
-- [Unity 高效gizmo绘制工具-UGizmo](https://github.com/harumas/UGizmo?)
 - [Unity 为Unity属性添加事件回调-Unity.MissingUnityEvents](https://github.com/handzlikchris/Unity.MissingUnityEvents)
 - [Unity 官方工具收集-ToolsCollection](https://github.com/Unity-Technologies/ToolsCollection)
 - [Unity 条件编译示例-ConditionalCompilationUtility](https://github.com/Unity-Technologies/ConditionalCompilationUtility)
@@ -1117,6 +1120,7 @@
 - [Unity 实时关卡内容创建框架-BlockMaps](https://github.com/p-svacha/BlockMaps)
 - [Unity 查找或删除引用丢失的脚本工具-Unity-MissingScriptsFinder](https://github.com/RimuruDev/Unity-MissingScriptsFinder)
 - [Unity 子资源SubAssets编辑工具-SubAssetEditor](https://github.com/mob-sakai/SubAssetEditor)
+- [Unity 编辑场景分层对象选择-NSelection](https://github.com/vertxxyz/NSelection)
 - 
 </details>
 
@@ -1129,7 +1133,6 @@
 - [Unity 编辑器和运行时模型简化插件-UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier)
 - [Unity 实时模型绘制-RealTime Painting](https://assetstore.unity.com/packages/templates/tutorials/realtime-painting-33506?aid=1101lSqC&utm_source=aff)
 - [Unity 运行时地形编辑-RuntimeTerrainEditor](https://github.com/xdedzl/RuntimeTerrainEditor)
-- [Unity 运行时场景Gizmo-UnityRuntimeSceneGizmo](https://github.com/yasirkula/UnityRuntimeSceneGizmo)
 - [Unity 运行时程序生成Mesh框架-BMeshUnity](https://github.com/eliemichel/BMeshUnity?)
 - [Unity 运行时游戏调试的工具-UnityExplorer](https://github.com/sinai-dev/UnityExplorer))
 - [Unity 运行时颜色拾取器-In-Game-Color-Picker-For-Unity](https://github.com/XeniaPhe/In-Game-Color-Picker-For-Unity?)
