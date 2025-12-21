@@ -92,6 +92,7 @@
 - [Unity 通用功能实现集合-UniSharper.Core](https://github.com/iDreamsOfGame/UniSharper.Core/tree/upm)
 - [Unity 轻量级模块化时间控制系统-game-core-time-channels](https://github.com/BcoffeeDev/game-core-time-channels)
 - [Unity 游戏开发调试和优化的工具库-ReplayLib](https://github.com/radif/ReplayLib)
+- [Unity 高效、灵活和专业的开发框架-Chris](https://github.com/AkiKurisu/Chris)
 
 </details>
 
@@ -477,6 +478,7 @@
 - [Unity 一个用于游戏开发的综合数据管理系统-Datra](https://github.com/penspanic/Datra)
 - [Unity 管理、可视化和操作来自 ScriptableObjects 的表格数据-TableForge](https://github.com/JoseGomis299/TableForge)
 - [Unity 实现点状、曲线和饼状图形框架-UIT_Charts](https://github.com/noirb/UIT_Charts)
+- [Unity 从Google Sheet导入数据并生成代码和Json-TabbySheet](https://github.com/MyNameIsDabin/TabbySheet)
 
 </details>
 
@@ -557,7 +559,8 @@
 - [Unity 强大高性能MVVM框架-Aspid.MVVM](https://github.com/VPDPersonal/Aspid.MVVM)
 - [Unity 具有绑定器的MVVM框架-Mace](https://github.com/Aleshmandr/Mace)
 - [Unity 强大MVVM框架-Uice](https://github.com/Aleshmandr/Uice)
-
+- [Unity 简单易用的MVVM框架-UniGame.ViewSystem](https://github.com/UnioGame/UniGame.ViewSystem)
+- 
 </details>
 
 <details open>
@@ -590,6 +593,7 @@
 - [Unity UGUI刘海安全区域控制方案-unity-safe-area-layout](https://github.com/gilzoide/unity-safe-area-layout?)
 - [Unity TextMeshPro帮助工具包-TextMeshProMax](https://github.com/kwan3854/TextMeshProMax?)
 - [Unity 为UI精灵烘焙阴影的工具-UIEffectsBaker](https://github.com/unitycoder/UIEffectsBaker)
+- [Unity 字体效果预览工具-Fontastic](https://github.com/unitycoder/Fontastic)
 
 </details>
 
@@ -642,6 +646,7 @@
 - [Unity 自适应UI图像的组件-FitForScreen](https://github.com/tetr4lab/FitForScreen)
 - [Unity 使得引用UI-Toolkit元素更加便捷-UI-Toolkit-Linker-and-Binder](https://github.com/DA-Assets/UI-Toolkit-Linker-and-Binder)
 - [Unity Markdown的UI视图渲染-UnityMarkdownViewer](https://github.com/gwaredd/UnityMarkdownViewer)
+- [Unity 基于GPU的高性能文本渲染插件-Typography](https://github.com/aiczk/Typography)
 
 </details>
 
@@ -700,6 +705,8 @@
 - [Unity 基于GPU的纹理和渲染超分解决方案-UnityXScaling](https://github.com/DevsDaddy/UnityXScaling)
 - [Unity 基于MeshSimplifier的Mesh优化工具](https://github.com/refiaa/MeshOptimizer.Unity)
 - [Unity 自能Mesh合并工具-intelligent_mesh_combiner](https://github.com/roundyyy/intelligent_mesh_combiner?)
+- [Unity 使用GPU管线渲染场景静态对象虚拟几何信息和支持三角面级别的LOD剔除-com.unity.virtualmesh](https://github.com/Unity-Technologies/com.unity.virtualmesh)
+- [Unity 优化移动平台游戏的技巧-unity-mobile-optimization](https://github.com/GuardianOfGods/unity-mobile-optimization)
 
 </details>
 </details>
@@ -714,6 +721,7 @@
 - [Unity 蒙皮顶点修改器-SkinnedVertexModifier](https://github.com/keijiro/SkinnedVertexModifier)
 - [Unity 使用CullingGroup获取视锥体最近物体](https://github.com/unitycoder/GetNearestObjectsWithCullingGroup)
 - [Unity 渲染管线模板调试工具-stencil-debugger](https://github.com/alexanderameye/stencil-debugger)
+- [Unity 实现URP管线的高清图形渲染效果-IllusionRP](https://github.com/AkiKurisu/IllusionRP)
 
 </details>
 
@@ -1013,7 +1021,6 @@
 - [Unity Editor下使用协程-unity-editor-coroutines](https://github.com/marijnz/unity-editor-coroutines)
 - [Unity 提供丰富的编辑器扩展和序列化扩展-Alchemy](https://github.com/AnnulusGames/Alchemy?)
 - [Unity 编辑器扩展工具集-Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
-- [Unity 工具栏扩展-unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender)
 - [Unity 编辑器界面扩展工具-VTools](https://github.com/VictorHHT/VTools)
 - [Unity 多态ReorderableList扩展-Unity-Editor-PolymorphicReorderableList](https://github.com/CristianQiu/Unity-Editor-PolymorphicReorderableList)
 
@@ -1022,12 +1029,14 @@
 <details open>
 <summary><h3>编辑器工具栏</h3></summary>
 
-- [Unity UGUI编辑器工具栏-ugui-toorbar](https://github.com/baba-s/ugui-toorbar)
+- [Unity UGUI编辑器工具栏-ugui-toolbar](https://github.com/baba-s/ugui-toorbar)
 - [Unity 编辑器工具栏扩展-unity-customizable-toolbar](https://github.com/baba-s/unity-customizable-toolbar)
 - [Unity 编辑器扩展工具类-UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick)
 - [Unity 编辑器扩展工具类-Tri-Inspector](https://github.com/codewriter-packages/Tri-Inspector)
 - [Unity 编辑器工具栏扩展-CustomToolbar](https://github.com/smkplus/CustomToolbar)
 - [Unity 编辑器工具栏扩展-CustomToolbar](https://github.com/Alaxxxx/CustomToolbar)
+- [Unity 工具栏扩展-unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender)
+- [Unity 工具栏扩展-toolbar-extender-ui-toolkit](https://github.com/Sammmte/unity-toolbar-extender-ui-toolkit)
 
 </details>
 
@@ -1127,6 +1136,8 @@
 - [Unity 程序化几何体网格编辑库-ProceduralGeometry](https://github.com/OlivierGuillaume/ProceduralGeometry)
 - [Unity 自动LOD生成器-Automatic-LOD-Generator](https://github.com/manaporkun/Automatic-LOD-Generator)
 - [Unity 编辑器增强工具箱-EnhancedEditor](https://github.com/TetsuoYoshima/EnhancedEditor)
+- [Unity 选择对象快速进行6方向对齐工具-object-snapper](https://github.com/AFreoN/object-snapper)
+- [Unity 2D多边形地图生成器-PolygonMapGenerator](https://github.com/p-svacha/PolygonMapGenerator)
 
 </details>
 
@@ -1206,6 +1217,7 @@
 <summary><h2>多平台</h2></summary>
 
 - [Unity 支持多平台在Unity显示Web页面的工具 unity-webview](https://github.com/gree/unity-webview?)
+- [Unity 实现移动平台Android和iOS自定义震动效果插件-Vibration](https://github.com/BenoitFreslon/Vibration)
 
 </details>
 
