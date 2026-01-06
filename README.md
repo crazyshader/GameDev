@@ -143,6 +143,7 @@
 - [Unity 基于节点的对话系统-com.studio23.ss2.dialoguesystem](https://github.com/Studio-23-xyz/com.studio23.ss2.dialoguesystem?)
 - [Unity 增强且用户友好的 Unity 对话系统插件-Descant](https://github.com/Owmacohe/Descant?)
 - [Unity 在游戏中建立交互式对话的工具-YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner)
+- [Uity 下一代游戏对话系统-Next-Gen-Dialogue](https://github.com/AkiKurisu/Next-Gen-Dialogue)
 
 </details>
 
@@ -178,6 +179,7 @@
 - [Unity 相机实时跟踪多个目标对象-unity-camera-multi-target](https://github.com/lopespm/unity-camera-multi-target?)
 - [Unity 运行时和编辑器模式简化Mesh工具-Meshia.MeshSimplification](https://github.com/RamType0/Meshia.MeshSimplification?)
 - [Unity 为对象添加状态特效的框架-StatusEffectsFramework-Unity](https://github.com/maraudical/StatusEffectsFramework-Unity?)
+- [Unity 游戏角色移动控制器-Unity-3d-Movements](https://github.com/Egecekic/Unity-3d-Movements)
 
 </details>
 
@@ -276,6 +278,7 @@
 - [C# 使用Roslyn代码分析、重构和修复库](https://github.com/JosefPihrt/Roslynator)
 - [Unity 非反射访问程序集私有方法-OpenSesameCompilerForUnity](https://github.com/mob-sakai/OpenSesameCompilerForUnity)
 - [C# 强大命令行解析库-commandline](https://github.com/commandlineparser/commandline)
+- [Unity 基于命令的任务完成框架-Unity.Mx](https://github.com/jcs090218/Unity.Mx)
 - [C# 程序集加密方案-DCNETProtector](https://github.com/DC-Applications/DCNETProtector)
 - [开源.Net反编译工具-dnSpy](https://github.com/dnSpyEx/dnSpy)
 
@@ -607,6 +610,7 @@
 - [Unity UGUI图文混排-TextInlineSprite](https://github.com/coding2233/TextInlineSprite)
 - [Unity ScrollView循环滚动优化-LoopScrollRect](https://github.com/qiankanglai/LoopScrollRect)
 - [Unity 列表视图循环利用-addcomponent-unity-recyclable-listview](https://github.com/tomazsaraiva/addcomponent-unity-recyclable-listview)
+- [Unity 高性能循环列表组件-ListView](https://github.com/MagasDeveloper/ListView)
 - [Unity 列表视图循环利用-UnityTableView](https://github.com/lilianerhan/UnityTableView)
 - [Unity UGUI动画进度条-ugui-animated-progressbar](https://github.com/baba-s/ugui-animated-progressbar)
 - [Unity 超强UGUI Scrollview扩展-ugui-super-scrollview-example](https://github.com/baba-s/ugui-super-scrollview-example)
@@ -647,6 +651,9 @@
 - [Unity 使得引用UI-Toolkit元素更加便捷-UI-Toolkit-Linker-and-Binder](https://github.com/DA-Assets/UI-Toolkit-Linker-and-Binder)
 - [Unity Markdown的UI视图渲染-UnityMarkdownViewer](https://github.com/gwaredd/UnityMarkdownViewer)
 - [Unity 基于GPU的高性能文本渲染插件-Typography](https://github.com/aiczk/Typography)
+- [Unity 在UGUI中实现组件的重试和回撤功能-Unity.UndoRedoSystem](https://github.com/jcs090218/Unity.UndoRedoSystem)
+- [Unity 实现UGUI布局组件的拖放功能-LayoutElementDrag](https://github.com/manaporkun/LayoutElementDrag)
+- [Unity 在UGUI中实现富文本组件-SSRichText](https://github.com/SlipperSoar/SSRichText)
 
 </details>
 
@@ -737,6 +744,7 @@
 - [Unity 自定义渲染管线学习](https://github.com/What-a-stupid-username/RP)
 - [Unity GPU驱动管线-Unity-GPU-Driven-Pipeline](https://github.com/MaxwellGengYF?tab=repositories)
 - [Unity 基于SRP的自定义渲染管线-NoesisRender](https://github.com/5a5ha111/NoesisRender?)
+- [Unity 基于URP实现路径追踪-CustomRayTracing](https://github.com/Andyfanshen/CustomRayTracing)
 
 </details>
 
@@ -906,6 +914,7 @@
 - [Unity 简单的动画播放系统-unity-animation-system](https://github.com/amirhoseinjfri/unity-animation-system)
 - [Unity 类似DOTween的动画框架-tools-motion-kit](https://github.com/cocodrilodog/tools-motion-kit)
 - [Unity 优化拖尾Trial的组件-Unity-SmoothLineTrail](https://github.com/Yword/Unity-SmoothLineTrail)
+- [Unity 适用于2D游戏的Animator-Unity-2D-Sprite-Animator](https://github.com/GabrielBigardi/Unity-2D-Sprite-Animator)
 
 </details>
 </details>
@@ -959,6 +968,7 @@
 - [Unity 接入DeepSeek的工具包](https://github.com/UnityGameStudio/DeepSeek-Unity)
 - [Unity NavMesh代理之间避障功能-NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance)
 - [Unity 动态AI决策智能代理系统-Unity-Utility-AI](https://github.com/adammyhre/Unity-Utility-AI)
+- [Unity 基于AI驱动的AnimationClip和AnimationController创建和管理-Unity-AI-Animation](https://github.com/IvanMurzak/Unity-AI-Animation)
 
 </details>
 
@@ -1007,6 +1017,7 @@
 - [Unity 海洋水系统-Ceto](https://github.com/Scrawk/Ceto)
 - [Unity 特效Graph资源库-VfxGraphAssets](https://github.com/keijiro/VfxGraphAssets)
 - [Unity 风格化Uber水效果-Uber-Stylized-Water](https://github.com/MatrixRex/Uber-Stylized-Water)
+- [Unity 基于URP实现体积光效果-Unity-URP-Volumetric-Light](https://github.com/CristianQiu/Unity-URP-Volumetric-Light)
 
 </details>
 
@@ -1155,6 +1166,7 @@
 - [Unity 运行时颜色拾取器-In-Game-Color-Picker-For-Unity](https://github.com/XeniaPhe/In-Game-Color-Picker-For-Unity?)
 - [Unity 用于从Android和iOS上导入/导出文件-UnityNativeFilePicker](https://github.com/yasirkula/UnityNativeFilePicker?)
 - [Unity 跨平台的文件打开和保存框架-nativefileso](https://github.com/keiwando/nativefileso)
+- [Unity 运行时对象位置方向和大小变换器-UnityRuntimeTransformHandles](https://github.com/manaporkun/UnityRuntimeTransformHandles)
 
 </details>
 
@@ -1174,6 +1186,8 @@
 - [Unity 项目纹理和图集分析工具-Unity-Textures-Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter?)
 - [Unity 多通道纹理组合打包工具-SmartTexture](https://github.com/mattdevv/SmartTexture)
 - [Unity 通过纹理元数据导入器生成纹理-Metatex](https://github.com/keijiro/Metatex)
+- [基于GPU的程序化纹理创建工具-texturelab](https://github.com/njbrown/texturelab)
+- [Unity 纹理通道贴图合并工具-TextureMerge](https://github.com/fidifis/TextureMerge)
 
 </details>
 
@@ -1209,6 +1223,7 @@
 - [Unity SDF生成操作方案-SdfManipulator](https://github.com/T3sT3ro/SdfManipulator?)
 - [Unity 几何网格点云渲染框架-Unity_Geometry_Sequence_Player](https://github.com/BuildingVolumes/Unity_Geometry_Sequence_Player)
 - [Unity 使用git工具合并场景和预制件的插件-GitMerge-for-Unity](https://github.com/FlaShG/GitMerge-for-Unity)
+- [Unity 强大的程序化树创建工具-MTree](https://github.com/Warwlock/MTree)
 
 </details>
 </details>
@@ -1218,6 +1233,7 @@
 
 - [Unity 支持多平台在Unity显示Web页面的工具 unity-webview](https://github.com/gree/unity-webview?)
 - [Unity 实现移动平台Android和iOS自定义震动效果插件-Vibration](https://github.com/BenoitFreslon/Vibration)
+- [Unity 设置鼠标光标位置和模拟点击事件的工具-UnityCursorControl](https://github.com/zlnvch/UnityCursorControl)
 
 </details>
 
