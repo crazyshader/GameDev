@@ -175,6 +175,7 @@
 - [Unity Linq遍历GameObject的层次结构-LINQ-to-GameObject-for-Unity](https://github.com/neuecc/LINQ-to-GameObject-for-Unity?)
 - [Unity Android和IOS权限申请框架-permissions-kit](https://github.com/voxelbusters/permissions-kit)
 - [Unity 可视化状态机-VisualStateMachineV2](https://github.com/PaulNonatomic/VisualStateMachineV2?)
+- [Unity 泛型类型有限状态机-GTFSM](https://github.com/DFTGames/GTFSM)
 - [Unity 微软可视化Mesh工具包-Mesh-Toolkit-Unity](https://github.com/microsoft/Mesh-Toolkit-Unity?)
 - [Unity 相机实时跟踪多个目标对象-unity-camera-multi-target](https://github.com/lopespm/unity-camera-multi-target?)
 - [Unity 运行时和编辑器模式简化Mesh工具-Meshia.MeshSimplification](https://github.com/RamType0/Meshia.MeshSimplification?)
@@ -421,6 +422,7 @@
 - [Unity 打包工具-ProjectBuilder](https://github.com/mob-sakai/ProjectBuilder)
 - [Unity 命令行打包Package-UnityPacker](https://github.com/FatihBAKIR/UnityPacker)
 - [Unity Jenkins打包插件-unity3d-plugin](https://github.com/jenkinsci/unity3d-plugin)
+- [Unity 快速使用Jenkins进行项目打包-Build-Unity-Projects-with-Jenkins](https://github.com/AnhPham/Build-Unity-Projects-with-Jenkins)
 - [Unity 游戏构建插件-unity-build](https://github.com/Chaser324/unity-build)
 - [Unity unity-build插件扩展 unity-build-actions](https://github.com/Chaser324/unity-build-actions)
 - [Unity 命令行参数解析类-CommandLineCustomArguments](https://github.com/EpixCode/CommandLineCustomArguments)
@@ -563,6 +565,7 @@
 - [Unity 具有绑定器的MVVM框架-Mace](https://github.com/Aleshmandr/Mace)
 - [Unity 强大MVVM框架-Uice](https://github.com/Aleshmandr/Uice)
 - [Unity 简单易用的MVVM框架-UniGame.ViewSystem](https://github.com/UnioGame/UniGame.ViewSystem)
+- [Unity 基于UGUI的UI框架-KoboldUiFramework](https://github.com/KienanUnique/KoboldUiFramework)
 - 
 </details>
 
@@ -654,6 +657,7 @@
 - [Unity 在UGUI中实现组件的重试和回撤功能-Unity.UndoRedoSystem](https://github.com/jcs090218/Unity.UndoRedoSystem)
 - [Unity 实现UGUI布局组件的拖放功能-LayoutElementDrag](https://github.com/manaporkun/LayoutElementDrag)
 - [Unity 在UGUI中实现富文本组件-SSRichText](https://github.com/SlipperSoar/SSRichText)
+- [Unity 基于UGUI的UI布局系统-uLayout](https://github.com/pokeblokdude/uLayout)
 
 </details>
 
@@ -745,6 +749,7 @@
 - [Unity GPU驱动管线-Unity-GPU-Driven-Pipeline](https://github.com/MaxwellGengYF?tab=repositories)
 - [Unity 基于SRP的自定义渲染管线-NoesisRender](https://github.com/5a5ha111/NoesisRender?)
 - [Unity 基于URP实现路径追踪-CustomRayTracing](https://github.com/Andyfanshen/CustomRayTracing)
+- [Unity 基于URP的写实渲染技能-VividRP](https://github.com/af8a2a/VividRP)
 
 </details>
 
@@ -769,6 +774,7 @@
 - [Unity 对象快速描边-QuickOutline](https://github.com/chrisnolet/QuickOutline)
 - [Unity 后处理描边方案-Unity-URP-Outline](https://github.com/CristianQiu/Unity-URP-Outline?)
 - [Unity 基于内置渲染管线的卡通效果-PoiyomiToonShader](https://github.com/poiyomi/PoiyomiToonShader?)
+- [Unity 基于URP的后处理描边方案-unity-urp-outline-postprocess](https://github.com/tantaneity/unity-urp-outline-postprocess)
 
 </details>
 
@@ -839,12 +845,14 @@
 - [Unity 支持多种类型雾效的URP框架-URPFog](https://github.com/meryuhi/URPFog?)
 - [Unity 基于GPU的BVH实现-ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit?)
 - [Unity 草和毛发渲染的解决方案-GrassAndFur](https://github.com/Propagant/Unity-GrassAndFur?)
+- [Unity 写实程序化草地渲染系统-Project-GrassFlow](https://github.com/Mithzzx/Project-GrassFlow)
 - [Unity 屏幕空间的全局光照-UnitySSGIURP](https://github.com/jiaozi158/UnitySSGIURP)
 - [Unity 实现顺序无关的透明度效果-oit-unity](https://github.com/happy-turtle/oit-unity?)
 - [Unity 比Unity内置渲染效果更好的Shader-GeneLit](https://github.com/momoma-null/GeneLit?)
 - [Unity 类似ShaderGraph的Shader编辑器-Graphlit](https://github.com/z3y/Graphlit?)
 - [Unity 基于URP的屏幕空间全局光照SSGI-unity-poor-gi](https://github.com/alexmalyutindev/unity-poor-gi)
 - [Unity 免费技术美术Shader资源库-ShaderStory](https://github.com/DeGGeD/ShaderStory)
+- [HLSL/GLSL的调试库-ShaderToHuman](https://github.com/electronicarts/ShaderToHuman)
 
 </details>
 
@@ -915,6 +923,7 @@
 - [Unity 类似DOTween的动画框架-tools-motion-kit](https://github.com/cocodrilodog/tools-motion-kit)
 - [Unity 优化拖尾Trial的组件-Unity-SmoothLineTrail](https://github.com/Yword/Unity-SmoothLineTrail)
 - [Unity 适用于2D游戏的Animator-Unity-2D-Sprite-Animator](https://github.com/GabrielBigardi/Unity-2D-Sprite-Animator)
+- [Unity 支持UI的类似DoTween的动画插件-AmaMotionAutomatiser](https://github.com/TasDeNeige/AmaMotionAutomatiser)
 
 </details>
 </details>
@@ -939,6 +948,7 @@
 - [Unity 功能强大的物理交互框架-Interactions](https://github.com/Shababeek/Interactions)
 - [Unity 简单的弹簧物理模拟-SimpleUnitySprings](https://github.com/mashlol/SimpleUnitySprings)
 - [Unity 物理风模拟效果-wind-simulation](https://github.com/robertrumney/wind-simulation)
+- [Unity 实现绳索、布料和软体的物理效果-UnitySimplePhysics](https://github.com/JohannHotzel/UnitySimplePhysics)
 
 </details>
 
@@ -969,6 +979,7 @@
 - [Unity NavMesh代理之间避障功能-NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance)
 - [Unity 动态AI决策智能代理系统-Unity-Utility-AI](https://github.com/adammyhre/Unity-Utility-AI)
 - [Unity 基于AI驱动的AnimationClip和AnimationController创建和管理-Unity-AI-Animation](https://github.com/IvanMurzak/Unity-AI-Animation)
+- [Unity 基于A*寻路的组队方案-Unity-Formation-Movement-AStar](https://github.com/Flameshot/Unity-Formation-Movement-AStar)
 
 </details>
 
@@ -1149,6 +1160,7 @@
 - [Unity 编辑器增强工具箱-EnhancedEditor](https://github.com/TetsuoYoshima/EnhancedEditor)
 - [Unity 选择对象快速进行6方向对齐工具-object-snapper](https://github.com/AFreoN/object-snapper)
 - [Unity 2D多边形地图生成器-PolygonMapGenerator](https://github.com/p-svacha/PolygonMapGenerator)
+- [Unity 通过自然语言进行ProBuilder建模的工具-Unity-AI-ProBuilder](https://github.com/IvanMurzak/Unity-AI-ProBuilder)
 
 </details>
 
@@ -1161,6 +1173,7 @@
 - [Unity 编辑器和运行时模型简化插件-UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier)
 - [Unity 实时模型绘制-RealTime Painting](https://assetstore.unity.com/packages/templates/tutorials/realtime-painting-33506?aid=1101lSqC&utm_source=aff)
 - [Unity 运行时地形编辑-RuntimeTerrainEditor](https://github.com/xdedzl/RuntimeTerrainEditor)
+- [Unity 运行时地形编辑-UnityRuntimeTerrain](https://github.com/JohannHotzel/UnityRuntimeTerrain)
 - [Unity 运行时程序生成Mesh框架-BMeshUnity](https://github.com/eliemichel/BMeshUnity?)
 - [Unity 运行时游戏调试的工具-UnityExplorer](https://github.com/sinai-dev/UnityExplorer))
 - [Unity 运行时颜色拾取器-In-Game-Color-Picker-For-Unity](https://github.com/XeniaPhe/In-Game-Color-Picker-For-Unity?)
@@ -1188,6 +1201,7 @@
 - [Unity 通过纹理元数据导入器生成纹理-Metatex](https://github.com/keijiro/Metatex)
 - [基于GPU的程序化纹理创建工具-texturelab](https://github.com/njbrown/texturelab)
 - [Unity 纹理通道贴图合并工具-TextureMerge](https://github.com/fidifis/TextureMerge)
+- [Unity 非破坏性的实时纹理颜色重建-Color-Changer-For-Unity](https://github.com/puk06/Color-Changer-For-Unity)
 
 </details>
 
@@ -1224,7 +1238,11 @@
 - [Unity 几何网格点云渲染框架-Unity_Geometry_Sequence_Player](https://github.com/BuildingVolumes/Unity_Geometry_Sequence_Player)
 - [Unity 使用git工具合并场景和预制件的插件-GitMerge-for-Unity](https://github.com/FlaShG/GitMerge-for-Unity)
 - [Unity 强大的程序化树创建工具-MTree](https://github.com/Warwlock/MTree)
-
+- [Unity 使用MaliOfflineShaderCompiler的离线Shader分析工具-offline-shader-analysis](https://github.com/eldnach/offline-shader-analysis)
+- [Unity 继承ComfyUI工具-Unity-ComfyUI](https://github.com/stavrosdidakis/Unity-ComfyUI)
+- [Unity Git hook确保提交资源一致-unity-git-hooks](https://github.com/doitian/unity-git-hooks)
+- [程序化创建树-EZ Tree ](https://www.eztree.dev/)
+- 
 </details>
 </details>
 
@@ -1261,6 +1279,8 @@
 - [Unity 开源实时车辆物理实现项目-TORSION-Community-Edition](https://github.com/LemonMontage420/TORSION-Community-Edition?)
 - [Unity 高性能动态城市交通管理工具包-Traffic-Toolkit-DOTS](https://github.com/pekaram/Traffic-Toolkit-DOTS)
 - [Unity 使用Mirror网络解决方案实现的FPS游戏-MirrorUnityFPS](https://github.com/TzeC94/MirrorUnityFPS)
+- [Unity 高性能GPU加速渲染的即时策略游戏项目-Archon-Engine](https://github.com/ForgottenHistory/Archon-Engine)
+- [Unity 赛车游戏AI行为和决策系统-Unity-Game-Race-Ai](https://github.com/HTANV/Unity-Game-Race-Ai)
 
 </details>
 
