@@ -731,8 +731,6 @@
 - [Unity 深度投影到世界和相机坐标系-DepthInverseProjection](https://github.com/a3geek/Bloom/blob/master/Assets/PostEffects/Shaders/Bloom.shader?1547650334723)
 - [Unity 蒙皮顶点修改器-SkinnedVertexModifier](https://github.com/keijiro/SkinnedVertexModifier)
 - [Unity 使用CullingGroup获取视锥体最近物体](https://github.com/unitycoder/GetNearestObjectsWithCullingGroup)
-- [Unity 渲染管线模板调试工具-stencil-debugger](https://github.com/alexanderameye/stencil-debugger)
-- [Unity 实现URP管线的高清图形渲染效果-IllusionRP](https://github.com/AkiKurisu/IllusionRP)
 
 </details>
 
@@ -750,6 +748,9 @@
 - [Unity 基于SRP的自定义渲染管线-NoesisRender](https://github.com/5a5ha111/NoesisRender?)
 - [Unity 基于URP实现路径追踪-CustomRayTracing](https://github.com/Andyfanshen/CustomRayTracing)
 - [Unity 基于URP的写实渲染技能-VividRP](https://github.com/af8a2a/VividRP)
+- [Unity 渲染管线模板调试工具-stencil-debugger](https://github.com/alexanderameye/stencil-debugger)
+- [Unity 实现URP管线的高清图形渲染效果-IllusionRP](https://github.com/AkiKurisu/IllusionRP)
+- [Unity 使用URP前向渲染实现Forward+渲染功能-ForwardPlusURP](https://github.com/AkilarLiao/ForwardPlusURP)
 
 </details>
 
@@ -853,6 +854,7 @@
 - [Unity 基于URP的屏幕空间全局光照SSGI-unity-poor-gi](https://github.com/alexmalyutindev/unity-poor-gi)
 - [Unity 免费技术美术Shader资源库-ShaderStory](https://github.com/DeGGeD/ShaderStory)
 - [HLSL/GLSL的调试库-ShaderToHuman](https://github.com/electronicarts/ShaderToHuman)
+- [Unity 使用DrawMeshInstancedIndirect和WeightMap实现程序化草渲染-UnityURP-Procedural-DrawMeshInstancedIndirect](https://github.com/AkilarLiao/UnityURP-Procedural-DrawMeshInstancedIndirect)
 
 </details>
 
@@ -1084,6 +1086,7 @@
 - [Unity Inspector属性扩展-EditorAttributes](https://github.com/v0lt13/EditorAttributes?)
 - [Unity 实现Inspector引用属性内联编辑-ReferenceFieldTweaker](https://github.com/AbdrahmanSoliman/ReferenceFieldTweaker)
 - [Unity Inspector属性扩展-UnityInspectorUtils](https://github.com/qweasfjbv/UnityInspectorUtils?)
+- [Unity 运行时Inspector工具-UnityInspectorStandalone](https://github.com/PicoShot/UnityInspectorStandalone)
 
 </details>
 
