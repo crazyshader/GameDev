@@ -93,6 +93,10 @@
 - [Unity 轻量级模块化时间控制系统-game-core-time-channels](https://github.com/BcoffeeDev/game-core-time-channels)
 - [Unity 游戏开发调试和优化的工具库-ReplayLib](https://github.com/radif/ReplayLib)
 - [Unity 高效、灵活和专业的开发框架-Chris](https://github.com/AkiKurisu/Chris)
+- [Unity 实现类型虚幻的GamePlay框架-UnityStarter](https://github.com/MaiKuraki/UnityStarter/tree/main)
+- [Unity 开源RPG游戏框架-AnyRPGCore](https://github.com/AnyRPG/AnyRPGCore)
+- [Unity 捕获所有游戏异常和错误的工具-SimpleTools-RuntimeCrashHandler](https://github.com/ligofff/SimpleTools-RuntimeCrashHandler)
+- [Unity 一个基于 Unity C# 脚本的基于对象的服务定位器-ServiceLocator](https://github.com/PaulNonatomic/ServiceLocator)
 
 </details>
 
@@ -282,6 +286,7 @@
 - [Unity 基于命令的任务完成框架-Unity.Mx](https://github.com/jcs090218/Unity.Mx)
 - [C# 程序集加密方案-DCNETProtector](https://github.com/DC-Applications/DCNETProtector)
 - [开源.Net反编译工具-dnSpy](https://github.com/dnSpyEx/dnSpy)
+- [Unity 类似虚幻命令控制台工具-DxCommandTerminal](https://github.com/wallstop/DxCommandTerminal)
 
 </details>
 
@@ -484,6 +489,7 @@
 - [Unity 管理、可视化和操作来自 ScriptableObjects 的表格数据-TableForge](https://github.com/JoseGomis299/TableForge)
 - [Unity 实现点状、曲线和饼状图形框架-UIT_Charts](https://github.com/noirb/UIT_Charts)
 - [Unity 从Google Sheet导入数据并生成代码和Json-TabbySheet](https://github.com/MyNameIsDabin/TabbySheet)
+- [Unity 一个轻量级支持变量、自定义数据模型和可选加密的PlayerPrefs系统-Unity-PlayerPrefsEx](https://github.com/IvanMurzak/Unity-PlayerPrefsEx)
 
 </details>
 
@@ -751,6 +757,7 @@
 - [Unity 渲染管线模板调试工具-stencil-debugger](https://github.com/alexanderameye/stencil-debugger)
 - [Unity 实现URP管线的高清图形渲染效果-IllusionRP](https://github.com/AkiKurisu/IllusionRP)
 - [Unity 使用URP前向渲染实现Forward+渲染功能-ForwardPlusURP](https://github.com/AkilarLiao/ForwardPlusURP)
+- [Unity 一个内置于 Unity URP 中的实时路径追踪渲染系统-UnityPathTracing](https://github.com/Kuan-Mi/UnityPathTracing)
 
 </details>
 
@@ -982,6 +989,9 @@
 - [Unity 动态AI决策智能代理系统-Unity-Utility-AI](https://github.com/adammyhre/Unity-Utility-AI)
 - [Unity 基于AI驱动的AnimationClip和AnimationController创建和管理-Unity-AI-Animation](https://github.com/IvanMurzak/Unity-AI-Animation)
 - [Unity 基于A*寻路的组队方案-Unity-Formation-Movement-AStar](https://github.com/Flameshot/Unity-Formation-Movement-AStar)
+- [Unity 实现类似虚幻EQS系统-Unity-Environment-Query-System](https://github.com/adammyhre/Unity-Environment-Query-System)
+- [Unity 支持各种AI大模型的Skills-Unity-Skills](https://github.com/Besty0728/Unity-Skills/tree/main)
+- [Unity 在Claude Code中通过cli操作unity-cli](https://github.com/akiojin/unity-cli)
 
 </details>
 
@@ -1164,6 +1174,7 @@
 - [Unity 选择对象快速进行6方向对齐工具-object-snapper](https://github.com/AFreoN/object-snapper)
 - [Unity 2D多边形地图生成器-PolygonMapGenerator](https://github.com/p-svacha/PolygonMapGenerator)
 - [Unity 通过自然语言进行ProBuilder建模的工具-Unity-AI-ProBuilder](https://github.com/IvanMurzak/Unity-AI-ProBuilder)
+- [Unity 一款轻量级的用于跟踪资源引用工具-reference-radar](https://github.com/BroEngine/reference-radar)
 
 </details>
 
@@ -1205,6 +1216,7 @@
 - [基于GPU的程序化纹理创建工具-texturelab](https://github.com/njbrown/texturelab)
 - [Unity 纹理通道贴图合并工具-TextureMerge](https://github.com/fidifis/TextureMerge)
 - [Unity 非破坏性的实时纹理颜色重建-Color-Changer-For-Unity](https://github.com/puk06/Color-Changer-For-Unity)
+- [Unity 运行时图集打包工具-UnityRuntimeCompressedTexturePacker](https://github.com/wotakuro/UnityRuntimeCompressedTexturePacker)
 
 </details>
 
@@ -1245,6 +1257,11 @@
 - [Unity 继承ComfyUI工具-Unity-ComfyUI](https://github.com/stavrosdidakis/Unity-ComfyUI)
 - [Unity Git hook确保提交资源一致-unity-git-hooks](https://github.com/doitian/unity-git-hooks)
 - [程序化创建树-EZ Tree ](https://www.eztree.dev/)
+- [Unity 控制Unity何时编译的工具-UnityFastCompiler](https://github.com/Kekko16004/UnityFastCompiler)
+- [Unity 无需MCP、Python或任何其他依赖项通过命令行控制Unity编辑器-unity-cli](https://github.com/youngwoocho02/unity-cli)
+- [Unity 自动完成编译、测试、调试直到任务完成-unity-cli-loop](https://github.com/hatayama/unity-cli-loop)
+- [Unity 包含147个AI工具的MCP-unity-mcp-pro-plugin](https://github.com/youichi-uda/unity-mcp-pro-plugin)
+- [Unity 包含268个AI工具的MCP-unity-mcp-server](https://github.com/AnkleBreaker-Studio/unity-mcp-server)
 - 
 </details>
 </details>
@@ -1298,5 +1315,8 @@
 - [Git的奇技淫巧-git-tips](https://github.com/521xueweihan/git-tips)
 - [Unity编辑器内使用Git可视化工具-UnityGitUI](https://github.com/mrtrizer/UnityGitUI)
 - [Unity国际版下载站-NoUnityCN](https://www.nounitycn.top/)
+- [Unity 清理项目Library的缓存文件-UnityLibrariesCleaner](https://github.com/JonathanTremblay/UnityLibrariesCleaner)
+- [Unity 通过AI将任何游戏翻译成指定语言-GameStringer](https://github.com/rouges78/GameStringer)
+- [Unity ShaderLab格式化VSCode插件-ShaderLabFormatter](https://github.com/litefeel/ShaderLabFormatter)
 
 </details>
