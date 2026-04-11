@@ -125,6 +125,7 @@
 - [Unity 使用PubSub模式和响应式编程原则管理游戏内事件的简单解决方案](https://github.com/DevsDaddy/UnityEventFramework)
 - [Unity 支持多种模式的通用事件系统-UnityEventBus](https://github.com/NullTale/UnityEventBus?)
 - [Unity 基于ScriptableObject的事件系统-Unity-Scriptable-Events](https://github.com/Jason-Skillman/Unity-Scriptable-Events?)
+- [Unity 一个高性能、零垃圾回收且基于属性的事件库-GenEvent](https://github.com/Puring103/GenEvent)
 
 </details>
 
@@ -148,6 +149,7 @@
 - [Unity 增强且用户友好的 Unity 对话系统插件-Descant](https://github.com/Owmacohe/Descant?)
 - [Unity 在游戏中建立交互式对话的工具-YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner)
 - [Uity 下一代游戏对话系统-Next-Gen-Dialogue](https://github.com/AkiKurisu/Next-Gen-Dialogue)
+- [Unity 适用于游戏强大且可扩展的对话框架-Ibralogue](https://github.com/Ibralogue/Ibralogue)
 
 </details>
 
@@ -606,6 +608,7 @@
 - [Unity TextMeshPro帮助工具包-TextMeshProMax](https://github.com/kwan3854/TextMeshProMax?)
 - [Unity 为UI精灵烘焙阴影的工具-UIEffectsBaker](https://github.com/unitycoder/UIEffectsBaker)
 - [Unity 字体效果预览工具-Fontastic](https://github.com/unitycoder/Fontastic)
+- [Unity 将AI生成的HTML原型转换为Unity UGUI界面-HTML-to-UGUI-Baker](https://github.com/mrrizzs/HTML-to-UGUI-Baker)
 
 </details>
 
@@ -685,6 +688,7 @@
 - [Unity 支持编辑器和运行时绘制实用程序-Unity-DebugX](https://github.com/DCFApixels/Unity-DebugX?)
 - [Unity 使用 ImGui.NET 的即时模式 GUI 库的 UPM 包-uimgui](https://github.com/psydack/uimgui?)
 - [Unity 运行时日志系统-Realtime In Game Log Console](https://assetstore.unity.com/packages/tools/gui/realtime-in-game-log-console-212758)
+- [Unity 官方资源数据分析工具-UnityDataTools](https://github.com/Unity-Technologies/UnityDataTools)
 
 </details>
 
