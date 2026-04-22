@@ -97,6 +97,7 @@
 - [Unity 开源RPG游戏框架-AnyRPGCore](https://github.com/AnyRPG/AnyRPGCore)
 - [Unity 捕获所有游戏异常和错误的工具-SimpleTools-RuntimeCrashHandler](https://github.com/ligofff/SimpleTools-RuntimeCrashHandler)
 - [Unity 一个基于 Unity C# 脚本的基于对象的服务定位器-ServiceLocator](https://github.com/PaulNonatomic/ServiceLocator)
+- [Unity 一个模块化的Unity实用工具包-Unity-Game-Utilities](https://github.com/mRemAiello/Unity-Game-Utilities)
 
 </details>
 
@@ -1266,6 +1267,7 @@
 - [Unity 自动完成编译、测试、调试直到任务完成-unity-cli-loop](https://github.com/hatayama/unity-cli-loop)
 - [Unity 包含147个AI工具的MCP-unity-mcp-pro-plugin](https://github.com/youichi-uda/unity-mcp-pro-plugin)
 - [Unity 包含268个AI工具的MCP-unity-mcp-server](https://github.com/AnkleBreaker-Studio/unity-mcp-server)
+- [Unity 专为Unity编辑器打造的先进MCP服务器-funplay-unity-mcp](https://github.com/FunplayAI/funplay-unity-mcp)
 - 
 </details>
 </details>
