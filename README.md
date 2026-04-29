@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/crazyshader-gamedev-badge.png)](https://mseep.ai/app/crazyshader-gamedev)
+
 # 游戏开发
 
 <details open>
