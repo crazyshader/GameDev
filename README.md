@@ -714,6 +714,7 @@
 - [Unity 游戏内显示控制台调试等信息工具-UnityInGameConsole](https://github.com/ArtOfSettling/UnityInGameConsole?)
 - [Unity 游戏内控制台日志显示工具-UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole?)
 - [Unity 基于UIToolkit界面美观的性能监视器-UniStats](https://github.com/witalosk/UniStats)
+- [Unity 性能分析工具-Unity-Performance-Profiler](https://github.com/AybarsBarut/Unity-Performance-Profiler)
 
 </details>
 
@@ -867,6 +868,7 @@
 - [Unity 免费技术美术Shader资源库-ShaderStory](https://github.com/DeGGeD/ShaderStory)
 - [HLSL/GLSL的调试库-ShaderToHuman](https://github.com/electronicarts/ShaderToHuman)
 - [Unity 使用DrawMeshInstancedIndirect和WeightMap实现程序化草渲染-UnityURP-Procedural-DrawMeshInstancedIndirect](https://github.com/AkilarLiao/UnityURP-Procedural-DrawMeshInstancedIndirect)
+- [Unity ShaderLab和HLSL解析工具-UnityShaderParser](https://github.com/pema99/UnityShaderParser)
 
 </details>
 
@@ -1046,6 +1048,7 @@
 - [Unity 特效Graph资源库-VfxGraphAssets](https://github.com/keijiro/VfxGraphAssets)
 - [Unity 风格化Uber水效果-Uber-Stylized-Water](https://github.com/MatrixRex/Uber-Stylized-Water)
 - [Unity 基于URP实现体积光效果-Unity-URP-Volumetric-Light](https://github.com/CristianQiu/Unity-URP-Volumetric-Light)
+- [Unity 为SkinMesh进行贴画-SkinnedMeshDecals](https://github.com/naelstrof/SkinnedMeshDecals)
 
 </details>
 
@@ -1307,6 +1310,7 @@
 - [Unity 使用Mirror网络解决方案实现的FPS游戏-MirrorUnityFPS](https://github.com/TzeC94/MirrorUnityFPS)
 - [Unity 高性能GPU加速渲染的即时策略游戏项目-Archon-Engine](https://github.com/ForgottenHistory/Archon-Engine)
 - [Unity 赛车游戏AI行为和决策系统-Unity-Game-Race-Ai](https://github.com/HTANV/Unity-Game-Race-Ai)
+- [Unity 免费MMORPG框架-Free-MMORPG]()
 
 </details>
 
