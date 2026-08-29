@@ -97,6 +97,7 @@
 - [Unity 开源RPG游戏框架-AnyRPGCore](https://github.com/AnyRPG/AnyRPGCore)
 - [Unity 捕获所有游戏异常和错误的工具-SimpleTools-RuntimeCrashHandler](https://github.com/ligofff/SimpleTools-RuntimeCrashHandler)
 - [Unity 一个基于 Unity C# 脚本的基于对象的服务定位器-ServiceLocator](https://github.com/PaulNonatomic/ServiceLocator)
+- [跨引擎双端游戏框架（AI 协作友好）-GameFrameX](https://github.com/GameFrameX/GameFrameX)
 - [Unity 一个模块化的Unity实用工具包-Unity-Game-Utilities](https://github.com/mRemAiello/Unity-Game-Utilities)
 
 </details>
